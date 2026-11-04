@@ -1,0 +1,11 @@
+{
+ "updated": null,
+ "demo": true,
+ "status": [],
+ "articles": [
+  {"title": "Open Quanta Magazine", "link": "https://www.quantamagazine.org/", "excerpt": "Demo card. Real headlines appear after the first automatic update.", "date": null, "source": "Quanta Magazine", "topic": "Math & Science"},
+  {"title": "Open Our World in Data", "link": "https://ourworldindata.org/", "excerpt": "Demo card. Real headlines appear after the first automatic update.", "date": null, "source": "Our World in Data", "topic": "Data"},
+  {"title": "Open World Bank Blogs", "link": "https://blogs.worldbank.org/", "excerpt": "Demo card. Real headlines appear after the first automatic update.", "date": null, "source": "World Bank Blogs", "topic": "Economy"},
+  {"title": "Open freeCodeCamp News", "link": "https://www.freecodecamp.org/news/", "excerpt": "Demo card. Real headlines appear after the first automatic update.", "date": null, "source": "freeCodeCamp", "topic": "Tech"}
+ ]
+}

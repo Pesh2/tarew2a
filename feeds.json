@@ -1,0 +1,8 @@
+[
+  {"name": "Quanta Magazine", "topic": "Math & Science", "url": "https://api.quantamagazine.org/feed/"},
+  {"name": "Our World in Data", "topic": "Data", "url": "https://ourworldindata.org/atom.xml"},
+  {"name": "World Bank Blogs", "topic": "Economy", "url": "https://blogs.worldbank.org/en/rss.xml"},
+  {"name": "freeCodeCamp", "topic": "Tech", "url": "https://www.freecodecamp.org/news/rss/"},
+  {"name": "MIT News", "topic": "Tech", "url": "https://news.mit.edu/rss/feed"},
+  {"name": "Distill", "topic": "Data", "url": "https://distill.pub/rss.xml"}
+]
