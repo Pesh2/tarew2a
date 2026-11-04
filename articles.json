@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T21:11:40.827267+00:00",
+ "updated": "2026-11-04T21:24:18.568318+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -30,9 +30,79 @@
    "source": "Distill",
    "ok": true,
    "count": 12
+  },
+  {
+   "source": "BBC Business",
+   "ok": true,
+   "count": 12
+  },
+  {
+   "source": "Harvard Business Review",
+   "ok": false,
+   "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+  },
+  {
+   "source": "Marginal Revolution",
+   "ok": true,
+   "count": 12
+  },
+  {
+   "source": "Brookings",
+   "ok": false,
+   "error": "undefined entity: line 57, column 0"
+  },
+  {
+   "source": "Federal Reserve",
+   "ok": true,
+   "count": 12
+  },
+  {
+   "source": "FRED Blog",
+   "ok": true,
+   "count": 12
   }
  ],
  "articles": [
+  {
+   "title": "What Drives Censorship on College Campuses?",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/what-drives-censorship-on-college-campuses.html?utm_source=rss&utm_medium=rss&utm_campaign=what-drives-censorship-on-college-campuses",
+   "excerpt": "There has been widespread concern about self-censorship on university campuses, and especially that conservative voices are being stifled. Using survey data from a private elite college, we show that self-censorship is…",
+   "date": "2026-11-04T19:58:38+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Poundland owner in crunch talks as retailer's collapse looms",
+   "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
+   "date": "2026-11-04T19:44:46+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
+   "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The cereal giant has changed the recipes for Rice Krispies and Coco Pops, sparking a backlash online.",
+   "date": "2026-11-04T19:38:53+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Wednesday assorted links",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/wednesday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-578",
+   "excerpt": "1. Important people in the AI world. 2. Ted Nordhaus on Bill Nordhaus. 3. “That universities facilitate broader political mobilization can explain why governments often seek to restrict student activism.” 4. NYT…",
+   "date": "2026-11-04T16:48:24+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
+   "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The billionaire's political action committee (Pac) contributed $47m (£35m) to Ken Paxton's campaign.",
+   "date": "2026-11-04T15:51:37+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
   {
    "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
    "link": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
@@ -48,6 +118,54 @@
    "date": "2026-11-04T14:25:00-05:00",
    "source": "MIT News",
    "topic": "Tech"
+  },
+  {
+   "title": "What's happening to UK interest rates and what does it mean for mortgages?",
+   "link": "https://www.bbc.co.uk/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.",
+   "date": "2026-11-04T10:47:31+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "The election",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/the-election.html?utm_source=rss&utm_medium=rss&utm_campaign=the-election",
+   "excerpt": "Procedurally it seems to have gone just fine, and the people predicting “the end of democracy in America” now look foolish. They have been suffering under fundamental misunderstandings of how this country works. During…",
+   "date": "2026-11-04T07:41:25+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Swim and gym prices set to rise above inflation",
+   "link": "https://www.bbc.co.uk/news/articles/c6pvgw8gz1k4o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The rises would impact Perdiswell, St John's Sports Centre and Nunnery Wood Sports Complex.",
+   "date": "2026-11-04T06:13:19+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Trade and the end of antiquity, or did Islam serve to deglobalize the world?",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/trade-and-the-end-of-antiquity-or-did-islam-serve-to-deglobalize-the-world.html?utm_source=rss&utm_medium=rss&utm_campaign=trade-and-the-end-of-antiquity-or-did-islam-serve-to-deglobalize-the-world",
+   "excerpt": "How did trade and economic activity evolve at the End of Antiquity, when political power shifts away from the Mediterranean towards the Middle East and northern Europe? No records of ancient production, consumption, and…",
+   "date": "2026-11-04T05:54:16+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Canva announces major job cuts after 'our hardest year yet'",
+   "link": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "CEO Melanie Perkins says more than 1,000 staff will either lose their jobs or be asked to change roles.",
+   "date": "2026-11-04T00:09:35+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Graduates are managing AI - but are they learning much else?",
+   "link": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
+   "date": "2026-11-04T00:04:35+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
   },
   {
    "title": "MIT-led team receives funding to develop a wearable monitor for early disease detection",
@@ -66,6 +184,22 @@
    "topic": "Tech"
   },
   {
+   "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+   "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
+   "date": "2026-11-03T20:53:03+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Ireland fact of the day",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/ireland-fact-of-the-day-8.html?utm_source=rss&utm_medium=rss&utm_campaign=ireland-fact-of-the-day-8",
+   "excerpt": "Almost half of Ireland’s corporation tax haul comes from just three companies: Apple, Eli Lilly and Microsoft. Here is much more from Jude Webber at the FT, on why Ireland does not always feel or operate like a wealthy…",
+   "date": "2026-11-03T19:26:51+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
    "title": "How to Find and Fix Common Technical SEO Issues on Your Website",
    "link": "https://www.freecodecamp.org/news/fix-common-technical-seo-issues/",
    "excerpt": "Let's say you've built a website. You've invested in the design, bought a domain, and so on. But a website isn't only what you see on the screen. A lot happens behind the scenes. You have to understan",
@@ -80,6 +214,14 @@
    "date": "2026-11-03T18:40:47+00:00",
    "source": "freeCodeCamp",
    "topic": "Tech"
+  },
+  {
+   "title": "Tuesday assorted links",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-593.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-593",
+   "excerpt": "1. Jason Furman on AI and the CEA. 2. Matt Kahn uses Refine and gets results. 3. Cyril Hilsum, RIP (flat screen TV, NYT). 4. How much of the return to education is in fact a return to genes? 5. Essay contest on how AI…",
+   "date": "2026-11-03T17:01:23+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
   },
   {
    "title": "3 Questions: Building more resilient minerals supply chains",
@@ -98,6 +240,22 @@
    "topic": "Tech"
   },
   {
+   "title": "Keeping mortgage interest relief approved",
+   "link": "https://www.bbc.co.uk/news/articles/c6vgj0ljx01jo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Homeowners can get tax relief of £3,500 on the money spent on the interstate of a mortgage.",
+   "date": "2026-11-03T16:44:20+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+   "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
+   "date": "2026-11-03T16:19:29+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
    "title": "Learn Vector Databases for Beginners – Embeddings, Similarity Search & ChromaDB",
    "link": "https://www.freecodecamp.org/news/learn-vector-databases-for-beginners-embeddings-similarity-search-chromadb/",
    "excerpt": "A vector database stores data as lists of numbers called embeddings, which lets it search by meaning instead of matching exact keywords. It's the piece behind a lot of recommendation systems, RAG apps",
@@ -114,12 +272,68 @@
    "topic": "Tech"
   },
   {
+   "title": "Asda hires ex-Morrisons boss in bid to grow firm",
+   "link": "https://www.bbc.co.uk/news/articles/c6vg0xzd0ln4o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "David Potts takes charge of Asda, which is based in Leeds, with immediate effect.",
+   "date": "2026-11-03T15:12:35+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Mining giant joins fight to stop killer toad march across Australia",
+   "link": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Rio Tinto is jointly funding a A$28m \"toad containment zone\" to protect the Pilbara region.",
+   "date": "2026-11-03T15:05:01+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
    "title": "Building connections across the research infrastructure",
    "link": "https://news.mit.edu/2026/building-connections-across-research-infrastructure-1103",
    "excerpt": "MIT.nano and the Northeast Microelectronics Coalition gathered facility leaders and technology professionals from across the nation to explore ways to make shared-access facilities more connected.",
    "date": "2026-11-03T14:30:00-05:00",
    "source": "MIT News",
    "topic": "Tech"
+  },
+  {
+   "title": "Thoughts on Owning a Self-Driving Tesla",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/thoughts-on-owning-a-self-driving-tesla.html?utm_source=rss&utm_medium=rss&utm_campaign=thoughts-on-owning-a-self-driving-tesla",
+   "excerpt": "My Subaru was showing its years so I recently bought a Tesla. My thinking was I can buy a car or I can buy a car+driver for the same price. Simple choice. I’ve driven about 2000 miles including one long trip (6 hours)…",
+   "date": "2026-11-03T12:18:06+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "The economics of tips",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-tips.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-tips",
+   "excerpt": "Tipping is large and growing, but we know little about its consequences for workers and firms. We link point-of-sale and payroll records at 20,000 U.S. firms, which lets us observe tips from customer payment to worker…",
+   "date": "2026-11-03T07:58:10+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Are economists declining in status?",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/are-economists-declining-in-status.html?utm_source=rss&utm_medium=rss&utm_campaign=are-economists-declining-in-status",
+   "excerpt": "That is the theme of my latest Free Press article. Excerpt, which offers the beginning of the story: If we look at the 1960s, the John F. Kennedy and Lyndon Baines Johnson administrations brought James Tobin, Robert…",
+   "date": "2026-11-03T05:22:51+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "*Fjord* and *Fatherland*",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/fjord-and-fatherland.html?utm_source=rss&utm_medium=rss&utm_campaign=fjord-and-fatherland",
+   "excerpt": "Both of these movies I found worth watching. Fjord won the Golden Prize at Cannes, and it concerns the rights of the family vs. the rights of the state, when it comes to raising children. As I interpreted the story, it…",
+   "date": "2026-11-02T19:44:38+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Monday assorted links",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/monday-assorted-links-584.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-584",
+   "excerpt": "1. Why is it now so common to be asked about your food allergies? (GPT Pro answer) 2. Training for alignment, applies principal-agent theory. 3. Do people offload empathy when they think AI can give it instead? 4. The…",
+   "date": "2026-11-02T17:13:35+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
   },
   {
    "title": "Lemelson-MIT brings invention education to classrooms from kindergarten to college",
@@ -152,6 +366,22 @@
    "date": "2026-11-02T14:55:00-05:00",
    "source": "MIT News",
    "topic": "Tech"
+  },
+  {
+   "title": "Expensive Pharmaceuticals for Targeted Diseases",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/expensive-pharmaceuticals-for-targeted-diseases.html?utm_source=rss&utm_medium=rss&utm_campaign=expensive-pharmaceuticals-for-targeted-diseases",
+   "excerpt": "My latest paper, The Price of a Cure: Luxturna and the Economic Dilemmas of Precision Medicine, is in the Journal of Law, Medicine and Ethics. I discuss the economics of the pharmaceutical industry and the special…",
+   "date": "2026-11-02T12:16:34+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "How do global merchandise exports change over time?",
+   "link": "https://fred.stlouisfed.org/blog/2026/11/how-do-global-merchandise-exports-change-over-time",
+   "excerpt": "Global merchandise exports ebb and flow and undergo large changes in relatively short spans.",
+   "date": "2026-11-02T08:00:00-06:00",
+   "source": "FRED Blog",
+   "topic": "Economy"
   },
   {
    "title": "A flexible new route to designer materials built from nanoparticles",
@@ -242,12 +472,36 @@
    "topic": "Tech"
   },
   {
+   "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
+   "excerpt": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+   "date": "2026-10-29T20:30:00+00:00",
+   "source": "Federal Reserve",
+   "topic": "Economy"
+  },
+  {
    "title": "How Do You Take a Picture of a Black Hole?",
    "link": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
    "excerpt": "Astrophysicist Shep Doeleman explains how capturing the first image of a black hole required a telescope the size of the world, and why the next goal is to create a movie. The post How Do You Take a Picture of a Black…",
    "date": "2026-10-29T15:11:57+00:00",
    "source": "Quanta Magazine",
    "topic": "Math & Science"
+  },
+  {
+   "title": "Updates to MSA maps in FRED",
+   "link": "https://fred.stlouisfed.org/blog/2026/10/updates-to-MSA-maps-in-FRED",
+   "excerpt": "FRED updates its metropolitan statistical area (MSA) maps to reflect the U.S. Census Bureau's core-based statistical area delineations.",
+   "date": "2026-10-29T08:00:00-05:00",
+   "source": "FRED Blog",
+   "topic": "Economy"
+  },
+  {
+   "title": "Federal Reserve issues FOMC statement",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+   "excerpt": "Federal Reserve issues FOMC statement",
+   "date": "2026-10-28T18:00:00+00:00",
+   "source": "Federal Reserve",
+   "topic": "Economy"
   },
   {
    "title": "How Spiders Spin ‘Silk Dope’ Into Nature’s Toughest Material",
@@ -258,12 +512,36 @@
    "topic": "Math & Science"
   },
   {
+   "title": "Net domestic product",
+   "link": "https://fred.stlouisfed.org/blog/2026/10/net-domestic-product",
+   "excerpt": "Gross domestic product measures all production. Net domestic product removes production that replaces depreciated goods.",
+   "date": "2026-10-26T08:00:00-05:00",
+   "source": "FRED Blog",
+   "topic": "Economy"
+  },
+  {
    "title": "How much development aid is spent on climate change?",
    "link": "https://ourworldindata.org/how-much-development-aid-is-spent-on-climate-change",
    "excerpt": "Around one-fifth of development aid is spent on climate-related projects. But what does climate-related mean, and does it crowd out other aid projects?",
    "date": "2026-10-26T00:00:00+00:00",
    "source": "Our World in Data",
    "topic": "Data"
+  },
+  {
+   "title": "Early signs of AI-driven productivity growth in the information sector?",
+   "link": "https://fred.stlouisfed.org/blog/2026/10/early-signs-of-ai-driven-productivity-growth-in-information-sector",
+   "excerpt": "Since the advent of GenAI, productivity in the information sector has grown much faster than usual and much faster than the overall economy.",
+   "date": "2026-10-22T08:00:00-05:00",
+   "source": "FRED Blog",
+   "topic": "Economy"
+  },
+  {
+   "title": "Which businesses are using AI technology?",
+   "link": "https://fred.stlouisfed.org/blog/2026/10/which-businesses-are-using-ai-technology",
+   "excerpt": "More than half of all businesses paid for an artificial intelligence (AI) product or service. Adoption rates jumped after ChatGPT's public launch in late 2022 and have risen steadily since.",
+   "date": "2026-10-19T08:00:00-05:00",
+   "source": "FRED Blog",
+   "topic": "Economy"
   },
   {
    "title": "When do people experience mental health conditions for the first time?",
@@ -274,6 +552,54 @@
    "topic": "Data"
   },
   {
+   "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
+   "excerpt": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+   "date": "2026-10-16T15:00:00+00:00",
+   "source": "Federal Reserve",
+   "topic": "Economy"
+  },
+  {
+   "title": "Is the Treasury convenience yield rebounding?",
+   "link": "https://fred.stlouisfed.org/blog/2026/10/Is-the-Treasury-convenience-yield-rebounding",
+   "excerpt": "The spread between AAA corporate bonds and Treasuries has widened since October 2025, suggesting a partial recovery in the Treasury convenience yield.",
+   "date": "2026-10-15T08:00:00-05:00",
+   "source": "FRED Blog",
+   "topic": "Economy"
+  },
+  {
+   "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+   "excerpt": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+   "date": "2026-10-13T18:00:00+00:00",
+   "source": "Federal Reserve",
+   "topic": "Economy"
+  },
+  {
+   "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
+   "excerpt": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+   "date": "2026-10-09T14:00:00+00:00",
+   "source": "Federal Reserve",
+   "topic": "Economy"
+  },
+  {
+   "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
+   "excerpt": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money…",
+   "date": "2026-10-08T20:30:00+00:00",
+   "source": "Federal Reserve",
+   "topic": "Economy"
+  },
+  {
+   "title": "Assets across pension types",
+   "link": "https://fred.stlouisfed.org/blog/2026/10/assets-across-pension-types",
+   "excerpt": "Assets backing defined contribution pensions have grown far more than assets backing defined benefit pensions. But the former are also far more volatile.",
+   "date": "2026-10-08T08:00:00-05:00",
+   "source": "FRED Blog",
+   "topic": "Economy"
+  },
+  {
    "title": "A 73% average decline in wildlife populations: an overview of the 2026 Living Planet Index report",
    "link": "https://ourworldindata.org/2026-lpi-update",
    "excerpt": "A guide to understanding the Living Planet Index and what it does and doesn’t mean.",
@@ -282,12 +608,100 @@
    "topic": "Data"
   },
   {
+   "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
+   "excerpt": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+   "date": "2026-10-07T18:00:00+00:00",
+   "source": "Federal Reserve",
+   "topic": "Economy"
+  },
+  {
+   "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
+   "excerpt": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
+   "date": "2026-10-05T20:30:00+00:00",
+   "source": "Federal Reserve",
+   "topic": "Economy"
+  },
+  {
    "title": "What impact will climate change have on malaria?",
    "link": "https://ourworldindata.org/what-impact-will-climate-change-have-on-malaria",
    "excerpt": "More than 600,000 people die from malaria every year. Will climate change make this worse?",
    "date": "2026-10-05T00:00:00+00:00",
    "source": "Our World in Data",
    "topic": "Data"
+  },
+  {
+   "title": "Connect your AI assistant to FRED",
+   "link": "https://fred.stlouisfed.org/blog/2026/10/connect-your-ai-assistant-to-FRED",
+   "excerpt": "FRED's new MCP connector directs your AI assistant to the data you need",
+   "date": "2026-10-04T08:35:00-05:00",
+   "source": "FRED Blog",
+   "topic": "Economy"
+  },
+  {
+   "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
+   "excerpt": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
+   "date": "2026-10-02T20:45:00+00:00",
+   "source": "Federal Reserve",
+   "topic": "Economy"
+  },
+  {
+   "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
+   "excerpt": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
+   "date": "2026-10-02T20:00:00+00:00",
+   "source": "Federal Reserve",
+   "topic": "Economy"
+  },
+  {
+   "title": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
+   "excerpt": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
+   "date": "2026-10-02T15:00:00+00:00",
+   "source": "Federal Reserve",
+   "topic": "Economy"
+  },
+  {
+   "title": "Real GDP by state: Second quarter 2026",
+   "link": "https://fred.stlouisfed.org/blog/2026/10/real-gdp-by-state-second-quarter-2026",
+   "excerpt": "Bureau of Economic Analysis real GDP data for all US states for the second quarter of 2026",
+   "date": "2026-10-01T09:14:00-05:00",
+   "source": "FRED Blog",
+   "topic": "Economy"
+  },
+  {
+   "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
+   "excerpt": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
+   "date": "2026-09-30T13:00:00+00:00",
+   "source": "Federal Reserve",
+   "topic": "Economy"
+  },
+  {
+   "title": "What is the Treasury general account?",
+   "link": "https://fred.stlouisfed.org/blog/2026/09/what-is-the-treasury-general-account",
+   "excerpt": "As with any household or business, even the federal government needs an account to handle its bills and income. This account, provided by the Federal Reserve, is called the Treasury general account.",
+   "date": "2026-09-28T08:00:00-05:00",
+   "source": "FRED Blog",
+   "topic": "Economy"
+  },
+  {
+   "title": "Estimating the risk of recession in the US",
+   "link": "https://fred.stlouisfed.org/blog/2026/09/estimating-the-risk-of-recession-in-the-us",
+   "excerpt": "A new dataset in FRED provides the monthly probability the US economy is in recession. The latest data, for August 2026, show that probability was 0.08%. The data FRED has added...",
+   "date": "2026-09-24T08:00:00-05:00",
+   "source": "FRED Blog",
+   "topic": "Economy"
+  },
+  {
+   "title": "FOMC Summary of Economic Projections, September 2026",
+   "link": "https://fred.stlouisfed.org/blog/2026/09/fomc-summary-of-economic-projections-september-2026",
+   "excerpt": "In a previous FRED Blog post, we discussed the Summary of Economic Projections (SEP) released by the FOMC this past June. In this blog post, we again use ALFRED to compare the latest set of...",
+   "date": "2026-09-21T08:00:00-05:00",
+   "source": "FRED Blog",
+   "topic": "Economy"
   },
   {
    "title": "How high is current immigration to the United States in historical perspective?",
