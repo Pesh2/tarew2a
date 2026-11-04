@@ -1,11 +1,429 @@
 {
- "updated": null,
- "demo": true,
- "status": [],
+ "updated": "2026-11-04T21:11:40.827267+00:00",
+ "status": [
+  {
+   "source": "Quanta Magazine",
+   "ok": true,
+   "count": 5
+  },
+  {
+   "source": "Our World in Data",
+   "ok": true,
+   "count": 10
+  },
+  {
+   "source": "World Bank Blogs",
+   "ok": false,
+   "error": "HTTP Error 404: Not Found"
+  },
+  {
+   "source": "freeCodeCamp",
+   "ok": true,
+   "count": 10
+  },
+  {
+   "source": "MIT News",
+   "ok": true,
+   "count": 12
+  },
+  {
+   "source": "Distill",
+   "ok": true,
+   "count": 12
+  }
+ ],
  "articles": [
-  {"title": "Open Quanta Magazine", "link": "https://www.quantamagazine.org/", "excerpt": "Demo card. Real headlines appear after the first automatic update.", "date": null, "source": "Quanta Magazine", "topic": "Math & Science"},
-  {"title": "Open Our World in Data", "link": "https://ourworldindata.org/", "excerpt": "Demo card. Real headlines appear after the first automatic update.", "date": null, "source": "Our World in Data", "topic": "Data"},
-  {"title": "Open World Bank Blogs", "link": "https://blogs.worldbank.org/", "excerpt": "Demo card. Real headlines appear after the first automatic update.", "date": null, "source": "World Bank Blogs", "topic": "Economy"},
-  {"title": "Open freeCodeCamp News", "link": "https://www.freecodecamp.org/news/", "excerpt": "Demo card. Real headlines appear after the first automatic update.", "date": null, "source": "freeCodeCamp", "topic": "Tech"}
+  {
+   "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
+   "link": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
+   "excerpt": "By injecting “thoughts” directly into large language models, researchers are trying to map out AI’s capacity for introspection. The post New Research Tests Whether AI Models Know Their Own Thoughts first appeared on…",
+   "date": "2026-11-04T15:32:52+00:00",
+   "source": "Quanta Magazine",
+   "topic": "Math & Science"
+  },
+  {
+   "title": "Mentees, colleagues, friends share remembrances of Susumu Tonegawa",
+   "link": "https://news.mit.edu/2026/sharing-remembrances-susumu-tonegawa-1104",
+   "excerpt": "To remember the longtime professor, lab members, alumni, colleagues, and other well-wishers gathered with members of his family in MIT Building 46 and online.",
+   "date": "2026-11-04T14:25:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
+  },
+  {
+   "title": "MIT-led team receives funding to develop a wearable monitor for early disease detection",
+   "link": "https://news.mit.edu/2026/mit-led-team-receives-funding-for-early-disease-detection-wearable-monitor-1104",
+   "excerpt": "Awarded up to $38 million from ARPA-H, the team aims to create a low-power, noninvasive sensor patch that measures heart failure and sepsis biomarkers in real-time.",
+   "date": "2026-11-04T00:00:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
+  },
+  {
+   "title": "Dream, build, destroy, repeat",
+   "link": "https://news.mit.edu/2026/dream-build-destroy-repeat-combat-robotics-club-1104",
+   "excerpt": "Members of the student-run MIT Combat Robotics Club learn through destruction.",
+   "date": "2026-11-04T00:00:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
+  },
+  {
+   "title": "How to Find and Fix Common Technical SEO Issues on Your Website",
+   "link": "https://www.freecodecamp.org/news/fix-common-technical-seo-issues/",
+   "excerpt": "Let's say you've built a website. You've invested in the design, bought a domain, and so on. But a website isn't only what you see on the screen. A lot happens behind the scenes. You have to understan",
+   "date": "2026-11-03T19:00:29+00:00",
+   "source": "freeCodeCamp",
+   "topic": "Tech"
+  },
+  {
+   "title": "How to Automate Docker Image Creation for Postgres Using Shell Commands",
+   "link": "https://www.freecodecamp.org/news/how-to-automate-docker-image-creation-for-postgres-using-shell/",
+   "excerpt": "If you have certain lines of code that repeat over and over again in a project, there's a pretty standard solution for it: using a function. But what about when you have the same project file setup th",
+   "date": "2026-11-03T18:40:47+00:00",
+   "source": "freeCodeCamp",
+   "topic": "Tech"
+  },
+  {
+   "title": "3 Questions: Building more resilient minerals supply chains",
+   "link": "https://news.mit.edu/2026/3-questions-building-more-resilient-minerals-supply-chains-1103",
+   "excerpt": "Elsa Olivetti, co-director of the MIT Minerals Stewardship Consortium, discusses how research and collaborations can strengthen mineral supply chains.",
+   "date": "2026-11-03T16:50:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
+  },
+  {
+   "title": "How to Partner with Design Studios on Client Builds: A Freelance Developer's Guide",
+   "link": "https://www.freecodecamp.org/news/freelance-developer-design-studios/",
+   "excerpt": "Let's say a design studio gets a new client project. The branding is ready, the wireframes are approved, the Figma file is polished, and every screen looks pretty much perfect. Then the developer join",
+   "date": "2026-11-03T16:49:36+00:00",
+   "source": "freeCodeCamp",
+   "topic": "Tech"
+  },
+  {
+   "title": "Learn Vector Databases for Beginners – Embeddings, Similarity Search & ChromaDB",
+   "link": "https://www.freecodecamp.org/news/learn-vector-databases-for-beginners-embeddings-similarity-search-chromadb/",
+   "excerpt": "A vector database stores data as lists of numbers called embeddings, which lets it search by meaning instead of matching exact keywords. It's the piece behind a lot of recommendation systems, RAG apps",
+   "date": "2026-11-03T16:07:38+00:00",
+   "source": "freeCodeCamp",
+   "topic": "Tech"
+  },
+  {
+   "title": "Featured video: Changing the conversation about endometriosis",
+   "link": "https://news.mit.edu/2026/featured-video-changing-conversation-about-endometriosis-1103",
+   "excerpt": "Documentary shines a powerful light on a painful disease that affects 265 million women, highlights efforts at MIT’s Center for Gynepathology Research to study the disease and find treatments.",
+   "date": "2026-11-03T16:00:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
+  },
+  {
+   "title": "Building connections across the research infrastructure",
+   "link": "https://news.mit.edu/2026/building-connections-across-research-infrastructure-1103",
+   "excerpt": "MIT.nano and the Northeast Microelectronics Coalition gathered facility leaders and technology professionals from across the nation to explore ways to make shared-access facilities more connected.",
+   "date": "2026-11-03T14:30:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
+  },
+  {
+   "title": "Lemelson-MIT brings invention education to classrooms from kindergarten to college",
+   "link": "https://news.mit.edu/2026/lemelson-mit-brings-invention-education-classrooms-kindergarten-college-1102",
+   "excerpt": "A new initiative in California, Tennessee, and New England puts learning by doing at the center of students’ STEM pathways, in step with MIT for America’s focus on helping students design, make, and innovate.",
+   "date": "2026-11-02T16:25:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
+  },
+  {
+   "title": "Is There Anything Left in the Dream of Cold Fusion?",
+   "link": "https://www.quantamagazine.org/is-there-anything-left-in-the-dream-of-cold-fusion-20261102/",
+   "excerpt": "Dig a little deeper and you’ll find a thriving research program with exotic atoms that won’t solve the energy crisis but stretches the boundaries of physics. The post Is There Anything Left in the Dream of Cold Fusion?…",
+   "date": "2026-11-02T15:48:57+00:00",
+   "source": "Quanta Magazine",
+   "topic": "Math & Science"
+  },
+  {
+   "title": "Faces of MIT: Vera Grbic",
+   "link": "https://news.mit.edu/2026/faces-of-mit-vera-grbic-1102",
+   "excerpt": "IDHR communications officer Vera Grbic helps connect the MIT community with resources, support, and information through clear and accessible messaging.",
+   "date": "2026-11-02T15:45:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
+  },
+  {
+   "title": "Powering up for a pivotal moment",
+   "link": "https://news.mit.edu/2026/powering-up-for-pivotal-moment-1102",
+   "excerpt": "From a nuclear revival to qubits, the MIT Energy Initiative’s annual research conference tracked deployment of today’s technologies to discovery of tomorrow’s breakthroughs.",
+   "date": "2026-11-02T14:55:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
+  },
+  {
+   "title": "A flexible new route to designer materials built from nanoparticles",
+   "link": "https://news.mit.edu/2026/flexible-new-route-designer-materials-from-nanoparticles-1102",
+   "excerpt": "Pliable connector molecules could be key to creating nanoparticle-based materials for photonics, chemical catalysis, medicine, and more.",
+   "date": "2026-11-02T05:00:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
+  },
+  {
+   "title": "Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery",
+   "link": "https://news.mit.edu/2026/regina-barzilay-jim-collins-win-pritzker-prize-ai-and-science-research-excellence-1102",
+   "excerpt": "The MIT professors collaborated to identify the first AI-discovered antibiotic, a scientific breakthrough that is widely recognized as a milestone in AI-driven drug discovery.",
+   "date": "2026-11-02T00:35:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
+  },
+  {
+   "title": "MIT in the media: “Unpack My Cambridge\" with President Sally Kornbluth",
+   "link": "https://news.mit.edu/2026/mit-media-unpack-my-cambridge-president-sally-kornbluth",
+   "excerpt": "Kornbluth: “We hope to see you here soon on a visit to MIT, whether you are a prospective student, whether you are a tourist or whether you are just someone who likes really cool things.”",
+   "date": "2026-11-02T00:00:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
+  },
+  {
+   "title": "Around half of people will experience a mental health issue in their lifetime",
+   "link": "https://ourworldindata.org/around-half-of-people-will-experience-a-mental-health-issue-in-their-lifetime",
+   "excerpt": "What is someone’s risk of developing depression, anxiety, or other mental health issues at some point in their life?",
+   "date": "2026-11-02T00:00:00+00:00",
+   "source": "Our World in Data",
+   "topic": "Data"
+  },
+  {
+   "title": "A New Map of ‘Empty’ Space Challenges a Tranquil Picture of the Galaxy",
+   "link": "https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/",
+   "excerpt": "For decades, astronomers treated the interstellar medium as a static backdrop to the goings-on of the universe. Now, a wave of 3D mapping is bringing the interstellar medium’s dynamic nature into focus. The post A New…",
+   "date": "2026-10-30T14:52:05+00:00",
+   "source": "Quanta Magazine",
+   "topic": "Math & Science"
+  },
+  {
+   "title": "How to Detect Financial Fraud Patterns with Knowledge Graphs: A Production Guide",
+   "link": "https://www.freecodecamp.org/news/how-to-detect-financial-fraud-patterns-with-knowledge-graphs-a-production-guide/",
+   "excerpt": "Most anti-fraud architectures in enterprise payment workflows evaluate transactions in isolation. When an invoice arrives, an automated rules engine checks it against static thresholds. It checks whet",
+   "date": "2026-10-30T13:57:52+00:00",
+   "source": "freeCodeCamp",
+   "topic": "Tech"
+  },
+  {
+   "title": "How AI-Powered Search Works: A Guide for Devs on AI Visibility",
+   "link": "https://www.freecodecamp.org/news/ai-search-visibility/",
+   "excerpt": "Searched worked in a familiar way for decades: you'd type in your query, get back a list of pages, and choose one to click on. Behind the scenes, Google would find the pages it thought you might want,",
+   "date": "2026-10-29T21:53:51+00:00",
+   "source": "freeCodeCamp",
+   "topic": "Tech"
+  },
+  {
+   "title": "Learn Real-World Penetration Testing: Hands-On Ethical Hacking Crash Course",
+   "link": "https://www.freecodecamp.org/news/learn-real-world-penetration-testing-hands-on-ethical-hacking-crash-course/",
+   "excerpt": "Understanding how malicious actors infiltrate networks is the first step to building resilient infrastructure. To help developers and aspiring security analysts learn the fundamentals of offensive sec",
+   "date": "2026-10-29T21:00:09+00:00",
+   "source": "freeCodeCamp",
+   "topic": "Tech"
+  },
+  {
+   "title": "High-Speed Decision Pipelines: Jev and Prefill-Only Inference from Scratch",
+   "link": "https://www.freecodecamp.org/news/high-speed-decision-pipelines-jev-and-prefill-only-inference-from-scratch/",
+   "excerpt": "Autoregressive token generation is notoriously slow and memory-intensive, especially when you only need a model to make a structured classification or routing decision rather than write out paragraphs",
+   "date": "2026-10-29T20:55:47+00:00",
+   "source": "freeCodeCamp",
+   "topic": "Tech"
+  },
+  {
+   "title": "Build with Gemini 4 Argon – Fast-Track API Crash Course",
+   "link": "https://www.freecodecamp.org/news/build-with-gemini-4-argon-fast-track-api-crash-course/",
+   "excerpt": "Google just released Gemini 4 Argon which is its most capable model designed specifically for complex reasoning, advanced coding, math, and science. To help you get building right away, we just publis",
+   "date": "2026-10-29T20:52:46+00:00",
+   "source": "freeCodeCamp",
+   "topic": "Tech"
+  },
+  {
+   "title": "Secure Your AI Agents – Free Model Context Protocol (MCP) Security Course",
+   "link": "https://www.freecodecamp.org/news/secure-your-ai-agents-free-model-context-protocol-mcp-security-course/",
+   "excerpt": "The Model Context Protocol (MCP) helps connect LLMs to external tools, databases, and APIs. But giving AI agents hands and feet to take real-world actions introduces an entirely new attack surface. We",
+   "date": "2026-10-29T20:48:09+00:00",
+   "source": "freeCodeCamp",
+   "topic": "Tech"
+  },
+  {
+   "title": "How Do You Take a Picture of a Black Hole?",
+   "link": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
+   "excerpt": "Astrophysicist Shep Doeleman explains how capturing the first image of a black hole required a telescope the size of the world, and why the next goal is to create a movie. The post How Do You Take a Picture of a Black…",
+   "date": "2026-10-29T15:11:57+00:00",
+   "source": "Quanta Magazine",
+   "topic": "Math & Science"
+  },
+  {
+   "title": "How Spiders Spin ‘Silk Dope’ Into Nature’s Toughest Material",
+   "link": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
+   "excerpt": "By probing its molecular structure, biologists are uncovering how a tangle of unstructured proteins turns into a strong, flexible fiber. The post How Spiders Spin ‘Silk Dope’ Into Nature’s Toughest Material first…",
+   "date": "2026-10-28T16:04:18+00:00",
+   "source": "Quanta Magazine",
+   "topic": "Math & Science"
+  },
+  {
+   "title": "How much development aid is spent on climate change?",
+   "link": "https://ourworldindata.org/how-much-development-aid-is-spent-on-climate-change",
+   "excerpt": "Around one-fifth of development aid is spent on climate-related projects. But what does climate-related mean, and does it crowd out other aid projects?",
+   "date": "2026-10-26T00:00:00+00:00",
+   "source": "Our World in Data",
+   "topic": "Data"
+  },
+  {
+   "title": "When do people experience mental health conditions for the first time?",
+   "link": "https://ourworldindata.org/when-do-people-experience-mental-health-conditions-for-the-first-time",
+   "excerpt": "Knowing when people are most at risk allows us to offer support when it might make the biggest difference.",
+   "date": "2026-10-19T00:00:00+00:00",
+   "source": "Our World in Data",
+   "topic": "Data"
+  },
+  {
+   "title": "A 73% average decline in wildlife populations: an overview of the 2026 Living Planet Index report",
+   "link": "https://ourworldindata.org/2026-lpi-update",
+   "excerpt": "A guide to understanding the Living Planet Index and what it does and doesn’t mean.",
+   "date": "2026-10-08T00:00:00+00:00",
+   "source": "Our World in Data",
+   "topic": "Data"
+  },
+  {
+   "title": "What impact will climate change have on malaria?",
+   "link": "https://ourworldindata.org/what-impact-will-climate-change-have-on-malaria",
+   "excerpt": "More than 600,000 people die from malaria every year. Will climate change make this worse?",
+   "date": "2026-10-05T00:00:00+00:00",
+   "source": "Our World in Data",
+   "topic": "Data"
+  },
+  {
+   "title": "How high is current immigration to the United States in historical perspective?",
+   "link": "https://ourworldindata.org/how-high-is-current-immigration-to-the-united-states-in-historical-perspective",
+   "excerpt": "We use long-run census data to understand the scale of recent US migration trends, and how these compare to previous centuries.",
+   "date": "2026-09-21T00:00:00+00:00",
+   "source": "Our World in Data",
+   "topic": "Data"
+  },
+  {
+   "title": "Is organic farming better for the environment than conventional farming?",
+   "link": "https://ourworldindata.org/is-organic-farming-better-for-the-environment-than-conventional-farming",
+   "excerpt": "Organic farming often wins when we compare impacts on one unit of land, but there is no clear winner when we look at impacts per unit of food production.",
+   "date": "2026-09-14T00:00:00+00:00",
+   "source": "Our World in Data",
+   "topic": "Data"
+  },
+  {
+   "title": "A never-ending childhood of malaria",
+   "link": "https://ourworldindata.org/a-never-ending-childhood-of-malaria",
+   "excerpt": "How often do people in high-burden areas get malaria? Studies suggest that many children can experience five or more malaria infections a year.",
+   "date": "2026-09-07T00:00:00+00:00",
+   "source": "Our World in Data",
+   "topic": "Data"
+  },
+  {
+   "title": "Beef production in Brazil has been the largest driver of global deforestation in recent decades",
+   "link": "https://ourworldindata.org/beef-production-in-brazil-has-been-the-largest-driver-of-global-deforestation-in-recent-decades",
+   "excerpt": "Most beef production in Brazil is to meet domestic rather than international demand.",
+   "date": "2026-08-31T00:00:00+00:00",
+   "source": "Our World in Data",
+   "topic": "Data"
+  },
+  {
+   "title": "The rise of electoral democracy",
+   "link": "https://ourworldindata.org/the-rise-of-electoral-democracy",
+   "excerpt": "How elections spread, voting rights expanded, and political competition developed around the world over the last two centuries.",
+   "date": "2026-08-24T00:00:00+00:00",
+   "source": "Our World in Data",
+   "topic": "Data"
+  },
+  {
+   "title": "Understanding Convolutions on Graphs",
+   "link": "https://distill.pub/2021/understanding-gnns",
+   "excerpt": "Understanding the building blocks and design choices of graph neural networks.",
+   "date": "2021-09-02T20:00:00+00:00",
+   "source": "Distill",
+   "topic": "Data"
+  },
+  {
+   "title": "A Gentle Introduction to Graph Neural Networks",
+   "link": "https://distill.pub/2021/gnn-intro",
+   "excerpt": "What components are needed for building learning algorithms that leverage the structure and properties of graphs?",
+   "date": "2021-09-02T20:00:00+00:00",
+   "source": "Distill",
+   "topic": "Data"
+  },
+  {
+   "title": "Distill Hiatus",
+   "link": "https://distill.pub/2021/distill-hiatus",
+   "excerpt": "After five years, Distill will be taking a break.",
+   "date": "2021-07-02T20:00:00+00:00",
+   "source": "Distill",
+   "topic": "Data"
+  },
+  {
+   "title": "Adversarial Reprogramming of Neural Cellular Automata",
+   "link": "https://distill.pub/selforg/2021/adversarial",
+   "excerpt": "Reprogramming Neural CA to exhibit novel behaviour, using adversarial attacks.",
+   "date": "2021-05-06T20:00:00+00:00",
+   "source": "Distill",
+   "topic": "Data"
+  },
+  {
+   "title": "Weight Banding",
+   "link": "https://distill.pub/2020/circuits/weight-banding",
+   "excerpt": "Weights in the final layer of common visual models appear as horizontal bands. We investigate how and why.",
+   "date": "2021-04-08T20:00:00+00:00",
+   "source": "Distill",
+   "topic": "Data"
+  },
+  {
+   "title": "Branch Specialization",
+   "link": "https://distill.pub/2020/circuits/branch-specialization",
+   "excerpt": "When a neural network layer is divided into multiple branches, neurons self-organize into coherent groupings.",
+   "date": "2021-04-05T20:00:00+00:00",
+   "source": "Distill",
+   "topic": "Data"
+  },
+  {
+   "title": "Multimodal Neurons in Artificial Neural Networks",
+   "link": "https://distill.pub/2021/multimodal-neurons",
+   "excerpt": "We report the existence of multimodal neurons in artificial neural networks, similar to those found in the human brain.",
+   "date": "2021-03-04T20:00:00+00:00",
+   "source": "Distill",
+   "topic": "Data"
+  },
+  {
+   "title": "Self-Organising Textures",
+   "link": "https://distill.pub/selforg/2021/textures",
+   "excerpt": "Neural Cellular Automata learn to generate textures, exhibiting surprising properties.",
+   "date": "2021-02-11T20:00:00+00:00",
+   "source": "Distill",
+   "topic": "Data"
+  },
+  {
+   "title": "Visualizing Weights",
+   "link": "https://distill.pub/2020/circuits/visualizing-weights",
+   "excerpt": "We present techniques for visualizing, contextualizing, and understanding neural network weights.",
+   "date": "2021-02-04T20:00:00+00:00",
+   "source": "Distill",
+   "topic": "Data"
+  },
+  {
+   "title": "Curve Circuits",
+   "link": "https://distill.pub/2020/circuits/curve-circuits",
+   "excerpt": "Reverse engineering the curve detection algorithm from InceptionV1 and reimplementing it from scratch.",
+   "date": "2021-01-30T20:00:00+00:00",
+   "source": "Distill",
+   "topic": "Data"
+  },
+  {
+   "title": "High-Low Frequency Detectors",
+   "link": "https://distill.pub/2020/circuits/frequency-edges",
+   "excerpt": "A family of early-vision neurons reacting to directional transitions from high to low spatial frequency.",
+   "date": "2021-01-27T20:00:00+00:00",
+   "source": "Distill",
+   "topic": "Data"
+  },
+  {
+   "title": "Naturally Occurring Equivariance in Neural Networks",
+   "link": "https://distill.pub/2020/circuits/equivariance",
+   "excerpt": "Neural networks naturally learn many transformed copies of the same feature, connected by symmetric weights.",
+   "date": "2020-12-08T20:00:00+00:00",
+   "source": "Distill",
+   "topic": "Data"
+  }
  ]
 }
