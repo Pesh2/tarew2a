@@ -4,5 +4,11 @@
   {"name": "World Bank Blogs", "topic": "Economy", "url": "https://blogs.worldbank.org/en/rss.xml"},
   {"name": "freeCodeCamp", "topic": "Tech", "url": "https://www.freecodecamp.org/news/rss/"},
   {"name": "MIT News", "topic": "Tech", "url": "https://news.mit.edu/rss/feed"},
-  {"name": "Distill", "topic": "Data", "url": "https://distill.pub/rss.xml"}
+  {"name": "Distill", "topic": "Data", "url": "https://distill.pub/rss.xml"},
+  {"name": "BBC Business", "topic": "Business", "url": "https://feeds.bbci.co.uk/news/business/rss.xml"},
+  {"name": "Harvard Business Review", "topic": "Business", "url": "https://feeds.hbr.org/harvardbusiness"},
+  {"name": "Marginal Revolution", "topic": "Economy", "url": "https://marginalrevolution.com/feed"},
+  {"name": "Brookings", "topic": "Economy", "url": "https://www.brookings.edu/feed/"},
+  {"name": "Federal Reserve", "topic": "Economy", "url": "https://www.federalreserve.gov/feeds/press_all.xml"},
+  {"name": "FRED Blog", "topic": "Economy", "url": "https://fredblog.stlouisfed.org/feed/"}
 ]
