@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T13:53:22.654201+00:00",
+ "updated": "2026-11-05T21:19:26.189803+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -48,8 +48,8 @@
   },
   {
    "source": "Brookings",
-   "ok": true,
-   "count": 0
+   "ok": false,
+   "error": "undefined entity: line 57, column 0"
   },
   {
    "source": "Federal Reserve",
@@ -58,11 +58,91 @@
   },
   {
    "source": "FRED Blog",
-   "ok": true,
-   "count": 12
+   "ok": false,
+   "error": "The read operation timed out"
   }
  ],
  "articles": [
+  {
+   "title": "Love at first photo?",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/love-at-first-photo.html?utm_source=rss&utm_medium=rss&utm_campaign=love-at-first-photo",
+   "excerpt": "Romantic interest on swipe-based dating apps (SBDAs) is highly concentrated. This can frustrate both popular users who feel overwhelmed by a glut of attention, and less popular users who feel dejected by a lack of it.…",
+   "date": "2026-11-05T19:55:13+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
+   "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms",
+   "date": "2026-11-05T17:57:57+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Thursday assorted links",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/thursday-assorted-links-577.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-577",
+   "excerpt": "1. Economics job market site. 2. Data on the flattening of consumer culture (NYT). One-sided, but still of interest. 3. A new and better measure of how much of educational value is signaling. 4. Inside joke concerning…",
+   "date": "2026-11-05T17:25:46+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "How to Use shadcn/ui in React Native Applications [Full Handbook]",
+   "link": "https://www.freecodecamp.org/news/how-to-use-shadcn-ui-in-react-native-applications-full-handbook/",
+   "excerpt": "If you've built a couple of React Native apps, the following probably feels familiar. You start with a colors.ts file and a simple Button component. Everything looks fine at first. Then the design cha",
+   "date": "2026-11-05T17:16:30+00:00",
+   "source": "freeCodeCamp",
+   "topic": "Tech"
+  },
+  {
+   "title": "Interest rates hiked to 4% in first increase in over three years",
+   "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Most analysts expected the increase from 3.75% to 4%.",
+   "date": "2026-11-05T17:09:55+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Interest rates hiked to 4% in first increase in over three years",
+   "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Most analysts expected the increase from 3.75% to 4%.",
+   "date": "2026-11-05T17:09:55+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
+   "excerpt": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+   "date": "2026-11-05T16:00:00+00:00",
+   "source": "Federal Reserve",
+   "topic": "Economy"
+  },
+  {
+   "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
+   "link": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "A consultation will consider fines and other ways to clamp down on dangerous e-bike riders.",
+   "date": "2026-11-05T15:27:09+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Why do veterinary fees and sausage rolls vary in price across London?",
+   "link": "https://www.bbc.co.uk/news/articles/cmgqw51gdnzyo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Location is not just the only factor on why prices differ across London, as Anna O'Neill finds out.",
+   "date": "2026-11-05T15:19:36+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "What does the raise in interest rates mean?",
+   "link": "https://www.bbc.co.uk/news/videos/c9kgjvmn4vlno?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The BBC's cost of living correspondent Kevin Peachey explains what the change could mean for those saving for a holiday or to buying a house.",
+   "date": "2026-11-05T14:02:24+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
   {
    "title": "Faisal Islam: How high will interest rates go?",
    "link": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
@@ -88,22 +168,6 @@
    "topic": "Business"
   },
   {
-   "title": "Interest rates hiked to 4% in first increase in over three years",
-   "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Most analysts expected the increase from 3.75% to 4%.",
-   "date": "2026-11-05T13:04:36+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Interest rates hiked to 4% in first increase in over three years",
-   "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Most analysts expected the increase from 3.75% to 4%.",
-   "date": "2026-11-05T13:04:36+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "Pollution as Growth Killer",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/pollution-as-growth-killer.html?utm_source=rss&utm_medium=rss&utm_campaign=pollution-as-growth-killer",
    "excerpt": "India’s Outlook Business has an excellent issue focusing on pollution not just as a people killer but as a growth killer (as I have emphasized pollution reduces wealth and health, see especially this video). I am…",
@@ -112,26 +176,18 @@
    "topic": "Economy"
   },
   {
-   "title": "Why do veterinary fees and sausage rolls vary in price across London?",
-   "link": "https://www.bbc.co.uk/news/articles/cmgqw51gdnzyo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Location is not just the only factor on why prices differ across London, as Anna O'Neill finds out.",
-   "date": "2026-11-05T12:01:54+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
+   "title": "Pinning down the structure of quark-gluon plasma, the universe’s first fluid",
+   "link": "https://news.mit.edu/2026/pinning-down-quark-gluon-plasma-structure-1105",
+   "excerpt": "A new method picks up where Einstein left off, to predict how particles move through fluid under extreme conditions.",
+   "date": "2026-11-05T11:20:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
   },
   {
    "title": "Welsh aviation firm AerFin bought in £475m deal",
    "link": "https://www.bbc.co.uk/news/articles/cq203vjxnln7o?at_medium=RSS&at_campaign=rss",
    "excerpt": "The company, which was majority owned by a private equity firm, said it was beginning a \"new chapter\".",
    "date": "2026-11-05T11:01:06+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
-   "link": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "A consultation will consider fines and other ways to clamp down on dangerous e-bike riders.",
-   "date": "2026-11-05T10:04:51+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
@@ -160,28 +216,12 @@
    "topic": "Business"
   },
   {
-   "title": "Food, fuel and taxes – can the Democrats do anything to ease cost of living pressures?",
-   "link": "https://www.bbc.co.uk/news/articles/ck1ex50x5q46o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Democrats will hold Congress but President Donald Trump still has the power to block their plans.",
-   "date": "2026-11-05T06:01:05+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "My very good Conversation with Richard Hanania",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/my-very-good-conversation-with-richard-hanania.html?utm_source=rss&utm_medium=rss&utm_campaign=my-very-good-conversation-with-richard-hanania",
    "excerpt": "Here is the video, audio, and transcript. Here is part of the episode summary: The first half of the conversation stays close to the text [Conrad’s Nostromo], covering the novel’s political backdrop, its deliberately…",
    "date": "2026-11-05T05:51:48+00:00",
    "source": "Marginal Revolution",
    "topic": "Economy"
-  },
-  {
-   "title": "Pound rises to its highest level since the Brexit referendum",
-   "link": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago.",
-   "date": "2026-11-05T04:21:35+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "Clearing up a robot’s fuzzy memory",
@@ -352,22 +392,6 @@
    "topic": "Economy"
   },
   {
-   "title": "The economics of tips",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-tips.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-tips",
-   "excerpt": "Tipping is large and growing, but we know little about its consequences for workers and firms. We link point-of-sale and payroll records at 20,000 U.S. firms, which lets us observe tips from customer payment to worker…",
-   "date": "2026-11-03T07:58:10+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
-   "title": "Are economists declining in status?",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/are-economists-declining-in-status.html?utm_source=rss&utm_medium=rss&utm_campaign=are-economists-declining-in-status",
-   "excerpt": "That is the theme of my latest Free Press article. Excerpt, which offers the beginning of the story: If we look at the 1960s, the John F. Kennedy and Lyndon Baines Johnson administrations brought James Tobin, Robert…",
-   "date": "2026-11-03T05:22:51+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
    "title": "Lemelson-MIT brings invention education to classrooms from kindergarten to college",
    "link": "https://news.mit.edu/2026/lemelson-mit-brings-invention-education-classrooms-kindergarten-college-1102",
    "excerpt": "A new initiative in California, Tennessee, and New England puts learning by doing at the center of students’ STEM pathways, in step with MIT for America’s focus on helping students design, make, and innovate.",
@@ -400,26 +424,10 @@
    "topic": "Tech"
   },
   {
-   "title": "How do global merchandise exports change over time?",
-   "link": "https://fred.stlouisfed.org/blog/2026/11/how-do-global-merchandise-exports-change-over-time",
-   "excerpt": "Global merchandise exports ebb and flow and undergo large changes in relatively short spans.",
-   "date": "2026-11-02T08:00:00-06:00",
-   "source": "FRED Blog",
-   "topic": "Economy"
-  },
-  {
    "title": "A flexible new route to designer materials built from nanoparticles",
    "link": "https://news.mit.edu/2026/flexible-new-route-designer-materials-from-nanoparticles-1102",
    "excerpt": "Pliable connector molecules could be key to creating nanoparticle-based materials for photonics, chemical catalysis, medicine, and more.",
    "date": "2026-11-02T05:00:00-05:00",
-   "source": "MIT News",
-   "topic": "Tech"
-  },
-  {
-   "title": "Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery",
-   "link": "https://news.mit.edu/2026/regina-barzilay-jim-collins-win-pritzker-prize-ai-and-science-research-excellence-1102",
-   "excerpt": "The MIT professors collaborated to identify the first AI-discovered antibiotic, a scientific breakthrough that is widely recognized as a milestone in AI-driven drug discovery.",
-   "date": "2026-11-02T00:35:00-05:00",
    "source": "MIT News",
    "topic": "Tech"
   },
@@ -464,14 +472,6 @@
    "topic": "Tech"
   },
   {
-   "title": "High-Speed Decision Pipelines: Jev and Prefill-Only Inference from Scratch",
-   "link": "https://www.freecodecamp.org/news/high-speed-decision-pipelines-jev-and-prefill-only-inference-from-scratch/",
-   "excerpt": "Autoregressive token generation is notoriously slow and memory-intensive, especially when you only need a model to make a structured classification or routing decision rather than write out paragraphs",
-   "date": "2026-10-29T20:55:47+00:00",
-   "source": "freeCodeCamp",
-   "topic": "Tech"
-  },
-  {
    "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
    "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
    "excerpt": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
@@ -486,14 +486,6 @@
    "date": "2026-10-29T15:11:57+00:00",
    "source": "Quanta Magazine",
    "topic": "Math & Science"
-  },
-  {
-   "title": "Updates to MSA maps in FRED",
-   "link": "https://fred.stlouisfed.org/blog/2026/10/updates-to-MSA-maps-in-FRED",
-   "excerpt": "FRED updates its metropolitan statistical area (MSA) maps to reflect the U.S. Census Bureau's core-based statistical area delineations.",
-   "date": "2026-10-29T08:00:00-05:00",
-   "source": "FRED Blog",
-   "topic": "Economy"
   },
   {
    "title": "Federal Reserve issues FOMC statement",
@@ -512,36 +504,12 @@
    "topic": "Math & Science"
   },
   {
-   "title": "Net domestic product",
-   "link": "https://fred.stlouisfed.org/blog/2026/10/net-domestic-product",
-   "excerpt": "Gross domestic product measures all production. Net domestic product removes production that replaces depreciated goods.",
-   "date": "2026-10-26T08:00:00-05:00",
-   "source": "FRED Blog",
-   "topic": "Economy"
-  },
-  {
    "title": "How much development aid is spent on climate change?",
    "link": "https://ourworldindata.org/how-much-development-aid-is-spent-on-climate-change",
    "excerpt": "Around one-fifth of development aid is spent on climate-related projects. But what does climate-related mean, and does it crowd out other aid projects?",
    "date": "2026-10-26T00:00:00+00:00",
    "source": "Our World in Data",
    "topic": "Data"
-  },
-  {
-   "title": "Early signs of AI-driven productivity growth in the information sector?",
-   "link": "https://fred.stlouisfed.org/blog/2026/10/early-signs-of-ai-driven-productivity-growth-in-information-sector",
-   "excerpt": "Since the advent of GenAI, productivity in the information sector has grown much faster than usual and much faster than the overall economy.",
-   "date": "2026-10-22T08:00:00-05:00",
-   "source": "FRED Blog",
-   "topic": "Economy"
-  },
-  {
-   "title": "Which businesses are using AI technology?",
-   "link": "https://fred.stlouisfed.org/blog/2026/10/which-businesses-are-using-ai-technology",
-   "excerpt": "More than half of all businesses paid for an artificial intelligence (AI) product or service. Adoption rates jumped after ChatGPT's public launch in late 2022 and have risen steadily since.",
-   "date": "2026-10-19T08:00:00-05:00",
-   "source": "FRED Blog",
-   "topic": "Economy"
   },
   {
    "title": "When do people experience mental health conditions for the first time?",
@@ -557,14 +525,6 @@
    "excerpt": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
    "date": "2026-10-16T15:00:00+00:00",
    "source": "Federal Reserve",
-   "topic": "Economy"
-  },
-  {
-   "title": "Is the Treasury convenience yield rebounding?",
-   "link": "https://fred.stlouisfed.org/blog/2026/10/Is-the-Treasury-convenience-yield-rebounding",
-   "excerpt": "The spread between AAA corporate bonds and Treasuries has widened since October 2025, suggesting a partial recovery in the Treasury convenience yield.",
-   "date": "2026-10-15T08:00:00-05:00",
-   "source": "FRED Blog",
    "topic": "Economy"
   },
   {
@@ -589,14 +549,6 @@
    "excerpt": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money…",
    "date": "2026-10-08T20:30:00+00:00",
    "source": "Federal Reserve",
-   "topic": "Economy"
-  },
-  {
-   "title": "Assets across pension types",
-   "link": "https://fred.stlouisfed.org/blog/2026/10/assets-across-pension-types",
-   "excerpt": "Assets backing defined contribution pensions have grown far more than assets backing defined benefit pensions. But the former are also far more volatile.",
-   "date": "2026-10-08T08:00:00-05:00",
-   "source": "FRED Blog",
    "topic": "Economy"
   },
   {
@@ -632,14 +584,6 @@
    "topic": "Data"
   },
   {
-   "title": "Connect your AI assistant to FRED",
-   "link": "https://fred.stlouisfed.org/blog/2026/10/connect-your-ai-assistant-to-FRED",
-   "excerpt": "FRED's new MCP connector directs your AI assistant to the data you need",
-   "date": "2026-10-04T08:35:00-05:00",
-   "source": "FRED Blog",
-   "topic": "Economy"
-  },
-  {
    "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
    "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
    "excerpt": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
@@ -661,46 +605,6 @@
    "excerpt": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
    "date": "2026-10-02T15:00:00+00:00",
    "source": "Federal Reserve",
-   "topic": "Economy"
-  },
-  {
-   "title": "Real GDP by state: Second quarter 2026",
-   "link": "https://fred.stlouisfed.org/blog/2026/10/real-gdp-by-state-second-quarter-2026",
-   "excerpt": "Bureau of Economic Analysis real GDP data for all US states for the second quarter of 2026",
-   "date": "2026-10-01T09:14:00-05:00",
-   "source": "FRED Blog",
-   "topic": "Economy"
-  },
-  {
-   "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
-   "excerpt": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
-   "date": "2026-09-30T13:00:00+00:00",
-   "source": "Federal Reserve",
-   "topic": "Economy"
-  },
-  {
-   "title": "What is the Treasury general account?",
-   "link": "https://fred.stlouisfed.org/blog/2026/09/what-is-the-treasury-general-account",
-   "excerpt": "As with any household or business, even the federal government needs an account to handle its bills and income. This account, provided by the Federal Reserve, is called the Treasury general account.",
-   "date": "2026-09-28T08:00:00-05:00",
-   "source": "FRED Blog",
-   "topic": "Economy"
-  },
-  {
-   "title": "Estimating the risk of recession in the US",
-   "link": "https://fred.stlouisfed.org/blog/2026/09/estimating-the-risk-of-recession-in-the-us",
-   "excerpt": "A new dataset in FRED provides the monthly probability the US economy is in recession. The latest data, for August 2026, show that probability was 0.08%. The data FRED has added...",
-   "date": "2026-09-24T08:00:00-05:00",
-   "source": "FRED Blog",
-   "topic": "Economy"
-  },
-  {
-   "title": "FOMC Summary of Economic Projections, September 2026",
-   "link": "https://fred.stlouisfed.org/blog/2026/09/fomc-summary-of-economic-projections-september-2026",
-   "excerpt": "In a previous FRED Blog post, we discussed the Summary of Economic Projections (SEP) released by the FOMC this past June. In this blog post, we again use ALFRED to compare the latest set of...",
-   "date": "2026-09-21T08:00:00-05:00",
-   "source": "FRED Blog",
    "topic": "Economy"
   },
   {
