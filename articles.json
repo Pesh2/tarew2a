@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T04:46:50.567697+00:00",
+ "updated": "2026-11-05T13:53:22.654201+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -39,7 +39,7 @@
   {
    "source": "Harvard Business Review",
    "ok": false,
-   "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+   "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1011)>"
   },
   {
    "source": "Marginal Revolution",
@@ -48,8 +48,8 @@
   },
   {
    "source": "Brookings",
-   "ok": false,
-   "error": "undefined entity: line 57, column 0"
+   "ok": true,
+   "count": 0
   },
   {
    "source": "Federal Reserve",
@@ -64,44 +64,132 @@
  ],
  "articles": [
   {
+   "title": "Faisal Islam: How high will interest rates go?",
+   "link": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The BBC's economics editor views one more interest rate as likely, but thinks that will be all.",
+   "date": "2026-11-05T13:17:10+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Three ways the interest rate rise could affect you",
+   "link": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England.",
+   "date": "2026-11-05T13:08:30+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Three ways the interest rate rise could affect you",
+   "link": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England.",
+   "date": "2026-11-05T13:08:30+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Interest rates hiked to 4% in first increase in over three years",
+   "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Most analysts expected the increase from 3.75% to 4%.",
+   "date": "2026-11-05T13:04:36+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Interest rates hiked to 4% in first increase in over three years",
+   "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Most analysts expected the increase from 3.75% to 4%.",
+   "date": "2026-11-05T13:04:36+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Pollution as Growth Killer",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/pollution-as-growth-killer.html?utm_source=rss&utm_medium=rss&utm_campaign=pollution-as-growth-killer",
+   "excerpt": "India’s Outlook Business has an excellent issue focusing on pollution not just as a people killer but as a growth killer (as I have emphasized pollution reduces wealth and health, see especially this video). I am…",
+   "date": "2026-11-05T12:17:06+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Why do veterinary fees and sausage rolls vary in price across London?",
+   "link": "https://www.bbc.co.uk/news/articles/cmgqw51gdnzyo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Location is not just the only factor on why prices differ across London, as Anna O'Neill finds out.",
+   "date": "2026-11-05T12:01:54+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Welsh aviation firm AerFin bought in £475m deal",
+   "link": "https://www.bbc.co.uk/news/articles/cq203vjxnln7o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The company, which was majority owned by a private equity firm, said it was beginning a \"new chapter\".",
+   "date": "2026-11-05T11:01:06+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
+   "link": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "A consultation will consider fines and other ways to clamp down on dangerous e-bike riders.",
+   "date": "2026-11-05T10:04:51+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Second buyer makes rescue bid for Poundland as retailer faces collapse",
+   "link": "https://www.bbc.co.uk/news/articles/c6lykq0kqwn7o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "A little-known investment group has made a bid to buy the business.",
+   "date": "2026-11-05T09:46:32+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Social media and political radicalization",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/social-media-and-political-radicalization.html?utm_source=rss&utm_medium=rss&utm_campaign=social-media-and-political-radicalization",
+   "excerpt": "For a while now, we have been hearing claims that social media radicalize the American electorate, and that social media damage teen mental health. Well, we just held a major set of elections that produced resoundingly…",
+   "date": "2026-11-05T09:19:09+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Poundland owner in crunch talks as retailer's collapse looms",
+   "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
+   "date": "2026-11-05T06:58:03+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Food, fuel and taxes – can the Democrats do anything to ease cost of living pressures?",
+   "link": "https://www.bbc.co.uk/news/articles/ck1ex50x5q46o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Democrats will hold Congress but President Donald Trump still has the power to block their plans.",
+   "date": "2026-11-05T06:01:05+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "My very good Conversation with Richard Hanania",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/my-very-good-conversation-with-richard-hanania.html?utm_source=rss&utm_medium=rss&utm_campaign=my-very-good-conversation-with-richard-hanania",
+   "excerpt": "Here is the video, audio, and transcript. Here is part of the episode summary: The first half of the conversation stays close to the text [Conrad’s Nostromo], covering the novel’s political backdrop, its deliberately…",
+   "date": "2026-11-05T05:51:48+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
    "title": "Pound rises to its highest level since the Brexit referendum",
    "link": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago",
+   "excerpt": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago.",
    "date": "2026-11-05T04:21:35+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
   {
-   "title": "Australia's oldest department store David Jones folds after 188 years",
-   "link": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The brand's 38 physical stores and online site will continue to operate while receivers review its operations.",
-   "date": "2026-11-05T00:59:22+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Interest rates expected to rise for first time in over three years",
-   "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Most analysts are predicting an increase from 3.75% to 4%, the first increase in more than three years.",
-   "date": "2026-11-05T00:00:09+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Interest rates expected to rise for first time in over three years",
-   "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Most analysts are predicting an increase from 3.75% to 4%, the first increase in more than three years.",
-   "date": "2026-11-05T00:00:09+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
-   "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
-   "date": "2026-11-04T21:41:15+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
+   "title": "Clearing up a robot’s fuzzy memory",
+   "link": "https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105",
+   "excerpt": "A new system identifies and corrects unreliable object descriptions stored in a robot’s memory, improving the robot’s ability to interact with its environment.",
+   "date": "2026-11-05T00:00:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
   },
   {
    "title": "What a CAPTCHA Farm Attack Actually Looks Like",
@@ -118,22 +206,6 @@
    "date": "2026-11-04T19:58:38+00:00",
    "source": "Marginal Revolution",
    "topic": "Economy"
-  },
-  {
-   "title": "Poundland owner in crunch talks as retailer's collapse looms",
-   "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
-   "date": "2026-11-04T19:44:46+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
-   "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The cereal giant has changed the recipes for Rice Krispies and Coco Pops, sparking a backlash online.",
-   "date": "2026-11-04T19:38:53+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "Introducing Socrates and the New freeCodeCamp Forum",
@@ -168,14 +240,6 @@
    "topic": "Tech"
   },
   {
-   "title": "What's happening to UK interest rates and what does it mean for mortgages?",
-   "link": "https://www.bbc.co.uk/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.",
-   "date": "2026-11-04T10:47:31+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "The election",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/the-election.html?utm_source=rss&utm_medium=rss&utm_campaign=the-election",
    "excerpt": "Procedurally it seems to have gone just fine, and the people predicting “the end of democracy in America” now look foolish. They have been suffering under fundamental misunderstandings of how this country works. During…",
@@ -184,36 +248,12 @@
    "topic": "Economy"
   },
   {
-   "title": "Swim and gym prices set to rise above inflation",
-   "link": "https://www.bbc.co.uk/news/articles/c6pvgw8gz1k4o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The rises would impact Perdiswell, St John's Sports Centre and Nunnery Wood Sports Complex.",
-   "date": "2026-11-04T06:13:19+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "Trade and the end of antiquity, or did Islam serve to deglobalize the world?",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/trade-and-the-end-of-antiquity-or-did-islam-serve-to-deglobalize-the-world.html?utm_source=rss&utm_medium=rss&utm_campaign=trade-and-the-end-of-antiquity-or-did-islam-serve-to-deglobalize-the-world",
    "excerpt": "How did trade and economic activity evolve at the End of Antiquity, when political power shifts away from the Mediterranean towards the Middle East and northern Europe? No records of ancient production, consumption, and…",
    "date": "2026-11-04T05:54:16+00:00",
    "source": "Marginal Revolution",
    "topic": "Economy"
-  },
-  {
-   "title": "Canva announces major job cuts after 'our hardest year yet'",
-   "link": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "CEO Melanie Perkins says more than 1,000 staff will either lose their jobs or be asked to change roles.",
-   "date": "2026-11-04T00:09:35+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Graduates are managing AI - but are they learning much else?",
-   "link": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
-   "date": "2026-11-04T00:04:35+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "MIT-led team receives funding to develop a wearable monitor for early disease detection",
@@ -230,14 +270,6 @@
    "date": "2026-11-04T00:00:00-05:00",
    "source": "MIT News",
    "topic": "Tech"
-  },
-  {
-   "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-   "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
-   "date": "2026-11-03T20:53:03+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "Ireland fact of the day",
@@ -336,22 +368,6 @@
    "topic": "Economy"
   },
   {
-   "title": "*Fjord* and *Fatherland*",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/fjord-and-fatherland.html?utm_source=rss&utm_medium=rss&utm_campaign=fjord-and-fatherland",
-   "excerpt": "Both of these movies I found worth watching. Fjord won the Golden Prize at Cannes, and it concerns the rights of the family vs. the rights of the state, when it comes to raising children. As I interpreted the story, it…",
-   "date": "2026-11-02T19:44:38+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
-   "title": "Monday assorted links",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/monday-assorted-links-584.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-584",
-   "excerpt": "1. Why is it now so common to be asked about your food allergies? (GPT Pro answer) 2. Training for alignment, applies principal-agent theory. 3. Do people offload empathy when they think AI can give it instead? 4. The…",
-   "date": "2026-11-02T17:13:35+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
    "title": "Lemelson-MIT brings invention education to classrooms from kindergarten to college",
    "link": "https://news.mit.edu/2026/lemelson-mit-brings-invention-education-classrooms-kindergarten-college-1102",
    "excerpt": "A new initiative in California, Tennessee, and New England puts learning by doing at the center of students’ STEM pathways, in step with MIT for America’s focus on helping students design, make, and innovate.",
@@ -384,14 +400,6 @@
    "topic": "Tech"
   },
   {
-   "title": "Expensive Pharmaceuticals for Targeted Diseases",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/expensive-pharmaceuticals-for-targeted-diseases.html?utm_source=rss&utm_medium=rss&utm_campaign=expensive-pharmaceuticals-for-targeted-diseases",
-   "excerpt": "My latest paper, The Price of a Cure: Luxturna and the Economic Dilemmas of Precision Medicine, is in the Journal of Law, Medicine and Ethics. I discuss the economics of the pharmaceutical industry and the special…",
-   "date": "2026-11-02T12:16:34+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
    "title": "How do global merchandise exports change over time?",
    "link": "https://fred.stlouisfed.org/blog/2026/11/how-do-global-merchandise-exports-change-over-time",
    "excerpt": "Global merchandise exports ebb and flow and undergo large changes in relatively short spans.",
@@ -412,14 +420,6 @@
    "link": "https://news.mit.edu/2026/regina-barzilay-jim-collins-win-pritzker-prize-ai-and-science-research-excellence-1102",
    "excerpt": "The MIT professors collaborated to identify the first AI-discovered antibiotic, a scientific breakthrough that is widely recognized as a milestone in AI-driven drug discovery.",
    "date": "2026-11-02T00:35:00-05:00",
-   "source": "MIT News",
-   "topic": "Tech"
-  },
-  {
-   "title": "MIT in the media: “Unpack My Cambridge\" with President Sally Kornbluth",
-   "link": "https://news.mit.edu/2026/mit-media-unpack-my-cambridge-president-sally-kornbluth",
-   "excerpt": "Kornbluth: “We hope to see you here soon on a visit to MIT, whether you are a prospective student, whether you are a tourist or whether you are just someone who likes really cool things.”",
-   "date": "2026-11-02T00:00:00-05:00",
    "source": "MIT News",
    "topic": "Tech"
   },
