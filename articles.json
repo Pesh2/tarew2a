@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T21:29:39.703266+00:00",
+ "updated": "2026-11-05T04:46:50.567697+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -39,7 +39,7 @@
   {
    "source": "Harvard Business Review",
    "ok": false,
-   "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1011)>"
+   "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
   },
   {
    "source": "Marginal Revolution",
@@ -63,6 +63,54 @@
   }
  ],
  "articles": [
+  {
+   "title": "Pound rises to its highest level since the Brexit referendum",
+   "link": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago",
+   "date": "2026-11-05T04:21:35+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Australia's oldest department store David Jones folds after 188 years",
+   "link": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The brand's 38 physical stores and online site will continue to operate while receivers review its operations.",
+   "date": "2026-11-05T00:59:22+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Interest rates expected to rise for first time in over three years",
+   "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Most analysts are predicting an increase from 3.75% to 4%, the first increase in more than three years.",
+   "date": "2026-11-05T00:00:09+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Interest rates expected to rise for first time in over three years",
+   "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Most analysts are predicting an increase from 3.75% to 4%, the first increase in more than three years.",
+   "date": "2026-11-05T00:00:09+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+   "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
+   "date": "2026-11-04T21:41:15+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "What a CAPTCHA Farm Attack Actually Looks Like",
+   "link": "https://www.freecodecamp.org/news/captcha-farm-attack/",
+   "excerpt": "CAPTCHAs are something most of us have come across while browsing the internet. Sometimes we're asked to identify traffic lights in pictures, solve a small puzzle, or simply tick a box to confirm we'r",
+   "date": "2026-11-04T21:32:45+00:00",
+   "source": "freeCodeCamp",
+   "topic": "Tech"
+  },
   {
    "title": "What Drives Censorship on College Campuses?",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/what-drives-censorship-on-college-campuses.html?utm_source=rss&utm_medium=rss&utm_campaign=what-drives-censorship-on-college-campuses",
@@ -88,20 +136,20 @@
    "topic": "Business"
   },
   {
+   "title": "Introducing Socrates and the New freeCodeCamp Forum",
+   "link": "https://www.freecodecamp.org/news/introducing-socrates-and-the-new-freecodecamp-forum/",
+   "excerpt": "freeCodeCamp just turned 12 years old. And so did our beloved forum. And today I'm thrilled to say that the forum is now focused on discussions rather than Q&A. This is thanks to Socrates, a new tool",
+   "date": "2026-11-04T19:23:56+00:00",
+   "source": "freeCodeCamp",
+   "topic": "Tech"
+  },
+  {
    "title": "Wednesday assorted links",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/wednesday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-578",
    "excerpt": "1. Important people in the AI world. 2. Ted Nordhaus on Bill Nordhaus. 3. “That universities facilitate broader political mobilization can explain why governments often seek to restrict student activism.” 4. NYT…",
    "date": "2026-11-04T16:48:24+00:00",
    "source": "Marginal Revolution",
    "topic": "Economy"
-  },
-  {
-   "title": "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
-   "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The billionaire's political action committee (Pac) contributed $47m (£35m) to Ken Paxton's campaign.",
-   "date": "2026-11-04T15:51:37+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
@@ -240,22 +288,6 @@
    "topic": "Tech"
   },
   {
-   "title": "Keeping mortgage interest relief approved",
-   "link": "https://www.bbc.co.uk/news/articles/c6vgj0ljx01jo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Homeowners can get tax relief of £3,500 on the money spent on the interstate of a mortgage.",
-   "date": "2026-11-03T16:44:20+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-   "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
-   "date": "2026-11-03T16:19:29+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "Learn Vector Databases for Beginners – Embeddings, Similarity Search & ChromaDB",
    "link": "https://www.freecodecamp.org/news/learn-vector-databases-for-beginners-embeddings-similarity-search-chromadb/",
    "excerpt": "A vector database stores data as lists of numbers called embeddings, which lets it search by meaning instead of matching exact keywords. It's the piece behind a lot of recommendation systems, RAG apps",
@@ -270,22 +302,6 @@
    "date": "2026-11-03T16:00:00-05:00",
    "source": "MIT News",
    "topic": "Tech"
-  },
-  {
-   "title": "Asda hires ex-Morrisons boss in bid to grow firm",
-   "link": "https://www.bbc.co.uk/news/articles/c6vg0xzd0ln4o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "David Potts takes charge of Asda, which is based in Leeds, with immediate effect.",
-   "date": "2026-11-03T15:12:35+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Mining giant joins fight to stop killer toad march across Australia",
-   "link": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Rio Tinto is jointly funding a A$28m \"toad containment zone\" to protect the Pilbara region.",
-   "date": "2026-11-03T15:05:01+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "Building connections across the research infrastructure",
@@ -452,22 +468,6 @@
    "link": "https://www.freecodecamp.org/news/high-speed-decision-pipelines-jev-and-prefill-only-inference-from-scratch/",
    "excerpt": "Autoregressive token generation is notoriously slow and memory-intensive, especially when you only need a model to make a structured classification or routing decision rather than write out paragraphs",
    "date": "2026-10-29T20:55:47+00:00",
-   "source": "freeCodeCamp",
-   "topic": "Tech"
-  },
-  {
-   "title": "Build with Gemini 4 Argon – Fast-Track API Crash Course",
-   "link": "https://www.freecodecamp.org/news/build-with-gemini-4-argon-fast-track-api-crash-course/",
-   "excerpt": "Google just released Gemini 4 Argon which is its most capable model designed specifically for complex reasoning, advanced coding, math, and science. To help you get building right away, we just publis",
-   "date": "2026-10-29T20:52:46+00:00",
-   "source": "freeCodeCamp",
-   "topic": "Tech"
-  },
-  {
-   "title": "Secure Your AI Agents – Free Model Context Protocol (MCP) Security Course",
-   "link": "https://www.freecodecamp.org/news/secure-your-ai-agents-free-model-context-protocol-mcp-security-course/",
-   "excerpt": "The Model Context Protocol (MCP) helps connect LLMs to external tools, databases, and APIs. But giving AI agents hands and feet to take real-world actions introduces an entirely new attack surface. We",
-   "date": "2026-10-29T20:48:09+00:00",
    "source": "freeCodeCamp",
    "topic": "Tech"
   },
