@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T21:19:26.189803+00:00",
+ "updated": "2026-11-06T04:46:30.172678+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -64,20 +64,44 @@
  ],
  "articles": [
   {
+   "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+   "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+   "date": "2026-11-06T02:57:24+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "The engine parts that 'fight the laws of the universe'",
+   "link": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
+   "date": "2026-11-06T00:06:06+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "'I was asked if I was a crier': Your worst job interviews revealed",
+   "link": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Bad job interviews can be horrible to experience in the moment, but there is a lot they can teach us about the world of work",
+   "date": "2026-11-06T00:02:52+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Firms told to publish salaries in job adverts ahead of new law",
+   "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The government argues the change will help jobseekers and could help to prevent pay discrimination.",
+   "date": "2026-11-05T22:32:02+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
    "title": "Love at first photo?",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/love-at-first-photo.html?utm_source=rss&utm_medium=rss&utm_campaign=love-at-first-photo",
    "excerpt": "Romantic interest on swipe-based dating apps (SBDAs) is highly concentrated. This can frustrate both popular users who feel overwhelmed by a glut of attention, and less popular users who feel dejected by a lack of it.…",
    "date": "2026-11-05T19:55:13+00:00",
    "source": "Marginal Revolution",
    "topic": "Economy"
-  },
-  {
-   "title": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
-   "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms",
-   "date": "2026-11-05T17:57:57+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "Thursday assorted links",
@@ -184,36 +208,12 @@
    "topic": "Tech"
   },
   {
-   "title": "Welsh aviation firm AerFin bought in £475m deal",
-   "link": "https://www.bbc.co.uk/news/articles/cq203vjxnln7o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The company, which was majority owned by a private equity firm, said it was beginning a \"new chapter\".",
-   "date": "2026-11-05T11:01:06+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Second buyer makes rescue bid for Poundland as retailer faces collapse",
-   "link": "https://www.bbc.co.uk/news/articles/c6lykq0kqwn7o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "A little-known investment group has made a bid to buy the business.",
-   "date": "2026-11-05T09:46:32+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "Social media and political radicalization",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/social-media-and-political-radicalization.html?utm_source=rss&utm_medium=rss&utm_campaign=social-media-and-political-radicalization",
    "excerpt": "For a while now, we have been hearing claims that social media radicalize the American electorate, and that social media damage teen mental health. Well, we just held a major set of elections that produced resoundingly…",
    "date": "2026-11-05T09:19:09+00:00",
    "source": "Marginal Revolution",
    "topic": "Economy"
-  },
-  {
-   "title": "Poundland owner in crunch talks as retailer's collapse looms",
-   "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
-   "date": "2026-11-05T06:58:03+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "My very good Conversation with Richard Hanania",
