@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T13:37:44.152465+00:00",
+ "updated": "2026-11-06T20:40:44.945280+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -58,26 +58,106 @@
   },
   {
    "source": "FRED Blog",
-   "ok": true,
-   "count": 12
+   "ok": false,
+   "error": "The read operation timed out"
   }
  ],
  "articles": [
   {
-   "title": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
-   "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
-   "date": "2026-11-06T13:25:50+00:00",
+   "title": "AI stocks climb after trillions wiped from market values",
+   "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+   "date": "2026-11-06T19:37:10+00:00",
    "source": "BBC Business",
    "topic": "Business"
+  },
+  {
+   "title": "Why the US midterms sparked an AI stock selloff",
+   "link": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.",
+   "date": "2026-11-06T18:32:16+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Friday assorted links",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/friday-assorted-links-598.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-598",
+   "excerpt": "1. What will happen with Texas data centers? And more on that. 2. What is the half life of a claim about LLMs? 3. YouTube video created by AI. Titled Der Zauberberg. 4. Data centers tend to be put in places with…",
+   "date": "2026-11-06T18:07:28+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Untethered AI agents in Delaware?",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/untethered-ai-agents-in-delaware.html?utm_source=rss&utm_medium=rss&utm_campaign=untethered-ai-agents-in-delaware",
+   "excerpt": "A Delaware AIC will be a separate legal entity whose day-to-day aﬀairs are managed by an AI agent rather than a person. At the agent’s direction, the AIC can sue and be sued in its own name, hold and dispose of…",
+   "date": "2026-11-06T17:00:22+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Food bank to close amid rising costs",
+   "link": "https://www.bbc.co.uk/news/articles/cqrkyyj6rx7ro?at_medium=RSS&at_campaign=rss",
+   "excerpt": "A food bank in Goole annouces it will close in January as costs rise and donations drop.",
+   "date": "2026-11-06T16:42:23+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Winter support for residents facing cost pressures",
+   "link": "https://www.bbc.co.uk/news/articles/cm20rrer25ezo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The plans aim to help more people access food, financial advice and help with heating costs.",
+   "date": "2026-11-06T16:22:18+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Godot 4 Roguelike Course – Build a Complete Top-Down Action Game",
+   "link": "https://www.freecodecamp.org/news/godot-4-roguelike-course-build-a-complete-top-down-action-game/",
+   "excerpt": "A top-down action roguelite only works when combat feels sharp, rooms feel connected, and every run asks you to trade power for risk. Godot 4 has the tools for that, but most tutorials stop before tho",
+   "date": "2026-11-06T16:06:33+00:00",
+   "source": "freeCodeCamp",
+   "topic": "Tech"
+  },
+  {
+   "title": "A Strange Quantum Theorem Has Killed Einstein’s Reality",
+   "link": "https://www.quantamagazine.org/a-strange-quantum-theorem-has-killed-einsteins-reality-20261106/",
+   "excerpt": "Albert Einstein fought to save our everyday notion of reality from the strangeness of quantum mechanics. But those who set out to aid him keep poking holes in his argument. The post A Strange Quantum Theorem Has Killed…",
+   "date": "2026-11-06T15:48:54+00:00",
+   "source": "Quanta Magazine",
+   "topic": "Math & Science"
   },
   {
    "title": "PM tells firms to publish salaries in job adverts ahead of new law",
    "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
    "excerpt": "The government argues the change will help jobseekers and could help to prevent pay discrimination.",
-   "date": "2026-11-06T13:19:07+00:00",
+   "date": "2026-11-06T15:25:43+00:00",
    "source": "BBC Business",
    "topic": "Business"
+  },
+  {
+   "title": "Workers' rights 'second place' to economic growth",
+   "link": "https://www.bbc.co.uk/news/videos/cq369l9r634ro?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Jersey's Economic Development Minister has told the BBC that workers' rights may have to take 'second place' to economic growth.",
+   "date": "2026-11-06T14:52:49+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Fabric molds could bring material-saving concrete beams within reach",
+   "link": "https://news.mit.edu/2026/fabric-molds-could-bring-material-saving-concrete-beams-within-reach-1106",
+   "excerpt": "MIT engineers cast a concrete beam using a sewn fabric mold with one-third the amount of concrete and half as much steel as a conventional beam.",
+   "date": "2026-11-06T14:35:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
+  },
+  {
+   "title": "How to predict the behavior of molecules from scant data",
+   "link": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106",
+   "excerpt": "A machine-learning approach called CheMeleon provides a practical way to develop new drugs or other molecules with much less detailed, expensive experimentation.",
+   "date": "2026-11-06T14:00:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
   },
   {
    "title": "What They Took From You",
@@ -94,6 +174,22 @@
    "date": "2026-11-06T11:40:35+00:00",
    "source": "BBC Business",
    "topic": "Business"
+  },
+  {
+   "title": "MIT affiliates elected 2026 American Geophysical Union Fellows",
+   "link": "https://news.mit.edu/2026/mit-affiliates-elected-agu-fellows-1106",
+   "excerpt": "Anthea Coster, Carolyn Ruppel, César Terrer, and eight additional alumni are honored for their work in the geosciences.",
+   "date": "2026-11-06T11:15:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
+  },
+  {
+   "title": "Scene at MIT: Beautiful, intricate, creative quilts",
+   "link": "https://news.mit.edu/2026/scene-mit-beautiful-intricate-creative-quilts-1106",
+   "excerpt": "The MIT Quilt Show, featuring more than 40 quilted projects from 20 members of the MIT community, drew almost 1,000 visitors over three days.",
+   "date": "2026-11-06T10:35:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
   },
   {
    "title": "Elon Musk appears to signal the end of the road for Cybertruck",
@@ -184,44 +280,12 @@
    "topic": "Tech"
   },
   {
-   "title": "Interest rates hiked to 4% in first increase in over three years",
-   "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Most analysts expected the increase from 3.75% to 4%.",
-   "date": "2026-11-05T17:09:55+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Interest rates hiked to 4% in first increase in over three years",
-   "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Most analysts expected the increase from 3.75% to 4%.",
-   "date": "2026-11-05T17:09:55+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
    "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
    "excerpt": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
    "date": "2026-11-05T16:00:00+00:00",
    "source": "Federal Reserve",
    "topic": "Economy"
-  },
-  {
-   "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
-   "link": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "A consultation will consider fines and other ways to clamp down on dangerous e-bike riders.",
-   "date": "2026-11-05T15:27:09+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Why do veterinary fees and sausage rolls vary in price across London?",
-   "link": "https://www.bbc.co.uk/news/articles/cmgqw51gdnzyo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Location is not just the only factor on why prices differ across London, as Anna O'Neill finds out.",
-   "date": "2026-11-05T15:19:36+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "Pollution as Growth Killer",
@@ -245,14 +309,6 @@
    "excerpt": "For a while now, we have been hearing claims that social media radicalize the American electorate, and that social media damage teen mental health. Well, we just held a major set of elections that produced resoundingly…",
    "date": "2026-11-05T09:19:09+00:00",
    "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
-   "title": "Using the Annual Integrated Survey to recalibrate the monthly data",
-   "link": "https://fred.stlouisfed.org/blog/2026/11/using-the-annual-integrated-survey-to-recalibrate-the-monthly-data",
-   "excerpt": "The Census Bureau's Annual Integrated Economic Survey (AIES) is a benchmark to adjust speedier surveys that are released at higher frequencies",
-   "date": "2026-11-05T08:00:00-06:00",
-   "source": "FRED Blog",
    "topic": "Economy"
   },
   {
@@ -320,22 +376,6 @@
    "topic": "Tech"
   },
   {
-   "title": "The election",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/the-election.html?utm_source=rss&utm_medium=rss&utm_campaign=the-election",
-   "excerpt": "Procedurally it seems to have gone just fine, and the people predicting “the end of democracy in America” now look foolish. They have been suffering under fundamental misunderstandings of how this country works. During…",
-   "date": "2026-11-04T07:41:25+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
-   "title": "Trade and the end of antiquity, or did Islam serve to deglobalize the world?",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/trade-and-the-end-of-antiquity-or-did-islam-serve-to-deglobalize-the-world.html?utm_source=rss&utm_medium=rss&utm_campaign=trade-and-the-end-of-antiquity-or-did-islam-serve-to-deglobalize-the-world",
-   "excerpt": "How did trade and economic activity evolve at the End of Antiquity, when political power shifts away from the Mediterranean towards the Middle East and northern Europe? No records of ancient production, consumption, and…",
-   "date": "2026-11-04T05:54:16+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
    "title": "MIT-led team receives funding to develop a wearable monitor for early disease detection",
    "link": "https://news.mit.edu/2026/mit-led-team-receives-funding-for-early-disease-detection-wearable-monitor-1104",
    "excerpt": "Awarded up to $38 million from ARPA-H, the team aims to create a low-power, noninvasive sensor patch that measures heart failure and sepsis biomarkers in real-time.",
@@ -400,52 +440,12 @@
    "topic": "Tech"
   },
   {
-   "title": "Building connections across the research infrastructure",
-   "link": "https://news.mit.edu/2026/building-connections-across-research-infrastructure-1103",
-   "excerpt": "MIT.nano and the Northeast Microelectronics Coalition gathered facility leaders and technology professionals from across the nation to explore ways to make shared-access facilities more connected.",
-   "date": "2026-11-03T14:30:00-05:00",
-   "source": "MIT News",
-   "topic": "Tech"
-  },
-  {
-   "title": "Lemelson-MIT brings invention education to classrooms from kindergarten to college",
-   "link": "https://news.mit.edu/2026/lemelson-mit-brings-invention-education-classrooms-kindergarten-college-1102",
-   "excerpt": "A new initiative in California, Tennessee, and New England puts learning by doing at the center of students’ STEM pathways, in step with MIT for America’s focus on helping students design, make, and innovate.",
-   "date": "2026-11-02T16:25:00-05:00",
-   "source": "MIT News",
-   "topic": "Tech"
-  },
-  {
    "title": "Is There Anything Left in the Dream of Cold Fusion?",
    "link": "https://www.quantamagazine.org/is-there-anything-left-in-the-dream-of-cold-fusion-20261102/",
    "excerpt": "Dig a little deeper and you’ll find a thriving research program with exotic atoms that won’t solve the energy crisis but stretches the boundaries of physics. The post Is There Anything Left in the Dream of Cold Fusion?…",
    "date": "2026-11-02T15:48:57+00:00",
    "source": "Quanta Magazine",
    "topic": "Math & Science"
-  },
-  {
-   "title": "Faces of MIT: Vera Grbic",
-   "link": "https://news.mit.edu/2026/faces-of-mit-vera-grbic-1102",
-   "excerpt": "IDHR communications officer Vera Grbic helps connect the MIT community with resources, support, and information through clear and accessible messaging.",
-   "date": "2026-11-02T15:45:00-05:00",
-   "source": "MIT News",
-   "topic": "Tech"
-  },
-  {
-   "title": "Powering up for a pivotal moment",
-   "link": "https://news.mit.edu/2026/powering-up-for-pivotal-moment-1102",
-   "excerpt": "From a nuclear revival to qubits, the MIT Energy Initiative’s annual research conference tracked deployment of today’s technologies to discovery of tomorrow’s breakthroughs.",
-   "date": "2026-11-02T14:55:00-05:00",
-   "source": "MIT News",
-   "topic": "Tech"
-  },
-  {
-   "title": "How do global merchandise exports change over time?",
-   "link": "https://fred.stlouisfed.org/blog/2026/11/how-do-global-merchandise-exports-change-over-time",
-   "excerpt": "Global merchandise exports ebb and flow and undergo large changes in relatively short spans.",
-   "date": "2026-11-02T08:00:00-06:00",
-   "source": "FRED Blog",
-   "topic": "Economy"
   },
   {
    "title": "Around half of people will experience a mental health issue in their lifetime",
@@ -480,14 +480,6 @@
    "topic": "Tech"
   },
   {
-   "title": "Learn Real-World Penetration Testing: Hands-On Ethical Hacking Crash Course",
-   "link": "https://www.freecodecamp.org/news/learn-real-world-penetration-testing-hands-on-ethical-hacking-crash-course/",
-   "excerpt": "Understanding how malicious actors infiltrate networks is the first step to building resilient infrastructure. To help developers and aspiring security analysts learn the fundamentals of offensive sec",
-   "date": "2026-10-29T21:00:09+00:00",
-   "source": "freeCodeCamp",
-   "topic": "Tech"
-  },
-  {
    "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
    "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
    "excerpt": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
@@ -504,35 +496,11 @@
    "topic": "Math & Science"
   },
   {
-   "title": "Updates to MSA maps in FRED",
-   "link": "https://fred.stlouisfed.org/blog/2026/10/updates-to-MSA-maps-in-FRED",
-   "excerpt": "FRED updates its metropolitan statistical area (MSA) maps to reflect the U.S. Census Bureau's core-based statistical area delineations.",
-   "date": "2026-10-29T08:00:00-05:00",
-   "source": "FRED Blog",
-   "topic": "Economy"
-  },
-  {
    "title": "Federal Reserve issues FOMC statement",
    "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
    "excerpt": "Federal Reserve issues FOMC statement",
    "date": "2026-10-28T18:00:00+00:00",
    "source": "Federal Reserve",
-   "topic": "Economy"
-  },
-  {
-   "title": "How Spiders Spin ‘Silk Dope’ Into Nature’s Toughest Material",
-   "link": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
-   "excerpt": "By probing its molecular structure, biologists are uncovering how a tangle of unstructured proteins turns into a strong, flexible fiber. The post How Spiders Spin ‘Silk Dope’ Into Nature’s Toughest Material first…",
-   "date": "2026-10-28T16:04:18+00:00",
-   "source": "Quanta Magazine",
-   "topic": "Math & Science"
-  },
-  {
-   "title": "Net domestic product",
-   "link": "https://fred.stlouisfed.org/blog/2026/10/net-domestic-product",
-   "excerpt": "Gross domestic product measures all production. Net domestic product removes production that replaces depreciated goods.",
-   "date": "2026-10-26T08:00:00-05:00",
-   "source": "FRED Blog",
    "topic": "Economy"
   },
   {
@@ -542,22 +510,6 @@
    "date": "2026-10-26T00:00:00+00:00",
    "source": "Our World in Data",
    "topic": "Data"
-  },
-  {
-   "title": "Early signs of AI-driven productivity growth in the information sector?",
-   "link": "https://fred.stlouisfed.org/blog/2026/10/early-signs-of-ai-driven-productivity-growth-in-information-sector",
-   "excerpt": "Since the advent of GenAI, productivity in the information sector has grown much faster than usual and much faster than the overall economy.",
-   "date": "2026-10-22T08:00:00-05:00",
-   "source": "FRED Blog",
-   "topic": "Economy"
-  },
-  {
-   "title": "Which businesses are using AI technology?",
-   "link": "https://fred.stlouisfed.org/blog/2026/10/which-businesses-are-using-ai-technology",
-   "excerpt": "More than half of all businesses paid for an artificial intelligence (AI) product or service. Adoption rates jumped after ChatGPT's public launch in late 2022 and have risen steadily since.",
-   "date": "2026-10-19T08:00:00-05:00",
-   "source": "FRED Blog",
-   "topic": "Economy"
   },
   {
    "title": "When do people experience mental health conditions for the first time?",
@@ -573,14 +525,6 @@
    "excerpt": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
    "date": "2026-10-16T15:00:00+00:00",
    "source": "Federal Reserve",
-   "topic": "Economy"
-  },
-  {
-   "title": "Is the Treasury convenience yield rebounding?",
-   "link": "https://fred.stlouisfed.org/blog/2026/10/Is-the-Treasury-convenience-yield-rebounding",
-   "excerpt": "The spread between AAA corporate bonds and Treasuries has widened since October 2025, suggesting a partial recovery in the Treasury convenience yield.",
-   "date": "2026-10-15T08:00:00-05:00",
-   "source": "FRED Blog",
    "topic": "Economy"
   },
   {
@@ -605,14 +549,6 @@
    "excerpt": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money…",
    "date": "2026-10-08T20:30:00+00:00",
    "source": "Federal Reserve",
-   "topic": "Economy"
-  },
-  {
-   "title": "Assets across pension types",
-   "link": "https://fred.stlouisfed.org/blog/2026/10/assets-across-pension-types",
-   "excerpt": "Assets backing defined contribution pensions have grown far more than assets backing defined benefit pensions. But the former are also far more volatile.",
-   "date": "2026-10-08T08:00:00-05:00",
-   "source": "FRED Blog",
    "topic": "Economy"
   },
   {
@@ -648,14 +584,6 @@
    "topic": "Data"
   },
   {
-   "title": "Connect your AI assistant to FRED",
-   "link": "https://fred.stlouisfed.org/blog/2026/10/connect-your-ai-assistant-to-FRED",
-   "excerpt": "FRED's new MCP connector directs your AI assistant to the data you need",
-   "date": "2026-10-04T08:35:00-05:00",
-   "source": "FRED Blog",
-   "topic": "Economy"
-  },
-  {
    "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
    "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
    "excerpt": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
@@ -677,30 +605,6 @@
    "excerpt": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
    "date": "2026-10-02T15:00:00+00:00",
    "source": "Federal Reserve",
-   "topic": "Economy"
-  },
-  {
-   "title": "Real GDP by state: Second quarter 2026",
-   "link": "https://fred.stlouisfed.org/blog/2026/10/real-gdp-by-state-second-quarter-2026",
-   "excerpt": "Bureau of Economic Analysis real GDP data for all US states for the second quarter of 2026",
-   "date": "2026-10-01T09:14:00-05:00",
-   "source": "FRED Blog",
-   "topic": "Economy"
-  },
-  {
-   "title": "What is the Treasury general account?",
-   "link": "https://fred.stlouisfed.org/blog/2026/09/what-is-the-treasury-general-account",
-   "excerpt": "As with any household or business, even the federal government needs an account to handle its bills and income. This account, provided by the Federal Reserve, is called the Treasury general account.",
-   "date": "2026-09-28T08:00:00-05:00",
-   "source": "FRED Blog",
-   "topic": "Economy"
-  },
-  {
-   "title": "Estimating the risk of recession in the US",
-   "link": "https://fred.stlouisfed.org/blog/2026/09/estimating-the-risk-of-recession-in-the-us",
-   "excerpt": "A new dataset in FRED provides the monthly probability the US economy is in recession. The latest data, for August 2026, show that probability was 0.08%. The data FRED has added...",
-   "date": "2026-09-24T08:00:00-05:00",
-   "source": "FRED Blog",
    "topic": "Economy"
   },
   {
