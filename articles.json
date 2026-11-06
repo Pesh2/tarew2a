@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T04:46:30.172678+00:00",
+ "updated": "2026-11-06T13:37:44.152465+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -58,18 +58,82 @@
   },
   {
    "source": "FRED Blog",
-   "ok": false,
-   "error": "The read operation timed out"
+   "ok": true,
+   "count": 12
   }
  ],
  "articles": [
   {
-   "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+   "title": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
    "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
    "excerpt": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
-   "date": "2026-11-06T02:57:24+00:00",
+   "date": "2026-11-06T13:25:50+00:00",
    "source": "BBC Business",
    "topic": "Business"
+  },
+  {
+   "title": "PM tells firms to publish salaries in job adverts ahead of new law",
+   "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The government argues the change will help jobseekers and could help to prevent pay discrimination.",
+   "date": "2026-11-06T13:19:07+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "What They Took From You",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/what-they-took-from-you.html?utm_source=rss&utm_medium=rss&utm_campaign=what-they-took-from-you",
+   "excerpt": "Until August 1914 a sensible, law-abiding Englishman could pass through life and hardly notice the existence of the state, beyond the post office and the police. He could live where he liked and as he liked. He had no…",
+   "date": "2026-11-06T12:15:49+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "'I've taken an extra job to pay for heating oil'",
+   "link": "https://www.bbc.co.uk/news/articles/cmj47j7e92gvo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "People in Sussex say they are taking on extra work and not heating their homes due to oil prices.",
+   "date": "2026-11-06T11:40:35+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+   "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+   "date": "2026-11-06T09:57:04+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "How does it affect me if share prices fall?",
+   "link": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Changes in the FTSE 100 and other indexes are not just for financial experts, they can affect our lives.",
+   "date": "2026-11-06T09:21:50+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "How does it affect me if share prices fall?",
+   "link": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Changes in the FTSE 100 and other indexes are not just for financial experts, they can affect our lives.",
+   "date": "2026-11-06T09:21:50+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "The Global Office",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/the-global-office.html?utm_source=rss&utm_medium=rss&utm_campaign=the-global-office",
+   "excerpt": "This paper argues that globalisation’s frontier has shifted from manufacturing GVCs to services GVCs: from the Global Factory to the Global Office. While the Factory remains larger in gross trade, the Office is growing…",
+   "date": "2026-11-06T06:18:58+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Natasha Cowen guest posts on Caffrey",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/natasha-cowen-guest-posts-on-caffrey.html?utm_source=rss&utm_medium=rss&utm_campaign=natasha-cowen-guest-posts-on-caffrey",
+   "excerpt": "I am on my way back home from Armenia, where I was on a Fulbright teaching U.S. securities regulation to Armenian law students. I’m an active user of AI for multiple areas of my life, including my professional life.…",
+   "date": "2026-11-06T05:54:49+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
   },
   {
    "title": "The engine parts that 'fight the laws of the universe'",
@@ -88,12 +152,12 @@
    "topic": "Business"
   },
   {
-   "title": "Firms told to publish salaries in job adverts ahead of new law",
-   "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The government argues the change will help jobseekers and could help to prevent pay discrimination.",
-   "date": "2026-11-05T22:32:02+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
+   "title": "Studying bacteria and the cells they infect",
+   "link": "https://news.mit.edu/2026/studying-bacteria-and-cells-they-infect-rebecca-lamason-1106",
+   "excerpt": "By exploring how bacteria hijack cell functions, Associate Professor Rebecca Lamason hopes to learn more about how host cells carry out those functions.",
+   "date": "2026-11-06T00:00:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
   },
   {
    "title": "Love at first photo?",
@@ -160,38 +224,6 @@
    "topic": "Business"
   },
   {
-   "title": "What does the raise in interest rates mean?",
-   "link": "https://www.bbc.co.uk/news/videos/c9kgjvmn4vlno?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The BBC's cost of living correspondent Kevin Peachey explains what the change could mean for those saving for a holiday or to buying a house.",
-   "date": "2026-11-05T14:02:24+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Faisal Islam: How high will interest rates go?",
-   "link": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The BBC's economics editor views one more interest rate as likely, but thinks that will be all.",
-   "date": "2026-11-05T13:17:10+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Three ways the interest rate rise could affect you",
-   "link": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England.",
-   "date": "2026-11-05T13:08:30+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Three ways the interest rate rise could affect you",
-   "link": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England.",
-   "date": "2026-11-05T13:08:30+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "Pollution as Growth Killer",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/pollution-as-growth-killer.html?utm_source=rss&utm_medium=rss&utm_campaign=pollution-as-growth-killer",
    "excerpt": "India’s Outlook Business has an excellent issue focusing on pollution not just as a people killer but as a growth killer (as I have emphasized pollution reduces wealth and health, see especially this video). I am…",
@@ -213,6 +245,14 @@
    "excerpt": "For a while now, we have been hearing claims that social media radicalize the American electorate, and that social media damage teen mental health. Well, we just held a major set of elections that produced resoundingly…",
    "date": "2026-11-05T09:19:09+00:00",
    "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Using the Annual Integrated Survey to recalibrate the monthly data",
+   "link": "https://fred.stlouisfed.org/blog/2026/11/using-the-annual-integrated-survey-to-recalibrate-the-monthly-data",
+   "excerpt": "The Census Bureau's Annual Integrated Economic Survey (AIES) is a benchmark to adjust speedier surveys that are released at higher frequencies",
+   "date": "2026-11-05T08:00:00-06:00",
+   "source": "FRED Blog",
    "topic": "Economy"
   },
   {
@@ -312,14 +352,6 @@
    "topic": "Tech"
   },
   {
-   "title": "Ireland fact of the day",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/ireland-fact-of-the-day-8.html?utm_source=rss&utm_medium=rss&utm_campaign=ireland-fact-of-the-day-8",
-   "excerpt": "Almost half of Ireland’s corporation tax haul comes from just three companies: Apple, Eli Lilly and Microsoft. Here is much more from Jude Webber at the FT, on why Ireland does not always feel or operate like a wealthy…",
-   "date": "2026-11-03T19:26:51+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
    "title": "How to Find and Fix Common Technical SEO Issues on Your Website",
    "link": "https://www.freecodecamp.org/news/fix-common-technical-seo-issues/",
    "excerpt": "Let's say you've built a website. You've invested in the design, bought a domain, and so on. But a website isn't only what you see on the screen. A lot happens behind the scenes. You have to understan",
@@ -334,14 +366,6 @@
    "date": "2026-11-03T18:40:47+00:00",
    "source": "freeCodeCamp",
    "topic": "Tech"
-  },
-  {
-   "title": "Tuesday assorted links",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-593.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-593",
-   "excerpt": "1. Jason Furman on AI and the CEA. 2. Matt Kahn uses Refine and gets results. 3. Cyril Hilsum, RIP (flat screen TV, NYT). 4. How much of the return to education is in fact a return to genes? 5. Essay contest on how AI…",
-   "date": "2026-11-03T17:01:23+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
   },
   {
    "title": "3 Questions: Building more resilient minerals supply chains",
@@ -384,14 +408,6 @@
    "topic": "Tech"
   },
   {
-   "title": "Thoughts on Owning a Self-Driving Tesla",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/thoughts-on-owning-a-self-driving-tesla.html?utm_source=rss&utm_medium=rss&utm_campaign=thoughts-on-owning-a-self-driving-tesla",
-   "excerpt": "My Subaru was showing its years so I recently bought a Tesla. My thinking was I can buy a car or I can buy a car+driver for the same price. Simple choice. I’ve driven about 2000 miles including one long trip (6 hours)…",
-   "date": "2026-11-03T12:18:06+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
    "title": "Lemelson-MIT brings invention education to classrooms from kindergarten to college",
    "link": "https://news.mit.edu/2026/lemelson-mit-brings-invention-education-classrooms-kindergarten-college-1102",
    "excerpt": "A new initiative in California, Tennessee, and New England puts learning by doing at the center of students’ STEM pathways, in step with MIT for America’s focus on helping students design, make, and innovate.",
@@ -424,12 +440,12 @@
    "topic": "Tech"
   },
   {
-   "title": "A flexible new route to designer materials built from nanoparticles",
-   "link": "https://news.mit.edu/2026/flexible-new-route-designer-materials-from-nanoparticles-1102",
-   "excerpt": "Pliable connector molecules could be key to creating nanoparticle-based materials for photonics, chemical catalysis, medicine, and more.",
-   "date": "2026-11-02T05:00:00-05:00",
-   "source": "MIT News",
-   "topic": "Tech"
+   "title": "How do global merchandise exports change over time?",
+   "link": "https://fred.stlouisfed.org/blog/2026/11/how-do-global-merchandise-exports-change-over-time",
+   "excerpt": "Global merchandise exports ebb and flow and undergo large changes in relatively short spans.",
+   "date": "2026-11-02T08:00:00-06:00",
+   "source": "FRED Blog",
+   "topic": "Economy"
   },
   {
    "title": "Around half of people will experience a mental health issue in their lifetime",
@@ -488,6 +504,14 @@
    "topic": "Math & Science"
   },
   {
+   "title": "Updates to MSA maps in FRED",
+   "link": "https://fred.stlouisfed.org/blog/2026/10/updates-to-MSA-maps-in-FRED",
+   "excerpt": "FRED updates its metropolitan statistical area (MSA) maps to reflect the U.S. Census Bureau's core-based statistical area delineations.",
+   "date": "2026-10-29T08:00:00-05:00",
+   "source": "FRED Blog",
+   "topic": "Economy"
+  },
+  {
    "title": "Federal Reserve issues FOMC statement",
    "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
    "excerpt": "Federal Reserve issues FOMC statement",
@@ -504,12 +528,36 @@
    "topic": "Math & Science"
   },
   {
+   "title": "Net domestic product",
+   "link": "https://fred.stlouisfed.org/blog/2026/10/net-domestic-product",
+   "excerpt": "Gross domestic product measures all production. Net domestic product removes production that replaces depreciated goods.",
+   "date": "2026-10-26T08:00:00-05:00",
+   "source": "FRED Blog",
+   "topic": "Economy"
+  },
+  {
    "title": "How much development aid is spent on climate change?",
    "link": "https://ourworldindata.org/how-much-development-aid-is-spent-on-climate-change",
    "excerpt": "Around one-fifth of development aid is spent on climate-related projects. But what does climate-related mean, and does it crowd out other aid projects?",
    "date": "2026-10-26T00:00:00+00:00",
    "source": "Our World in Data",
    "topic": "Data"
+  },
+  {
+   "title": "Early signs of AI-driven productivity growth in the information sector?",
+   "link": "https://fred.stlouisfed.org/blog/2026/10/early-signs-of-ai-driven-productivity-growth-in-information-sector",
+   "excerpt": "Since the advent of GenAI, productivity in the information sector has grown much faster than usual and much faster than the overall economy.",
+   "date": "2026-10-22T08:00:00-05:00",
+   "source": "FRED Blog",
+   "topic": "Economy"
+  },
+  {
+   "title": "Which businesses are using AI technology?",
+   "link": "https://fred.stlouisfed.org/blog/2026/10/which-businesses-are-using-ai-technology",
+   "excerpt": "More than half of all businesses paid for an artificial intelligence (AI) product or service. Adoption rates jumped after ChatGPT's public launch in late 2022 and have risen steadily since.",
+   "date": "2026-10-19T08:00:00-05:00",
+   "source": "FRED Blog",
+   "topic": "Economy"
   },
   {
    "title": "When do people experience mental health conditions for the first time?",
@@ -525,6 +573,14 @@
    "excerpt": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
    "date": "2026-10-16T15:00:00+00:00",
    "source": "Federal Reserve",
+   "topic": "Economy"
+  },
+  {
+   "title": "Is the Treasury convenience yield rebounding?",
+   "link": "https://fred.stlouisfed.org/blog/2026/10/Is-the-Treasury-convenience-yield-rebounding",
+   "excerpt": "The spread between AAA corporate bonds and Treasuries has widened since October 2025, suggesting a partial recovery in the Treasury convenience yield.",
+   "date": "2026-10-15T08:00:00-05:00",
+   "source": "FRED Blog",
    "topic": "Economy"
   },
   {
@@ -549,6 +605,14 @@
    "excerpt": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money…",
    "date": "2026-10-08T20:30:00+00:00",
    "source": "Federal Reserve",
+   "topic": "Economy"
+  },
+  {
+   "title": "Assets across pension types",
+   "link": "https://fred.stlouisfed.org/blog/2026/10/assets-across-pension-types",
+   "excerpt": "Assets backing defined contribution pensions have grown far more than assets backing defined benefit pensions. But the former are also far more volatile.",
+   "date": "2026-10-08T08:00:00-05:00",
+   "source": "FRED Blog",
    "topic": "Economy"
   },
   {
@@ -584,6 +648,14 @@
    "topic": "Data"
   },
   {
+   "title": "Connect your AI assistant to FRED",
+   "link": "https://fred.stlouisfed.org/blog/2026/10/connect-your-ai-assistant-to-FRED",
+   "excerpt": "FRED's new MCP connector directs your AI assistant to the data you need",
+   "date": "2026-10-04T08:35:00-05:00",
+   "source": "FRED Blog",
+   "topic": "Economy"
+  },
+  {
    "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
    "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
    "excerpt": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
@@ -605,6 +677,30 @@
    "excerpt": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
    "date": "2026-10-02T15:00:00+00:00",
    "source": "Federal Reserve",
+   "topic": "Economy"
+  },
+  {
+   "title": "Real GDP by state: Second quarter 2026",
+   "link": "https://fred.stlouisfed.org/blog/2026/10/real-gdp-by-state-second-quarter-2026",
+   "excerpt": "Bureau of Economic Analysis real GDP data for all US states for the second quarter of 2026",
+   "date": "2026-10-01T09:14:00-05:00",
+   "source": "FRED Blog",
+   "topic": "Economy"
+  },
+  {
+   "title": "What is the Treasury general account?",
+   "link": "https://fred.stlouisfed.org/blog/2026/09/what-is-the-treasury-general-account",
+   "excerpt": "As with any household or business, even the federal government needs an account to handle its bills and income. This account, provided by the Federal Reserve, is called the Treasury general account.",
+   "date": "2026-09-28T08:00:00-05:00",
+   "source": "FRED Blog",
+   "topic": "Economy"
+  },
+  {
+   "title": "Estimating the risk of recession in the US",
+   "link": "https://fred.stlouisfed.org/blog/2026/09/estimating-the-risk-of-recession-in-the-us",
+   "excerpt": "A new dataset in FRED provides the monthly probability the US economy is in recession. The latest data, for August 2026, show that probability was 0.08%. The data FRED has added...",
+   "date": "2026-09-24T08:00:00-05:00",
+   "source": "FRED Blog",
    "topic": "Economy"
   },
   {
