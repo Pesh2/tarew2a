@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T00:35:07.587704+00:00",
+ "updated": "2026-11-07T09:32:30.233542+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -63,6 +63,30 @@
   }
  ],
  "articles": [
+  {
+   "title": "The Anthropic succession plan?",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/the-anthropic-succession-plan.html?utm_source=rss&utm_medium=rss&utm_campaign=the-anthropic-succession-plan",
+   "excerpt": "Anthropic’s version is rather more elaborate. Each of its seven co-founders will maintain a confidential, ranked list of up to ten people who may eventually inherit that founder’s membership and voting role inside a…",
+   "date": "2026-11-07T08:38:47+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Was Mossadegh a liberal, democratizing force?",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/was-mossadegh-a-liberal-democratizing-force.html?utm_source=rss&utm_medium=rss&utm_campaign=was-mossadegh-a-liberal-democratizing-force",
+   "excerpt": "One reads and hears so many times that Iran was on the path to democracy until a CIA coup installed the Shah in 1953. It turns out that account is quite wrong, as is detailed by Simon Sebag Montefiore: As his support in…",
+   "date": "2026-11-07T05:58:54+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "'My mortgage is going up £200': How rising interest rates are hitting people's pockets",
+   "link": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
+   "date": "2026-11-07T01:41:36+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
   {
    "title": "Elon Musk appears to signal the end of the road for Cybertruck",
    "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
@@ -248,14 +272,6 @@
    "topic": "Economy"
   },
   {
-   "title": "The engine parts that 'fight the laws of the universe'",
-   "link": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
-   "date": "2026-11-06T00:06:06+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "Studying bacteria and the cells they infect",
    "link": "https://news.mit.edu/2026/studying-bacteria-and-cells-they-infect-rebecca-lamason-1106",
    "excerpt": "By exploring how bacteria hijack cell functions, Associate Professor Rebecca Lamason hopes to learn more about how host cells carry out those functions.",
@@ -344,28 +360,12 @@
    "topic": "Tech"
   },
   {
-   "title": "What Drives Censorship on College Campuses?",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/what-drives-censorship-on-college-campuses.html?utm_source=rss&utm_medium=rss&utm_campaign=what-drives-censorship-on-college-campuses",
-   "excerpt": "There has been widespread concern about self-censorship on university campuses, and especially that conservative voices are being stifled. Using survey data from a private elite college, we show that self-censorship is…",
-   "date": "2026-11-04T19:58:38+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
    "title": "Introducing Socrates and the New freeCodeCamp Forum",
    "link": "https://www.freecodecamp.org/news/introducing-socrates-and-the-new-freecodecamp-forum/",
    "excerpt": "freeCodeCamp just turned 12 years old. And so did our beloved forum. And today I'm thrilled to say that the forum is now focused on discussions rather than Q&A. This is thanks to Socrates, a new tool",
    "date": "2026-11-04T19:23:56+00:00",
    "source": "freeCodeCamp",
    "topic": "Tech"
-  },
-  {
-   "title": "Wednesday assorted links",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/wednesday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-578",
-   "excerpt": "1. Important people in the AI world. 2. Ted Nordhaus on Bill Nordhaus. 3. “That universities facilitate broader political mobilization can explain why governments often seek to restrict student activism.” 4. NYT…",
-   "date": "2026-11-04T16:48:24+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
   },
   {
    "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
