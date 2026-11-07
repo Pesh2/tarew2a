@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T20:40:44.945280+00:00",
+ "updated": "2026-11-07T00:35:07.587704+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -64,12 +64,28 @@
  ],
  "articles": [
   {
+   "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+   "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+   "date": "2026-11-06T21:49:50+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
    "title": "AI stocks climb after trillions wiped from market values",
    "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
    "excerpt": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-   "date": "2026-11-06T19:37:10+00:00",
+   "date": "2026-11-06T21:06:25+00:00",
    "source": "BBC Business",
    "topic": "Business"
+  },
+  {
+   "title": "How to Build a PDF Storyboard Generator Using JavaScript",
+   "link": "https://www.freecodecamp.org/news/build-pdf-storyboard-generator-javascript/",
+   "excerpt": "PDF files are commonly used to share presentations, scripts, reports, lesson materials, comic pages, and other visual documents. But reviewing a long PDF page by page can take time, especially when so",
+   "date": "2026-11-06T19:41:34+00:00",
+   "source": "freeCodeCamp",
+   "topic": "Tech"
   },
   {
    "title": "Why the US midterms sparked an AI stock selloff",
@@ -86,6 +102,14 @@
    "date": "2026-11-06T18:07:28+00:00",
    "source": "Marginal Revolution",
    "topic": "Economy"
+  },
+  {
+   "title": "Why smoky bacon crisps threaten to reignite rows over EU rules",
+   "link": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "A post-Brexit deal on food standards has raised questions over the future naming of the classic British snack.",
+   "date": "2026-11-06T17:19:38+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
   },
   {
    "title": "Untethered AI agents in Delaware?",
@@ -192,14 +216,6 @@
    "topic": "Tech"
   },
   {
-   "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-   "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-   "date": "2026-11-06T09:57:04+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "How does it affect me if share prices fall?",
    "link": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss",
    "excerpt": "Changes in the FTSE 100 and other indexes are not just for financial experts, they can affect our lives.",
@@ -236,14 +252,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
    "excerpt": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
    "date": "2026-11-06T00:06:06+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "'I was asked if I was a crier': Your worst job interviews revealed",
-   "link": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Bad job interviews can be horrible to experience in the moment, but there is a lot they can teach us about the world of work",
-   "date": "2026-11-06T00:02:52+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
@@ -468,14 +476,6 @@
    "link": "https://www.freecodecamp.org/news/how-to-detect-financial-fraud-patterns-with-knowledge-graphs-a-production-guide/",
    "excerpt": "Most anti-fraud architectures in enterprise payment workflows evaluate transactions in isolation. When an invoice arrives, an automated rules engine checks it against static thresholds. It checks whet",
    "date": "2026-10-30T13:57:52+00:00",
-   "source": "freeCodeCamp",
-   "topic": "Tech"
-  },
-  {
-   "title": "How AI-Powered Search Works: A Guide for Devs on AI Visibility",
-   "link": "https://www.freecodecamp.org/news/ai-search-visibility/",
-   "excerpt": "Searched worked in a familiar way for decades: you'd type in your query, get back a list of pages, and choose one to click on. Behind the scenes, Google would find the pages it thought you might want,",
-   "date": "2026-10-29T21:53:51+00:00",
    "source": "freeCodeCamp",
    "topic": "Tech"
   },
