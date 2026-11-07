@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T09:32:30.233542+00:00",
+ "updated": "2026-11-07T17:19:09.393558+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -64,6 +64,22 @@
  ],
  "articles": [
   {
+   "title": "Saturday assorted links",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/saturday-assorted-links-585.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-585",
+   "excerpt": "1. Simon Winchester, RIP (NYT). 2. Pork roll vs. Taylor Ham, a NJ map. 3. Those new service sector jobs, Bradford edition. 4. “New assessment of the greatest of all time: Antarctic blue whales, showing how whaling…",
+   "date": "2026-11-07T16:49:22+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "What are the Best MR Posts?",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/ten-outstanding-marginal-revolution-posts-reasoning-originality-and-explanatory-power.html?utm_source=rss&utm_medium=rss&utm_campaign=ten-outstanding-marginal-revolution-posts-reasoning-originality-and-explanatory-power",
+   "excerpt": "From the Archives–written by ChatGPT. This ranking judges posts on reasoning, originality of framing, explanatory power, intellectual stimulation, timeliness, and how much they accomplish in their length. Originality…",
+   "date": "2026-11-07T12:17:10+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
    "title": "The Anthropic succession plan?",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/the-anthropic-succession-plan.html?utm_source=rss&utm_medium=rss&utm_campaign=the-anthropic-succession-plan",
    "excerpt": "Anthropic’s version is rather more elaborate. Each of its seven co-founders will maintain a confidential, ranked list of up to ten people who may eventually inherit that founder’s membership and voting role inside a…",
@@ -80,7 +96,7 @@
    "topic": "Economy"
   },
   {
-   "title": "'My mortgage is going up £200': How rising interest rates are hitting people's pockets",
+   "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
    "link": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
    "excerpt": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
    "date": "2026-11-07T01:41:36+00:00",
@@ -326,22 +342,6 @@
    "date": "2026-11-05T11:20:00-05:00",
    "source": "MIT News",
    "topic": "Tech"
-  },
-  {
-   "title": "Social media and political radicalization",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/social-media-and-political-radicalization.html?utm_source=rss&utm_medium=rss&utm_campaign=social-media-and-political-radicalization",
-   "excerpt": "For a while now, we have been hearing claims that social media radicalize the American electorate, and that social media damage teen mental health. Well, we just held a major set of elections that produced resoundingly…",
-   "date": "2026-11-05T09:19:09+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
-   "title": "My very good Conversation with Richard Hanania",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/my-very-good-conversation-with-richard-hanania.html?utm_source=rss&utm_medium=rss&utm_campaign=my-very-good-conversation-with-richard-hanania",
-   "excerpt": "Here is the video, audio, and transcript. Here is part of the episode summary: The first half of the conversation stays close to the text [Conrad’s Nostromo], covering the novel’s political backdrop, its deliberately…",
-   "date": "2026-11-05T05:51:48+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
   },
   {
    "title": "Clearing up a robot’s fuzzy memory",
