@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T03:57:07.998173+00:00",
+ "updated": "2026-11-08T12:38:23.279517+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -64,6 +64,38 @@
  ],
  "articles": [
   {
+   "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+   "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
+   "date": "2026-11-08T11:25:32+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "The Pope probably knows this song",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/the-pope-probably-knows-this-song.html?utm_source=rss&utm_medium=rss&utm_campaign=the-pope-probably-knows-this-song",
+   "excerpt": "The post The Pope probably knows this song appeared first on Marginal REVOLUTION .",
+   "date": "2026-11-08T07:30:49+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Traders 'priced out' of £12,000 Christmas market pitches",
+   "link": "https://www.bbc.co.uk/news/articles/ckn8wew92xw1o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Stall holders said they'd met the council leader to express their concerns at high costs since a new operator took over.",
+   "date": "2026-11-08T07:11:02+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "What I’ve been reading",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/what-ive-been-reading-298.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-298",
+   "excerpt": "1. Fredrik deBoer, All in Your Head: Illness as Identity, Trauma as Fashion, and the Desire to be Disordered. A good book, I am happy to see positions laid out so clearly and starkly. Is this a radical view, or the…",
+   "date": "2026-11-08T05:46:05+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
    "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
    "link": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
    "excerpt": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
@@ -118,6 +150,14 @@
    "date": "2026-11-07T05:58:54+00:00",
    "source": "Marginal Revolution",
    "topic": "Economy"
+  },
+  {
+   "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
+   "link": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
+   "date": "2026-11-07T01:41:36+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
   },
   {
    "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
@@ -192,14 +232,6 @@
    "topic": "Business"
   },
   {
-   "title": "Winter support for residents facing cost pressures",
-   "link": "https://www.bbc.co.uk/news/articles/cm20rrer25ezo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The plans aim to help more people access food, financial advice and help with heating costs.",
-   "date": "2026-11-06T16:22:18+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "Godot 4 Roguelike Course – Build a Complete Top-Down Action Game",
    "link": "https://www.freecodecamp.org/news/godot-4-roguelike-course-build-a-complete-top-down-action-game/",
    "excerpt": "A top-down action roguelite only works when combat feels sharp, rooms feel connected, and every run asks you to trade power for risk. Godot 4 has the tools for that, but most tutorials stop before tho",
@@ -214,22 +246,6 @@
    "date": "2026-11-06T15:48:54+00:00",
    "source": "Quanta Magazine",
    "topic": "Math & Science"
-  },
-  {
-   "title": "PM tells firms to publish salaries in job adverts ahead of new law",
-   "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The government argues the change will help jobseekers and could help to prevent pay discrimination.",
-   "date": "2026-11-06T15:25:43+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Workers' rights 'second place' to economic growth",
-   "link": "https://www.bbc.co.uk/news/videos/cq369l9r634ro?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Jersey's Economic Development Minister has told the BBC that workers' rights may have to take 'second place' to economic growth.",
-   "date": "2026-11-06T14:52:49+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "Fabric molds could bring material-saving concrete beams within reach",
@@ -304,14 +320,6 @@
    "topic": "Economy"
   },
   {
-   "title": "Thursday assorted links",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/thursday-assorted-links-577.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-577",
-   "excerpt": "1. Economics job market site. 2. Data on the flattening of consumer culture (NYT). One-sided, but still of interest. 3. A new and better measure of how much of educational value is signaling. 4. Inside joke concerning…",
-   "date": "2026-11-05T17:25:46+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
    "title": "How to Use shadcn/ui in React Native Applications [Full Handbook]",
    "link": "https://www.freecodecamp.org/news/how-to-use-shadcn-ui-in-react-native-applications-full-handbook/",
    "excerpt": "If you've built a couple of React Native apps, the following probably feels familiar. You start with a colors.ts file and a simple Button component. Everything looks fine at first. Then the design cha",
@@ -325,14 +333,6 @@
    "excerpt": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
    "date": "2026-11-05T16:00:00+00:00",
    "source": "Federal Reserve",
-   "topic": "Economy"
-  },
-  {
-   "title": "Pollution as Growth Killer",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/pollution-as-growth-killer.html?utm_source=rss&utm_medium=rss&utm_campaign=pollution-as-growth-killer",
-   "excerpt": "India’s Outlook Business has an excellent issue focusing on pollution not just as a people killer but as a growth killer (as I have emphasized pollution reduces wealth and health, see especially this video). I am…",
-   "date": "2026-11-05T12:17:06+00:00",
-   "source": "Marginal Revolution",
    "topic": "Economy"
   },
   {
