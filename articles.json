@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T12:38:23.279517+00:00",
+ "updated": "2026-11-08T19:18:16.860817+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -64,10 +64,18 @@
  ],
  "articles": [
   {
+   "title": "Sunday assorted links",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-589.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-589",
+   "excerpt": "1. Among the Wagner fanatics. 2. Does AI instead commodify jobs? 3. The digital world is making Islam more diverse (The Economist). 4. “An affair with an economist exposed the calculus of modern dating.” (New Yorker) 5.…",
+   "date": "2026-11-08T17:06:45+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
    "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
    "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
    "excerpt": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
-   "date": "2026-11-08T11:25:32+00:00",
+   "date": "2026-11-08T15:37:25+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
@@ -96,7 +104,7 @@
    "topic": "Economy"
   },
   {
-   "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+   "title": "He spent $50,000 on Labubus but now the craze is dying",
    "link": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
    "excerpt": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
    "date": "2026-11-07T23:02:35+00:00",
@@ -310,14 +318,6 @@
    "date": "2026-11-06T00:00:00-05:00",
    "source": "MIT News",
    "topic": "Tech"
-  },
-  {
-   "title": "Love at first photo?",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/love-at-first-photo.html?utm_source=rss&utm_medium=rss&utm_campaign=love-at-first-photo",
-   "excerpt": "Romantic interest on swipe-based dating apps (SBDAs) is highly concentrated. This can frustrate both popular users who feel overwhelmed by a glut of attention, and less popular users who feel dejected by a lack of it.…",
-   "date": "2026-11-05T19:55:13+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
   },
   {
    "title": "How to Use shadcn/ui in React Native Applications [Full Handbook]",
