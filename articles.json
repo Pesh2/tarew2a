@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T00:26:35.079847+00:00",
+ "updated": "2026-11-09T10:48:28.779123+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -64,12 +64,76 @@
  ],
  "articles": [
   {
+   "title": "Government's EV targets expected to be reduced this week",
+   "link": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
+   "date": "2026-11-09T09:24:03+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Is it the end of free school milk?",
+   "link": "https://www.bbc.co.uk/news/videos/c65ynnx2e7kko?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Free school milk has been provided to children in Wales since the 1970s, but that could now change.",
+   "date": "2026-11-09T08:12:30+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
    "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
    "link": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
    "excerpt": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
-   "date": "2026-11-09T00:16:49+00:00",
+   "date": "2026-11-09T08:10:25+00:00",
    "source": "BBC Business",
    "topic": "Business"
+  },
+  {
+   "title": "Seb Krier, Ricardian?",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/seb-krier-ricardian.html?utm_source=rss&utm_medium=rss&utm_campaign=seb-krier-ricardian",
+   "excerpt": "Here is the initial post. In the comments Michael Wiebe notes: “So progress per R&D dollar fell by 63%, even while progress per year doubled.” File under: David Ricardo, underrated. The post Seb Krier, Ricardian?…",
+   "date": "2026-11-09T07:21:09+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
+   "link": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?",
+   "date": "2026-11-09T07:10:11+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "How you can get council's £250 cost of living help",
+   "link": "https://www.bbc.co.uk/news/articles/cmd6dd3652zvo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Applications for household grants of up to £250 are opening to some Surrey residents.",
+   "date": "2026-11-09T06:11:28+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Hot summers and soaring bills putting soft play centres at risk",
+   "link": "https://www.bbc.co.uk/news/articles/cm4g11exqqwvo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Jessica Harvey from Whitchurch said there were some days in the summer that no-one visited her centre.",
+   "date": "2026-11-09T06:10:03+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Jensen Huang: Why a personal scandal for the face of the AI boom has provoked a national security scare",
+   "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Once lauded as the \"Taylor Swift of tech\", Huang is mired in scandal after an affair with a suspected Chinese spy.",
+   "date": "2026-11-09T06:01:52+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "The Paraguayan bank story",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/the-paraguayan-bank-story.html?utm_source=rss&utm_medium=rss&utm_campaign=the-paraguayan-bank-story",
+   "excerpt": "Despite its weaknesses, Paraguay’s young democracy was still able to deliver under stress. Its free, boisterous press was the first to sound the alarm about Peña’s shenanigans. The Central Bank’s supervision chief did…",
+   "date": "2026-11-09T05:27:57+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
   },
   {
    "title": "Doing these things now will help you save money at Christmas",
@@ -86,6 +150,22 @@
    "date": "2026-11-09T00:09:14+00:00",
    "source": "BBC Business",
    "topic": "Business"
+  },
+  {
+   "title": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
+   "link": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
+   "excerpt": "By learning how matter moves, the WorldParticle system could assist with developing soft robots, medicines, and more.",
+   "date": "2026-11-09T00:00:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
+  },
+  {
+   "title": "AI-assisted learning platform helps robots reason beyond literal commands",
+   "link": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
+   "excerpt": "The new approach, known as FLEX, could lead to more intuitive, interactive household and assistive robots.",
+   "date": "2026-11-09T00:00:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
   },
   {
    "title": "Sunday assorted links",
@@ -114,7 +194,7 @@
   {
    "title": "Traders 'priced out' of £12,000 Christmas market pitches",
    "link": "https://www.bbc.co.uk/news/articles/ckn8wew92xw1o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Stall holders said they'd met the council leader to express their concerns at high costs since a new operator took over.",
+   "excerpt": "Traders say they met the council to share concerns about the costs since a new operator took over.",
    "date": "2026-11-08T07:11:02+00:00",
    "source": "BBC Business",
    "topic": "Business"
@@ -132,22 +212,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
    "excerpt": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
    "date": "2026-11-07T23:02:35+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Ipswich Town's new club shop 'here to stay'",
-   "link": "https://www.bbc.co.uk/news/videos/cxnv0455zq5jo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Fans and players are delighted at the new \"activation space\" in the town centre.",
-   "date": "2026-11-07T21:40:32+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-   "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
-   "date": "2026-11-07T21:36:16+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
@@ -182,38 +246,6 @@
    "date": "2026-11-07T05:58:54+00:00",
    "source": "Marginal Revolution",
    "topic": "Economy"
-  },
-  {
-   "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
-   "link": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
-   "date": "2026-11-07T01:41:36+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
-   "link": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
-   "date": "2026-11-07T01:41:36+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-   "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-   "date": "2026-11-06T21:49:50+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "AI stocks climb after trillions wiped from market values",
-   "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-   "date": "2026-11-06T21:06:25+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "How to Build a PDF Storyboard Generator Using JavaScript",
@@ -294,22 +326,6 @@
    "date": "2026-11-06T10:35:00-05:00",
    "source": "MIT News",
    "topic": "Tech"
-  },
-  {
-   "title": "The Global Office",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/the-global-office.html?utm_source=rss&utm_medium=rss&utm_campaign=the-global-office",
-   "excerpt": "This paper argues that globalisation’s frontier has shifted from manufacturing GVCs to services GVCs: from the Global Factory to the Global Office. While the Factory remains larger in gross trade, the Office is growing…",
-   "date": "2026-11-06T06:18:58+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
-   "title": "Natasha Cowen guest posts on Caffrey",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/natasha-cowen-guest-posts-on-caffrey.html?utm_source=rss&utm_medium=rss&utm_campaign=natasha-cowen-guest-posts-on-caffrey",
-   "excerpt": "I am on my way back home from Armenia, where I was on a Fulbright teaching U.S. securities regulation to Armenian law students. I’m an active user of AI for multiple areas of my life, including my professional life.…",
-   "date": "2026-11-06T05:54:49+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
   },
   {
    "title": "Studying bacteria and the cells they infect",
@@ -416,14 +432,6 @@
    "topic": "Tech"
   },
   {
-   "title": "3 Questions: Building more resilient minerals supply chains",
-   "link": "https://news.mit.edu/2026/3-questions-building-more-resilient-minerals-supply-chains-1103",
-   "excerpt": "Elsa Olivetti, co-director of the MIT Minerals Stewardship Consortium, discusses how research and collaborations can strengthen mineral supply chains.",
-   "date": "2026-11-03T16:50:00-05:00",
-   "source": "MIT News",
-   "topic": "Tech"
-  },
-  {
    "title": "How to Partner with Design Studios on Client Builds: A Freelance Developer's Guide",
    "link": "https://www.freecodecamp.org/news/freelance-developer-design-studios/",
    "excerpt": "Let's say a design studio gets a new client project. The branding is ready, the wireframes are approved, the Figma file is polished, and every screen looks pretty much perfect. Then the developer join",
@@ -437,14 +445,6 @@
    "excerpt": "A vector database stores data as lists of numbers called embeddings, which lets it search by meaning instead of matching exact keywords. It's the piece behind a lot of recommendation systems, RAG apps",
    "date": "2026-11-03T16:07:38+00:00",
    "source": "freeCodeCamp",
-   "topic": "Tech"
-  },
-  {
-   "title": "Featured video: Changing the conversation about endometriosis",
-   "link": "https://news.mit.edu/2026/featured-video-changing-conversation-about-endometriosis-1103",
-   "excerpt": "Documentary shines a powerful light on a painful disease that affects 265 million women, highlights efforts at MIT’s Center for Gynepathology Research to study the disease and find treatments.",
-   "date": "2026-11-03T16:00:00-05:00",
-   "source": "MIT News",
    "topic": "Tech"
   },
   {
