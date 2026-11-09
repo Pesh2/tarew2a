@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T10:48:28.779123+00:00",
+ "updated": "2026-11-09T21:51:45.047004+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -64,26 +64,122 @@
  ],
  "articles": [
   {
+   "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
+   "excerpt": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+   "date": "2026-11-09T21:00:00+00:00",
+   "source": "Federal Reserve",
+   "topic": "Economy"
+  },
+  {
+   "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+   "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+   "date": "2026-11-09T19:58:01+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "The facial recognition technology stopping shoplifters",
+   "link": "https://www.bbc.co.uk/news/videos/c5x2v2kpwzgvo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Business correspondent Emma Simpson tries out Sainsbury's facial recognition technology.",
+   "date": "2026-11-09T19:00:43+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "How a civil servant got away with juggling five jobs for so long",
+   "link": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Kashim Chowdhury has been convicted of fraud after pocketing £284,000 of taxpayers' money over three years.",
+   "date": "2026-11-09T18:40:31+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Monday assorted links",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/monday-assorted-links-585.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-585",
+   "excerpt": "1. What WWII looked like, four and a half minute video. 2. Intellectual Deep Web, YouTube channel. 3. Complete works of Schelling, and no I do not mean Thomas. 4. What the French Left is proposing. 5. How much AI could…",
+   "date": "2026-11-09T17:42:35+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Civil servant who secretly held five jobs found guilty of fraud",
+   "link": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
+   "date": "2026-11-09T17:17:16+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Poundland unable to buy new stock as fears over collapse grow",
+   "link": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The discount chain is continuing to edge towards collapse and is said to be \"running on fumes\", according to one insider.",
+   "date": "2026-11-09T16:46:40+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Action on energy costs is my overriding aim, says Fahnbulleh",
+   "link": "https://www.bbc.co.uk/news/articles/cmz7x7q7q8vvo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The energy secretary says reducing bills is key to maintaining public support for climate action.",
+   "date": "2026-11-09T16:01:19+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+   "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
+   "date": "2026-11-09T15:46:20+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Did Life Begin in an RNA World?",
+   "link": "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/",
+   "excerpt": "Some believe the earliest life emerged from self-copying molecules that could mutate and even evolve. But that may not have been enough. The post Did Life Begin in an RNA World? first appeared on Quanta Magazine",
+   "date": "2026-11-09T15:20:29+00:00",
+   "source": "Quanta Magazine",
+   "topic": "Math & Science"
+  },
+  {
+   "title": "Rising cost of living tests UK's net zero ambitions",
+   "link": "https://www.bbc.co.uk/news/videos/cm1dwd4e4ywvo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "From floods to wildfires to heatwaves, 2026 is the year it became hard to ignore the impact of climate change on UK weather. But will soaring living costs affect the government’s commitment to tackling climate change?",
+   "date": "2026-11-09T13:42:03+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "End the State Veto on Power Lines",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/end-the-state-veto-on-power-lines.html?utm_source=rss&utm_medium=rss&utm_campaign=end-the-state-veto-on-power-lines",
+   "excerpt": "It’s one of the peculiarities of American regulatory history that a natural gas pipeline can cross state lines with a single federal permit, but oil and electricity must run a gauntlet of state approvals. When a power…",
+   "date": "2026-11-09T12:18:45+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
    "title": "Government's EV targets expected to be reduced this week",
    "link": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
    "excerpt": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
-   "date": "2026-11-09T09:24:03+00:00",
+   "date": "2026-11-09T12:06:22+00:00",
    "source": "BBC Business",
    "topic": "Business"
+  },
+  {
+   "title": "The economics of honeypots",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-honeypots.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-honeypots",
+   "excerpt": "Of course as an economist I am always wondering what the equilibrium is. And, in this case, what is the scarce factor? It seems that in the case under current consideration, the returns to honeypotting are very high for…",
+   "date": "2026-11-09T11:35:02+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
   },
   {
    "title": "Is it the end of free school milk?",
    "link": "https://www.bbc.co.uk/news/videos/c65ynnx2e7kko?at_medium=RSS&at_campaign=rss",
    "excerpt": "Free school milk has been provided to children in Wales since the 1970s, but that could now change.",
    "date": "2026-11-09T08:12:30+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-   "link": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
-   "date": "2026-11-09T08:10:25+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
@@ -104,26 +200,10 @@
    "topic": "Business"
   },
   {
-   "title": "How you can get council's £250 cost of living help",
-   "link": "https://www.bbc.co.uk/news/articles/cmd6dd3652zvo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Applications for household grants of up to £250 are opening to some Surrey residents.",
-   "date": "2026-11-09T06:11:28+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Hot summers and soaring bills putting soft play centres at risk",
-   "link": "https://www.bbc.co.uk/news/articles/cm4g11exqqwvo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Jessica Harvey from Whitchurch said there were some days in the summer that no-one visited her centre.",
-   "date": "2026-11-09T06:10:03+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Jensen Huang: Why a personal scandal for the face of the AI boom has provoked a national security scare",
-   "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Once lauded as the \"Taylor Swift of tech\", Huang is mired in scandal after an affair with a suspected Chinese spy.",
-   "date": "2026-11-09T06:01:52+00:00",
+   "title": "Hut owner wins battle to keep living in off-grid home he built",
+   "link": "https://www.bbc.co.uk/news/articles/c933x074xz58o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The man has lived in the self-built hut since 2020 - but never told authorities or asked for permission.",
+   "date": "2026-11-09T06:13:11+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
@@ -134,22 +214,6 @@
    "date": "2026-11-09T05:27:57+00:00",
    "source": "Marginal Revolution",
    "topic": "Economy"
-  },
-  {
-   "title": "Doing these things now will help you save money at Christmas",
-   "link": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips.",
-   "date": "2026-11-09T00:09:14+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Doing these things now will help you save money at Christmas",
-   "link": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips.",
-   "date": "2026-11-09T00:09:14+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
@@ -176,14 +240,6 @@
    "topic": "Economy"
   },
   {
-   "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-   "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
-   "date": "2026-11-08T15:37:25+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "The Pope probably knows this song",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/the-pope-probably-knows-this-song.html?utm_source=rss&utm_medium=rss&utm_campaign=the-pope-probably-knows-this-song",
    "excerpt": "The post The Pope probably knows this song appeared first on Marginal REVOLUTION .",
@@ -192,28 +248,12 @@
    "topic": "Economy"
   },
   {
-   "title": "Traders 'priced out' of £12,000 Christmas market pitches",
-   "link": "https://www.bbc.co.uk/news/articles/ckn8wew92xw1o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Traders say they met the council to share concerns about the costs since a new operator took over.",
-   "date": "2026-11-08T07:11:02+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "What I’ve been reading",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/what-ive-been-reading-298.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-298",
    "excerpt": "1. Fredrik deBoer, All in Your Head: Illness as Identity, Trauma as Fashion, and the Desire to be Disordered. A good book, I am happy to see positions laid out so clearly and starkly. Is this a radical view, or the…",
    "date": "2026-11-08T05:46:05+00:00",
    "source": "Marginal Revolution",
    "topic": "Economy"
-  },
-  {
-   "title": "He spent $50,000 on Labubus but now the craze is dying",
-   "link": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
-   "date": "2026-11-07T23:02:35+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "Saturday assorted links",
@@ -256,22 +296,6 @@
    "topic": "Tech"
   },
   {
-   "title": "Friday assorted links",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/friday-assorted-links-598.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-598",
-   "excerpt": "1. What will happen with Texas data centers? And more on that. 2. What is the half life of a claim about LLMs? 3. YouTube video created by AI. Titled Der Zauberberg. 4. Data centers tend to be put in places with…",
-   "date": "2026-11-06T18:07:28+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
-   "title": "Untethered AI agents in Delaware?",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/untethered-ai-agents-in-delaware.html?utm_source=rss&utm_medium=rss&utm_campaign=untethered-ai-agents-in-delaware",
-   "excerpt": "A Delaware AIC will be a separate legal entity whose day-to-day aﬀairs are managed by an AI agent rather than a person. At the agent’s direction, the AIC can sue and be sued in its own name, hold and dispose of…",
-   "date": "2026-11-06T17:00:22+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
    "title": "Godot 4 Roguelike Course – Build a Complete Top-Down Action Game",
    "link": "https://www.freecodecamp.org/news/godot-4-roguelike-course-build-a-complete-top-down-action-game/",
    "excerpt": "A top-down action roguelite only works when combat feels sharp, rooms feel connected, and every run asks you to trade power for risk. Godot 4 has the tools for that, but most tutorials stop before tho",
@@ -302,14 +326,6 @@
    "date": "2026-11-06T14:00:00-05:00",
    "source": "MIT News",
    "topic": "Tech"
-  },
-  {
-   "title": "What They Took From You",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/what-they-took-from-you.html?utm_source=rss&utm_medium=rss&utm_campaign=what-they-took-from-you",
-   "excerpt": "Until August 1914 a sensible, law-abiding Englishman could pass through life and hardly notice the existence of the state, beyond the post office and the police. He could live where he liked and as he liked. He had no…",
-   "date": "2026-11-06T12:15:49+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
   },
   {
    "title": "MIT affiliates elected 2026 American Geophysical Union Fellows",
@@ -488,14 +504,6 @@
    "topic": "Economy"
   },
   {
-   "title": "How Do You Take a Picture of a Black Hole?",
-   "link": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
-   "excerpt": "Astrophysicist Shep Doeleman explains how capturing the first image of a black hole required a telescope the size of the world, and why the next goal is to create a movie. The post How Do You Take a Picture of a Black…",
-   "date": "2026-10-29T15:11:57+00:00",
-   "source": "Quanta Magazine",
-   "topic": "Math & Science"
-  },
-  {
    "title": "Federal Reserve issues FOMC statement",
    "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
    "excerpt": "Federal Reserve issues FOMC statement",
@@ -596,14 +604,6 @@
    "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
    "excerpt": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
    "date": "2026-10-02T20:00:00+00:00",
-   "source": "Federal Reserve",
-   "topic": "Economy"
-  },
-  {
-   "title": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
-   "excerpt": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
-   "date": "2026-10-02T15:00:00+00:00",
    "source": "Federal Reserve",
    "topic": "Economy"
   },
