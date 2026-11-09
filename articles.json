@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T19:18:16.860817+00:00",
+ "updated": "2026-11-09T00:26:35.079847+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -63,6 +63,30 @@
   }
  ],
  "articles": [
+  {
+   "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+   "link": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
+   "date": "2026-11-09T00:16:49+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Doing these things now will help you save money at Christmas",
+   "link": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips.",
+   "date": "2026-11-09T00:09:14+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Doing these things now will help you save money at Christmas",
+   "link": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips.",
+   "date": "2026-11-09T00:09:14+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
   {
    "title": "Sunday assorted links",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-589.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-589",
@@ -200,14 +224,6 @@
    "topic": "Tech"
   },
   {
-   "title": "Why the US midterms sparked an AI stock selloff",
-   "link": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.",
-   "date": "2026-11-06T18:32:16+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "Friday assorted links",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/friday-assorted-links-598.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-598",
    "excerpt": "1. What will happen with Texas data centers? And more on that. 2. What is the half life of a claim about LLMs? 3. YouTube video created by AI. Titled Der Zauberberg. 4. Data centers tend to be put in places with…",
@@ -216,28 +232,12 @@
    "topic": "Economy"
   },
   {
-   "title": "Why smoky bacon crisps threaten to reignite rows over EU rules",
-   "link": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "A post-Brexit deal on food standards has raised questions over the future naming of the classic British snack.",
-   "date": "2026-11-06T17:19:38+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "Untethered AI agents in Delaware?",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/untethered-ai-agents-in-delaware.html?utm_source=rss&utm_medium=rss&utm_campaign=untethered-ai-agents-in-delaware",
    "excerpt": "A Delaware AIC will be a separate legal entity whose day-to-day aﬀairs are managed by an AI agent rather than a person. At the agent’s direction, the AIC can sue and be sued in its own name, hold and dispose of…",
    "date": "2026-11-06T17:00:22+00:00",
    "source": "Marginal Revolution",
    "topic": "Economy"
-  },
-  {
-   "title": "Food bank to close amid rising costs",
-   "link": "https://www.bbc.co.uk/news/articles/cqrkyyj6rx7ro?at_medium=RSS&at_campaign=rss",
-   "excerpt": "A food bank in Goole annouces it will close in January as costs rise and donations drop.",
-   "date": "2026-11-06T16:42:23+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "Godot 4 Roguelike Course – Build a Complete Top-Down Action Game",
