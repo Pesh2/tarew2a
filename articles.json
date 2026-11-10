@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T14:10:44.418624+00:00",
+ "updated": "2026-11-10T21:10:30.978920+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -64,10 +64,98 @@
  ],
  "articles": [
   {
-   "title": "Anthropic heads for $1.3 trillion valuation in major stock market listing",
+   "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+   "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
+   "date": "2026-11-10T21:06:04+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Are RCTs underpowered?",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/are-rcts-underpowered.html?utm_source=rss&utm_medium=rss&utm_campaign=are-rcts-underpowered",
+   "excerpt": "Maybe so: We study the statistical credibility of randomized controlled trials (RCTs) in development economics and the optimal allocation of resources to replication. Using 745 principal-hypothesis tests from 190…",
+   "date": "2026-11-10T20:05:26+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
    "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
-   "date": "2026-11-10T14:04:22+00:00",
+   "excerpt": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected.",
+   "date": "2026-11-10T17:56:12+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
+   "link": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media.",
+   "date": "2026-11-10T17:04:55+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Tuesday assorted links",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-594.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-594",
+   "excerpt": "1. AI as a normal technology. 2. Hayek for our time, by Cass Sunstein, free download for two weeks. 3. Works in Progress is looking for business and finance writers. 4. Matthew Lilley on Harvard grad students. I believe…",
+   "date": "2026-11-10T16:50:08+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Some pupils 'struggling just to get a hot meal'",
+   "link": "https://www.bbc.co.uk/news/articles/c9m262yv6yx8o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Students speak out as school dinner prices are set to increase for the second time in a year.",
+   "date": "2026-11-10T16:46:21+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Thousands of 'off-grid' homes eligible for £250 to help with heating bills",
+   "link": "https://www.bbc.co.uk/news/articles/cm70p050824po?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Households dependent on either heating oil or LPG and are eligible for reduced council tax will benefit.",
+   "date": "2026-11-10T16:03:46+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Learn Agentic Coding with Codex & AI Coding Agents",
+   "link": "https://www.freecodecamp.org/news/learn-agentic-coding-with-codex-ai-coding-agents/",
+   "excerpt": "AI coding agents such as Codex read your codebase, edit multiple files, and run commands and tests while they work through larger tasks with you. In Codex, an AGENTS.md file holds persistent instructi",
+   "date": "2026-11-10T16:01:58+00:00",
+   "source": "freeCodeCamp",
+   "topic": "Tech"
+  },
+  {
+   "title": "MIT student leaders: Q&A with men’s football co-captain Dominic Hess",
+   "link": "https://news.mit.edu/2026/mit-student-leaders-qa-mens-football-co-captain-dominic-hess-1110",
+   "excerpt": "An Academic All-American defensive back and co-captain for the Engineers, Dominic Hess says football keeps him grounded — and inspired.",
+   "date": "2026-11-10T15:45:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
+  },
+  {
+   "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
+   "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
+   "date": "2026-11-10T15:10:20+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "The Case for a Bubble at Life’s Start",
+   "link": "https://www.quantamagazine.org/the-case-for-a-bubble-at-lifes-start-20261110/",
+   "excerpt": "Is self-enclosure life’s greatest trick? According to the lipid-first theory, a cell membrane enabled life by giving chemistry a place to gather. The post The Case for a Bubble at Life’s Start first appeared on Quanta…",
+   "date": "2026-11-10T15:08:35+00:00",
+   "source": "Quanta Magazine",
+   "topic": "Math & Science"
+  },
+  {
+   "title": "US inflation higher than expected in October - here's what is happening with prices",
+   "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Prices rose by 0.4% over the month, driven by increases in shelter, food and energy costs.",
+   "date": "2026-11-10T14:45:46+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
@@ -75,15 +163,7 @@
    "title": "US inflation higher than expected in October - here's what is happening with prices",
    "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
    "excerpt": "Prices rose by 0.4% over the month, driven by increases in shelter, food and energy costs.",
-   "date": "2026-11-10T14:03:00+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "US inflation higher than expected in October - here's what is happening with prices",
-   "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Prices rose by 0.4% over the month, driven by increases in shelter, food and energy costs.",
-   "date": "2026-11-10T14:03:00+00:00",
+   "date": "2026-11-10T14:45:46+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
@@ -104,12 +184,12 @@
    "topic": "Business"
   },
   {
-   "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
-   "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
-   "date": "2026-11-10T11:43:06+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
+   "title": "What Happens When You Upload a Large File & Generate a Temporary Download Link",
+   "link": "https://www.freecodecamp.org/news/how-file-transfer-services-work/",
+   "excerpt": "Sending a 5 GB video file might seem simple. You select the file, click Upload, wait for the progress bar to finish, and share a link with someone. But there are several things happening in the backgr",
+   "date": "2026-11-10T13:20:32+00:00",
+   "source": "freeCodeCamp",
+   "topic": "Tech"
   },
   {
    "title": "Checking the AI audit of Saez and Zucman’s research.",
@@ -120,20 +200,12 @@
    "topic": "Economy"
   },
   {
-   "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
-   "link": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media.",
-   "date": "2026-11-10T09:57:49+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Thousands of 'off-grid' homes eligible for £250 to help with heating bills",
-   "link": "https://www.bbc.co.uk/news/articles/cm70p050824po?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Households dependent on either heating oil or LPG and are eligible for reduced council tax will benefit.",
-   "date": "2026-11-10T09:57:29+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
+   "title": "Professor Emeritus Jeffrey Goldstone, highly influential theoretical physicist, dies at 93",
+   "link": "https://news.mit.edu/2026/physicist-jeffrey-goldstone-dies-1110",
+   "excerpt": "An MIT faculty member for nearly half a century, Goldstone was a “theoretical physicist of rare talent and impact” who made fundamental contributions to multiple disciplines.",
+   "date": "2026-11-10T11:10:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
   },
   {
    "title": "Holiday hunger bill to face final Stormont hurdle",
@@ -152,28 +224,12 @@
    "topic": "Business"
   },
   {
-   "title": "Headteachers say families will struggle after another rise in school dinner prices",
-   "link": "https://www.bbc.co.uk/news/articles/c9m262yv6yx8o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The price of a school dinner in a primary school will have risen from £2.60 to £3.40 since the start of 2026.",
-   "date": "2026-11-10T09:13:30+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "*Godzilla: Minus Zero* (no spoilers)",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/godzilla-minus-zero-no-spoilers.html?utm_source=rss&utm_medium=rss&utm_campaign=godzilla-minus-zero-no-spoilers",
    "excerpt": "This is a morally serious movie (really). And Ghidorah stars! The whole thing is about twenty minutes too long, but mostly very good. And like many in the Godzilla series, it offers extended and instructive commentary…",
    "date": "2026-11-10T08:24:18+00:00",
    "source": "Marginal Revolution",
    "topic": "Economy"
-  },
-  {
-   "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-   "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-   "date": "2026-11-10T08:23:21+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "*Unbeatable: The Brutally Honest Case for Free Markets*",
@@ -304,22 +360,6 @@
    "topic": "Economy"
   },
   {
-   "title": "What I’ve been reading",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/what-ive-been-reading-298.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-298",
-   "excerpt": "1. Fredrik deBoer, All in Your Head: Illness as Identity, Trauma as Fashion, and the Desire to be Disordered. A good book, I am happy to see positions laid out so clearly and starkly. Is this a radical view, or the…",
-   "date": "2026-11-08T05:46:05+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
-   "title": "Saturday assorted links",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/saturday-assorted-links-585.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-585",
-   "excerpt": "1. Simon Winchester, RIP (NYT). 2. Pork roll vs. Taylor Ham, a NJ map. 3. Those new service sector jobs, Bradford edition. 4. “New assessment of the greatest of all time: Antarctic blue whales, showing how whaling…",
-   "date": "2026-11-07T16:49:22+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
    "title": "How to Build a PDF Storyboard Generator Using JavaScript",
    "link": "https://www.freecodecamp.org/news/build-pdf-storyboard-generator-javascript/",
    "excerpt": "PDF files are commonly used to share presentations, scripts, reports, lesson materials, comic pages, and other visual documents. But reviewing a long PDF page by page can take time, especially when so",
@@ -376,14 +416,6 @@
    "topic": "Tech"
   },
   {
-   "title": "Studying bacteria and the cells they infect",
-   "link": "https://news.mit.edu/2026/studying-bacteria-and-cells-they-infect-rebecca-lamason-1106",
-   "excerpt": "By exploring how bacteria hijack cell functions, Associate Professor Rebecca Lamason hopes to learn more about how host cells carry out those functions.",
-   "date": "2026-11-06T00:00:00-05:00",
-   "source": "MIT News",
-   "topic": "Tech"
-  },
-  {
    "title": "How to Use shadcn/ui in React Native Applications [Full Handbook]",
    "link": "https://www.freecodecamp.org/news/how-to-use-shadcn-ui-in-react-native-applications-full-handbook/",
    "excerpt": "If you've built a couple of React Native apps, the following probably feels familiar. You start with a colors.ts file and a simple Button component. Everything looks fine at first. Then the design cha",
@@ -398,14 +430,6 @@
    "date": "2026-11-05T16:00:00+00:00",
    "source": "Federal Reserve",
    "topic": "Economy"
-  },
-  {
-   "title": "Pinning down the structure of quark-gluon plasma, the universe’s first fluid",
-   "link": "https://news.mit.edu/2026/pinning-down-quark-gluon-plasma-structure-1105",
-   "excerpt": "A new method picks up where Einstein left off, to predict how particles move through fluid under extreme conditions.",
-   "date": "2026-11-05T11:20:00-05:00",
-   "source": "MIT News",
-   "topic": "Tech"
   },
   {
    "title": "What a CAPTCHA Farm Attack Actually Looks Like",
@@ -456,14 +480,6 @@
    "topic": "Tech"
   },
   {
-   "title": "Learn Vector Databases for Beginners – Embeddings, Similarity Search & ChromaDB",
-   "link": "https://www.freecodecamp.org/news/learn-vector-databases-for-beginners-embeddings-similarity-search-chromadb/",
-   "excerpt": "A vector database stores data as lists of numbers called embeddings, which lets it search by meaning instead of matching exact keywords. It's the piece behind a lot of recommendation systems, RAG apps",
-   "date": "2026-11-03T16:07:38+00:00",
-   "source": "freeCodeCamp",
-   "topic": "Tech"
-  },
-  {
    "title": "Is There Anything Left in the Dream of Cold Fusion?",
    "link": "https://www.quantamagazine.org/is-there-anything-left-in-the-dream-of-cold-fusion-20261102/",
    "excerpt": "Dig a little deeper and you’ll find a thriving research program with exotic atoms that won’t solve the energy crisis but stretches the boundaries of physics. The post Is There Anything Left in the Dream of Cold Fusion?…",
@@ -478,22 +494,6 @@
    "date": "2026-11-02T00:00:00+00:00",
    "source": "Our World in Data",
    "topic": "Data"
-  },
-  {
-   "title": "A New Map of ‘Empty’ Space Challenges a Tranquil Picture of the Galaxy",
-   "link": "https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/",
-   "excerpt": "For decades, astronomers treated the interstellar medium as a static backdrop to the goings-on of the universe. Now, a wave of 3D mapping is bringing the interstellar medium’s dynamic nature into focus. The post A New…",
-   "date": "2026-10-30T14:52:05+00:00",
-   "source": "Quanta Magazine",
-   "topic": "Math & Science"
-  },
-  {
-   "title": "How to Detect Financial Fraud Patterns with Knowledge Graphs: A Production Guide",
-   "link": "https://www.freecodecamp.org/news/how-to-detect-financial-fraud-patterns-with-knowledge-graphs-a-production-guide/",
-   "excerpt": "Most anti-fraud architectures in enterprise payment workflows evaluate transactions in isolation. When an invoice arrives, an automated rules engine checks it against static thresholds. It checks whet",
-   "date": "2026-10-30T13:57:52+00:00",
-   "source": "freeCodeCamp",
-   "topic": "Tech"
   },
   {
    "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
