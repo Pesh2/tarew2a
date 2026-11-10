@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T21:51:45.047004+00:00",
+ "updated": "2026-11-10T05:40:42.556588+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -63,6 +63,70 @@
   }
  ],
  "articles": [
+  {
+   "title": "*Unbeatable: The Brutally Honest Case for Free Markets*",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/unbeatable-the-brutally-honest-case-for-free-markets.html?utm_source=rss&utm_medium=rss&utm_campaign=unbeatable-the-brutally-honest-case-for-free-markets",
+   "excerpt": "That is the new and forthcoming book from Bryan Caplan, University of Chicago Press. Excerpt: Real-world free markets deliver one broad benefit that flies under the radar of economic theory: They shield humanity from…",
+   "date": "2026-11-10T05:39:10+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+   "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+   "date": "2026-11-10T03:58:13+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+   "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
+   "date": "2026-11-10T01:55:22+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Headteachers say families will struggle after another rise in school dinner prices",
+   "link": "https://www.bbc.co.uk/news/articles/c9m262yv6yx8o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The price of a school dinner in a primary school will have risen from £2.60 to £3.40 since the start of 2026.",
+   "date": "2026-11-10T00:00:22+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "“Somebody’s got to do it. Why not me?”",
+   "link": "https://news.mit.edu/2026/somebodys-got-to-do-it-why-not-me-andrew-voelsing-1110",
+   "excerpt": "Through leadership roles in ROTC and Camp Kesem, plus navigating an academic pivot, senior Andrew Voelsing has learned to face new challenges with enthusiasm.",
+   "date": "2026-11-10T00:00:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
+  },
+  {
+   "title": "In postcolonial Ghana, a fresh start but not a blank slate",
+   "link": "https://news.mit.edu/2026/postcolonial-ghana-fresh-start-not-blank-slate-1110",
+   "excerpt": "A new study of the country’s bureaucracy shows the challenges of state-building at the moment of independence.",
+   "date": "2026-11-10T00:00:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
+  },
+  {
+   "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+   "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
+   "date": "2026-11-09T23:51:22+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+   "link": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
+   "date": "2026-11-09T21:52:28+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
   {
    "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
    "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
@@ -128,14 +192,6 @@
    "topic": "Business"
   },
   {
-   "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-   "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
-   "date": "2026-11-09T15:46:20+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "Did Life Begin in an RNA World?",
    "link": "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/",
    "excerpt": "Some believe the earliest life emerged from self-copying molecules that could mutate and even evolve. But that may not have been enough. The post Did Life Begin in an RNA World? first appeared on Quanta Magazine",
@@ -160,14 +216,6 @@
    "topic": "Economy"
   },
   {
-   "title": "Government's EV targets expected to be reduced this week",
-   "link": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
-   "date": "2026-11-09T12:06:22+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "The economics of honeypots",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-honeypots.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-honeypots",
    "excerpt": "Of course as an economist I am always wondering what the equilibrium is. And, in this case, what is the scarce factor? It seems that in the case under current consideration, the returns to honeypotting are very high for…",
@@ -176,36 +224,12 @@
    "topic": "Economy"
   },
   {
-   "title": "Is it the end of free school milk?",
-   "link": "https://www.bbc.co.uk/news/videos/c65ynnx2e7kko?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Free school milk has been provided to children in Wales since the 1970s, but that could now change.",
-   "date": "2026-11-09T08:12:30+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "Seb Krier, Ricardian?",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/seb-krier-ricardian.html?utm_source=rss&utm_medium=rss&utm_campaign=seb-krier-ricardian",
    "excerpt": "Here is the initial post. In the comments Michael Wiebe notes: “So progress per R&D dollar fell by 63%, even while progress per year doubled.” File under: David Ricardo, underrated. The post Seb Krier, Ricardian?…",
    "date": "2026-11-09T07:21:09+00:00",
    "source": "Marginal Revolution",
    "topic": "Economy"
-  },
-  {
-   "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
-   "link": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?",
-   "date": "2026-11-09T07:10:11+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Hut owner wins battle to keep living in off-grid home he built",
-   "link": "https://www.bbc.co.uk/news/articles/c933x074xz58o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The man has lived in the self-built hut since 2020 - but never told authorities or asked for permission.",
-   "date": "2026-11-09T06:13:11+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "The Paraguayan bank story",
@@ -276,14 +300,6 @@
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/the-anthropic-succession-plan.html?utm_source=rss&utm_medium=rss&utm_campaign=the-anthropic-succession-plan",
    "excerpt": "Anthropic’s version is rather more elaborate. Each of its seven co-founders will maintain a confidential, ranked list of up to ten people who may eventually inherit that founder’s membership and voting role inside a…",
    "date": "2026-11-07T08:38:47+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
-   "title": "Was Mossadegh a liberal, democratizing force?",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/was-mossadegh-a-liberal-democratizing-force.html?utm_source=rss&utm_medium=rss&utm_campaign=was-mossadegh-a-liberal-democratizing-force",
-   "excerpt": "One reads and hears so many times that Iran was on the path to democracy until a CIA coup installed the Shah in 1953. It turns out that account is quite wrong, as is detailed by Simon Sebag Montefiore: As his support in…",
-   "date": "2026-11-07T05:58:54+00:00",
    "source": "Marginal Revolution",
    "topic": "Economy"
   },
@@ -412,22 +428,6 @@
    "link": "https://news.mit.edu/2026/sharing-remembrances-susumu-tonegawa-1104",
    "excerpt": "To remember the longtime professor, lab members, alumni, colleagues, and other well-wishers gathered with members of his family in MIT Building 46 and online.",
    "date": "2026-11-04T14:25:00-05:00",
-   "source": "MIT News",
-   "topic": "Tech"
-  },
-  {
-   "title": "MIT-led team receives funding to develop a wearable monitor for early disease detection",
-   "link": "https://news.mit.edu/2026/mit-led-team-receives-funding-for-early-disease-detection-wearable-monitor-1104",
-   "excerpt": "Awarded up to $38 million from ARPA-H, the team aims to create a low-power, noninvasive sensor patch that measures heart failure and sepsis biomarkers in real-time.",
-   "date": "2026-11-04T00:00:00-05:00",
-   "source": "MIT News",
-   "topic": "Tech"
-  },
-  {
-   "title": "Dream, build, destroy, repeat",
-   "link": "https://news.mit.edu/2026/dream-build-destroy-repeat-combat-robotics-club-1104",
-   "excerpt": "Members of the student-run MIT Combat Robotics Club learn through destruction.",
-   "date": "2026-11-04T00:00:00-05:00",
    "source": "MIT News",
    "topic": "Tech"
   },
