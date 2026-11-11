@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T21:10:30.978920+00:00",
+ "updated": "2026-11-11T04:16:58.470548+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -64,10 +64,58 @@
  ],
  "articles": [
   {
-   "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+   "title": "Robot vessels take on the dangerous work of mine hunting",
+   "link": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
+   "date": "2026-11-11T00:19:13+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Stickers and building sets help drive toy sales ahead of Christmas rush",
+   "link": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
+   "date": "2026-11-11T00:16:44+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Stickers and building sets help drive toy sales ahead of Christmas rush",
+   "link": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
+   "date": "2026-11-11T00:16:44+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Poundland hopeful for last-minute rescue deal to stave off collapse",
+   "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
+   "date": "2026-11-11T00:02:07+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
    "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
    "excerpt": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-   "date": "2026-11-10T21:06:04+00:00",
+   "date": "2026-11-10T22:52:15+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Law on 'holiday hunger' passed by Stormont assembly",
+   "link": "https://www.bbc.co.uk/news/articles/cmewewgvrwpqo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "A majority of 49 to 24 assembly members backed the legislation, which was proposed by Sinn Féin's Danny Baker and welcomed by some parents and charities.",
+   "date": "2026-11-10T21:24:06+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+   "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
+   "date": "2026-11-10T21:22:36+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
@@ -94,6 +142,22 @@
    "date": "2026-11-10T17:04:55+00:00",
    "source": "BBC Business",
    "topic": "Business"
+  },
+  {
+   "title": "MIT Schwarzman College of Computing welcomes seven new faculty for 2026",
+   "link": "https://news.mit.edu/2026/mit-schwarzman-college-computing-welcomes-new-faculty-1110",
+   "excerpt": "Faculty members serve in core computing and shared roles, bringing a wide range of experiences and areas of expertise to the MIT community.",
+   "date": "2026-11-10T17:00:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
+  },
+  {
+   "title": "School of Engineering welcomes new faculty in 2026",
+   "link": "https://news.mit.edu/2026/school-engineering-welcomes-new-faculty-1110",
+   "excerpt": "The newest MIT engineering faculty are conducting research across a diverse range of subject areas.",
+   "date": "2026-11-10T17:00:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
   },
   {
    "title": "Tuesday assorted links",
@@ -152,38 +216,6 @@
    "topic": "Math & Science"
   },
   {
-   "title": "US inflation higher than expected in October - here's what is happening with prices",
-   "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Prices rose by 0.4% over the month, driven by increases in shelter, food and energy costs.",
-   "date": "2026-11-10T14:45:46+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "US inflation higher than expected in October - here's what is happening with prices",
-   "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Prices rose by 0.4% over the month, driven by increases in shelter, food and energy costs.",
-   "date": "2026-11-10T14:45:46+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "New regulation for heating oil market, but no price controls",
-   "link": "https://www.bbc.co.uk/news/articles/cv70p0d3d686o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The Competition and Markets Authority has investigated the heating oil market in Northern Ireland and other parts of the UK.",
-   "date": "2026-11-10T13:42:29+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Civil servant who secretly held five jobs found guilty of fraud",
-   "link": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
-   "date": "2026-11-10T13:39:28+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "What Happens When You Upload a Large File & Generate a Temporary Download Link",
    "link": "https://www.freecodecamp.org/news/how-file-transfer-services-work/",
    "excerpt": "Sending a 5 GB video file might seem simple. You select the file, click Upload, wait for the progress bar to finish, and share a link with someone. But there are several things happening in the backgr",
@@ -206,22 +238,6 @@
    "date": "2026-11-10T11:10:00-05:00",
    "source": "MIT News",
    "topic": "Tech"
-  },
-  {
-   "title": "Holiday hunger bill to face final Stormont hurdle",
-   "link": "https://www.bbc.co.uk/news/articles/cmewewgvrwpqo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The new law would would help poorer families with food costs during school holidays.",
-   "date": "2026-11-10T09:35:03+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
-   "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
-   "date": "2026-11-10T09:23:55+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "*Godzilla: Minus Zero* (no spoilers)",
@@ -396,22 +412,6 @@
    "link": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106",
    "excerpt": "A machine-learning approach called CheMeleon provides a practical way to develop new drugs or other molecules with much less detailed, expensive experimentation.",
    "date": "2026-11-06T14:00:00-05:00",
-   "source": "MIT News",
-   "topic": "Tech"
-  },
-  {
-   "title": "MIT affiliates elected 2026 American Geophysical Union Fellows",
-   "link": "https://news.mit.edu/2026/mit-affiliates-elected-agu-fellows-1106",
-   "excerpt": "Anthea Coster, Carolyn Ruppel, César Terrer, and eight additional alumni are honored for their work in the geosciences.",
-   "date": "2026-11-06T11:15:00-05:00",
-   "source": "MIT News",
-   "topic": "Tech"
-  },
-  {
-   "title": "Scene at MIT: Beautiful, intricate, creative quilts",
-   "link": "https://news.mit.edu/2026/scene-mit-beautiful-intricate-creative-quilts-1106",
-   "excerpt": "The MIT Quilt Show, featuring more than 40 quilted projects from 20 members of the MIT community, drew almost 1,000 visitors over three days.",
-   "date": "2026-11-06T10:35:00-05:00",
    "source": "MIT News",
    "topic": "Tech"
   },
