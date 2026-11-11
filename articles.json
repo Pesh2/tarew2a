@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T13:26:06.676262+00:00",
+ "updated": "2026-11-11T21:41:56.656463+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -64,6 +64,94 @@
  ],
  "articles": [
   {
+   "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+   "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
+   "date": "2026-11-11T20:52:52+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
+   "link": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "There is a growing expectation among senior Labour figures that drilling in the oil field will be given the green light.",
+   "date": "2026-11-11T19:15:45+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Experimentally validated digital twins",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/experimentally-validated-digital-twins.html?utm_source=rss&utm_medium=rss&utm_campaign=experimentally-validated-digital-twins",
+   "excerpt": "There is a new paper by Raj Chetty, Jamie Fogel, Lawrence F. Katz, Kadeem Noray, Sonya Porter, and James Reisinger: Modern program evaluation prioritizes evidence from randomized controlled trials (RCTs) because prior…",
+   "date": "2026-11-11T19:12:56+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
+   "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
+   "date": "2026-11-11T18:48:19+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Poundland founder writes to King for help",
+   "link": "https://www.bbc.co.uk/news/videos/cm4gndjd4nnno?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Poundland has filed a notice of intention to appoint administrators, which protects it from creditors until Thursday.",
+   "date": "2026-11-11T17:59:35+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Brad Friedel on Shrewsbury Town takeover",
+   "link": "https://www.bbc.co.uk/news/videos/cq62p80pe3yzo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Exclusive interview with BBC Radio Shropshire, Brad Friedel on Shrewsbury Town takeover.",
+   "date": "2026-11-11T17:55:43+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Wednesday assorted links",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/wednesday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-579",
+   "excerpt": "1. “We were discussing this today in office: future paper is 5 pages (what’s question, where is lit now very briefly, what do we do, what do we find), with all details left to a long appendix, hyperlinked, with rigorous…",
+   "date": "2026-11-11T17:28:55+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Workers across Spain stage first general strike in 14 years",
+   "link": "https://www.bbc.co.uk/news/videos/c920xlpdl28eo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "People across Spain are striking, primarily over housing costs.",
+   "date": "2026-11-11T17:01:07+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Protesters gather in Spain for first general strike in 14 years",
+   "link": "https://www.bbc.co.uk/news/videos/cwj0587gde88o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Thousands are protesting across Spain over housing and the high cost of living.",
+   "date": "2026-11-11T16:12:12+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "How a Metabolic Spark Could Have Jump-Started Life",
+   "link": "https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/",
+   "excerpt": "Energetic pathways that make and break complex molecules are critical to all life. It’s even possible that these self-sustaining cycles could have been key at life’s beginning. The post How a Metabolic Spark Could Have…",
+   "date": "2026-11-11T15:10:30+00:00",
+   "source": "Quanta Magazine",
+   "topic": "Math & Science"
+  },
+  {
+   "title": "What should I ask Simon Sebag Montefiore?",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/what-should-i-ask-simon-sebag-montefiore.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-simon-sebag-montefiore",
+   "excerpt": "I will be doing a Conversation with him, most of all about his new and very good book The Cauldron: The Making of the Modern Middle East. He has many other excellent books too, including on Russian history and some…",
+   "date": "2026-11-11T13:55:24+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
    "title": "What are cold weather payments and who can get them?",
    "link": "https://www.bbc.co.uk/news/articles/c87470q4w21o?at_medium=RSS&at_campaign=rss",
    "excerpt": "Some people in England, Wales and Northern Ireland can get help with heating costs during cold spells.",
@@ -72,12 +160,12 @@
    "topic": "Business"
   },
   {
-   "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
-   "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
-   "date": "2026-11-11T10:03:34+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
+   "title": "Inspired by networks found in nature, engineers design stronger, more resilient “metamaterials”",
+   "link": "https://news.mit.edu/2026/engineers-design-stronger-resilient-nature-inspired-metamaterials-1111",
+   "excerpt": "The new design approach could improve impact absorption for helmets, packaging, and armor.",
+   "date": "2026-11-11T11:00:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
   },
   {
    "title": "The Global Story",
@@ -120,14 +208,6 @@
    "topic": "Business"
   },
   {
-   "title": "Electricity bills to rise by 2.5% from March",
-   "link": "https://www.bbc.co.uk/news/articles/c6x292elgnm5o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The increase will add just over £1 per week for a typical all-electric home, Jersey Electricity says.",
-   "date": "2026-11-11T06:24:15+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "Spying makes a comeback",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/spying-makes-a-comeback.html?utm_source=rss&utm_medium=rss&utm_campaign=spying-makes-a-comeback",
    "excerpt": "That is the theme of my latest Free Press article, here is one excerpt: It may look like merely the latest story of a wealthy, powerful man making an irresponsible decision. But below the surface, it is also a harbinger…",
@@ -136,52 +216,12 @@
    "topic": "Economy"
   },
   {
-   "title": "Robot vessels take on the dangerous work of mine hunting",
-   "link": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
-   "date": "2026-11-11T00:19:13+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-   "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-   "date": "2026-11-10T22:52:15+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Law on 'holiday hunger' passed by Stormont assembly",
-   "link": "https://www.bbc.co.uk/news/articles/cmewewgvrwpqo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "A majority of 49 to 24 assembly members backed the legislation, which was proposed by Sinn Féin's Danny Baker and welcomed by some parents and charities.",
-   "date": "2026-11-10T21:24:06+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "Are RCTs underpowered?",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/are-rcts-underpowered.html?utm_source=rss&utm_medium=rss&utm_campaign=are-rcts-underpowered",
    "excerpt": "Maybe so: We study the statistical credibility of randomized controlled trials (RCTs) in development economics and the optimal allocation of resources to replication. Using 745 principal-hypothesis tests from 190…",
    "date": "2026-11-10T20:05:26+00:00",
    "source": "Marginal Revolution",
    "topic": "Economy"
-  },
-  {
-   "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
-   "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected.",
-   "date": "2026-11-10T17:56:12+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
-   "link": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media.",
-   "date": "2026-11-10T17:04:55+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "MIT Schwarzman College of Computing welcomes seven new faculty for 2026",
@@ -336,30 +376,6 @@
    "topic": "Economy"
   },
   {
-   "title": "The economics of honeypots",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-honeypots.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-honeypots",
-   "excerpt": "Of course as an economist I am always wondering what the equilibrium is. And, in this case, what is the scarce factor? It seems that in the case under current consideration, the returns to honeypotting are very high for…",
-   "date": "2026-11-09T11:35:02+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
-   "title": "Seb Krier, Ricardian?",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/seb-krier-ricardian.html?utm_source=rss&utm_medium=rss&utm_campaign=seb-krier-ricardian",
-   "excerpt": "Here is the initial post. In the comments Michael Wiebe notes: “So progress per R&D dollar fell by 63%, even while progress per year doubled.” File under: David Ricardo, underrated. The post Seb Krier, Ricardian?…",
-   "date": "2026-11-09T07:21:09+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
-   "title": "The Paraguayan bank story",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/the-paraguayan-bank-story.html?utm_source=rss&utm_medium=rss&utm_campaign=the-paraguayan-bank-story",
-   "excerpt": "Despite its weaknesses, Paraguay’s young democracy was still able to deliver under stress. Its free, boisterous press was the first to sound the alarm about Peña’s shenanigans. The Central Bank’s supervision chief did…",
-   "date": "2026-11-09T05:27:57+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
    "title": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
    "link": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
    "excerpt": "By learning how matter moves, the WorldParticle system could assist with developing soft robots, medicines, and more.",
@@ -404,14 +420,6 @@
    "link": "https://news.mit.edu/2026/fabric-molds-could-bring-material-saving-concrete-beams-within-reach-1106",
    "excerpt": "MIT engineers cast a concrete beam using a sewn fabric mold with one-third the amount of concrete and half as much steel as a conventional beam.",
    "date": "2026-11-06T14:35:00-05:00",
-   "source": "MIT News",
-   "topic": "Tech"
-  },
-  {
-   "title": "How to predict the behavior of molecules from scant data",
-   "link": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106",
-   "excerpt": "A machine-learning approach called CheMeleon provides a practical way to develop new drugs or other molecules with much less detailed, expensive experimentation.",
-   "date": "2026-11-06T14:00:00-05:00",
    "source": "MIT News",
    "topic": "Tech"
   },
@@ -478,14 +486,6 @@
    "date": "2026-11-03T16:49:36+00:00",
    "source": "freeCodeCamp",
    "topic": "Tech"
-  },
-  {
-   "title": "Is There Anything Left in the Dream of Cold Fusion?",
-   "link": "https://www.quantamagazine.org/is-there-anything-left-in-the-dream-of-cold-fusion-20261102/",
-   "excerpt": "Dig a little deeper and you’ll find a thriving research program with exotic atoms that won’t solve the energy crisis but stretches the boundaries of physics. The post Is There Anything Left in the Dream of Cold Fusion?…",
-   "date": "2026-11-02T15:48:57+00:00",
-   "source": "Quanta Magazine",
-   "topic": "Math & Science"
   },
   {
    "title": "Around half of people will experience a mental health issue in their lifetime",
