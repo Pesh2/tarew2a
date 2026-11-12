@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T14:30:29.431387+00:00",
+ "updated": "2026-11-12T21:41:48.837354+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -64,18 +64,130 @@
  ],
  "articles": [
   {
-   "title": "Nvidia's CEO was the rock star of AI before his dramatic unravelling",
-   "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Within days, Huang's status as a seemingly untouchable figure leading the global AI race has crumbled.",
-   "date": "2026-11-12T14:18:33+00:00",
+   "title": "Jensen Huang has resigned, what's next for Nvidia?",
+   "link": "https://www.bbc.co.uk/news/videos/c6wy9l859r94o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Jensen Huang has resigned from Nvidia as chief financial officer Colette Kress replaces him as an interim boss.",
+   "date": "2026-11-12T20:21:03+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
   {
-   "title": "Who could replace Jensen Huang as Nvidia's chief executive?",
+   "title": "My Barcelona talk on AI",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/my-barcelona-talk-on-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=my-barcelona-talk-on-ai",
+   "excerpt": "The post My Barcelona talk on AI appeared first on Marginal REVOLUTION .",
+   "date": "2026-11-12T18:47:51+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
+   "excerpt": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+   "date": "2026-11-12T18:30:00+00:00",
+   "source": "Federal Reserve",
+   "topic": "Economy"
+  },
+  {
+   "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+   "excerpt": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+   "date": "2026-11-12T17:45:00+00:00",
+   "source": "Federal Reserve",
+   "topic": "Economy"
+  },
+  {
+   "title": "Some under-25s should get fewer benefits, Milburn review to say",
+   "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+   "date": "2026-11-12T17:32:14+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Thursday assorted links",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/thursday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-578",
+   "excerpt": "1. New Texas A&M podcast: Economists Unscripted. 2. A new tool for AI-proof homework assignments. “It’s called https://deb8.tv — students get paired and have live video debates with one another.” 3. “The average French…",
+   "date": "2026-11-12T17:21:52+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+   "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
+   "date": "2026-11-12T17:11:48+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Energy, prosperity, emissions, and innovation: A decarbonization progress report",
+   "link": "https://news.mit.edu/2026/energy-prosperity-emissions-innovation-decarbonization-progress-report-1112",
+   "excerpt": "Eric Toone, CTO of Breakthrough Energy, assessed global decarbonization, and the opportunities and challenges that remain, at MITEI’s annual research conference.",
+   "date": "2026-11-12T16:30:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
+  },
+  {
+   "title": "A New Era for the Dawn of Life",
+   "link": "https://www.quantamagazine.org/a-new-era-for-the-dawn-of-life-20261112/",
+   "excerpt": "Creative, interdisciplinary, and bold, the study of the origins of life has entered a new age. Welcome to Quanta Magazine’s special series on the origins of life. The post A New Era for the Dawn of Life first appeared…",
+   "date": "2026-11-12T16:20:28+00:00",
+   "source": "Quanta Magazine",
+   "topic": "Math & Science"
+  },
+  {
+   "title": "Three Lincoln Laboratory technologies receive 2026 R&D 100 Awards",
+   "link": "https://news.mit.edu/2026/lincoln-laboratory-technologies-receive-rd-100-awards-1112",
+   "excerpt": "A secure operating system, a quantum microsystem platform, and a 5G interference-canceling algorithm are named among the year's most significant innovations.",
+   "date": "2026-11-12T16:15:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
+  },
+  {
+   "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
+   "excerpt": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+   "date": "2026-11-12T16:00:00+00:00",
+   "source": "Federal Reserve",
+   "topic": "Economy"
+  },
+  {
+   "title": "The Evolving Story of How Chemistry Became Biology",
+   "link": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
+   "excerpt": "After decades of bickering about which molecules came first, a new generation of scientists is rethinking what life was, is, and could be. The post The Evolving Story of How Chemistry Became Biology first appeared on…",
+   "date": "2026-11-12T15:45:27+00:00",
+   "source": "Quanta Magazine",
+   "topic": "Math & Science"
+  },
+  {
+   "title": "What we know as Nvidia CEO Jensen Huang resigns over affair allegations",
+   "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The billionaire tech executive has left the company following reports of a second extramarital affair.",
+   "date": "2026-11-12T15:26:39+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
    "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "As the boss of the AI resigns, some names have emerged as potential successors.",
-   "date": "2026-11-12T14:11:51+00:00",
+   "excerpt": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.",
+   "date": "2026-11-12T15:10:32+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "What in the World",
+   "link": "https://www.bbc.co.uk/sounds/play/w3ct9955?at_medium=RSS&at_campaign=rss",
+   "excerpt": "What can you do to protect your personal date?",
+   "date": "2026-11-12T14:30:00+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Poundland gets more time to secure a rescue deal as emergency talks continue",
+   "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+   "excerpt": "A deadline to secure a buyer was set to expire at midnight, but the retailer now has an extra 10 days to find a buyer.",
+   "date": "2026-11-12T14:29:59+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
@@ -84,14 +196,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
    "excerpt": "The UK is seeing impressive growth, but will it last?",
    "date": "2026-11-12T13:27:09+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Some under-25s should get fewer benefits, Milburn review to say",
-   "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
-   "date": "2026-11-12T13:16:59+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
@@ -144,22 +248,6 @@
    "topic": "Economy"
   },
   {
-   "title": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang",
-   "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The billionaire tech executive's future is in question after reports of a second extramarital affair.",
-   "date": "2026-11-12T04:18:33+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
-   "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
-   "date": "2026-11-12T00:49:05+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "New research could lead to faster, trustworthy AI models for climate prediction",
    "link": "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112",
    "excerpt": "MIT scientists developed a training method to generate models that simulate the effects of human activities on climate much more quickly than other approaches.",
@@ -190,22 +278,6 @@
    "date": "2026-11-11T19:12:56+00:00",
    "source": "Marginal Revolution",
    "topic": "Economy"
-  },
-  {
-   "title": "Poundland founder writes to King for help",
-   "link": "https://www.bbc.co.uk/news/videos/cm4gndjd4nnno?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Poundland has filed a notice of intention to appoint administrators, which protects it from creditors until Thursday.",
-   "date": "2026-11-11T17:59:35+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Brad Friedel on Shrewsbury Town takeover",
-   "link": "https://www.bbc.co.uk/news/videos/cq62p80pe3yzo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "New Shrewsbury Town sporting director Brad Friedel talks exclusively to BBC Radio Shropshire about the club's takeover.",
-   "date": "2026-11-11T17:55:43+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "Wednesday assorted links",
@@ -280,14 +352,6 @@
    "topic": "Tech"
   },
   {
-   "title": "Tuesday assorted links",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-594.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-594",
-   "excerpt": "1. AI as a normal technology. 2. Hayek for our time, by Cass Sunstein, free download for two weeks. 3. Works in Progress is looking for business and finance writers. 4. Matthew Lilley on Harvard grad students. I believe…",
-   "date": "2026-11-10T16:50:08+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
    "title": "Learn Agentic Coding with Codex & AI Coding Agents",
    "link": "https://www.freecodecamp.org/news/learn-agentic-coding-with-codex-ai-coding-agents/",
    "excerpt": "AI coding agents such as Codex read your codebase, edit multiple files, and run commands and tests while they work through larger tasks with you. In Codex, an AGENTS.md file holds persistent instructi",
@@ -318,14 +382,6 @@
    "date": "2026-11-10T13:20:32+00:00",
    "source": "freeCodeCamp",
    "topic": "Tech"
-  },
-  {
-   "title": "Checking the AI audit of Saez and Zucman’s research.",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/checking-the-ai-audit-of-saez-and-zucmans-research.html?utm_source=rss&utm_medium=rss&utm_campaign=checking-the-ai-audit-of-saez-and-zucmans-research",
-   "excerpt": "From SaneCite: We checked the anonymous AI audit of Emmanuel Saez and Gabriel Zucman’s research that Marginal Revolution featured on 28 Oct: all 147 problems it calls serious enough to change a headline number, against…",
-   "date": "2026-11-10T11:32:14+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
   },
   {
    "title": "Professor Emeritus Jeffrey Goldstone, highly influential theoretical physicist, dies at 93",
@@ -384,22 +440,6 @@
    "topic": "Math & Science"
   },
   {
-   "title": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
-   "link": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
-   "excerpt": "By learning how matter moves, the WorldParticle system could assist with developing soft robots, medicines, and more.",
-   "date": "2026-11-09T00:00:00-05:00",
-   "source": "MIT News",
-   "topic": "Tech"
-  },
-  {
-   "title": "AI-assisted learning platform helps robots reason beyond literal commands",
-   "link": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
-   "excerpt": "The new approach, known as FLEX, could lead to more intuitive, interactive household and assistive robots.",
-   "date": "2026-11-09T00:00:00-05:00",
-   "source": "MIT News",
-   "topic": "Tech"
-  },
-  {
    "title": "How to Build a PDF Storyboard Generator Using JavaScript",
    "link": "https://www.freecodecamp.org/news/build-pdf-storyboard-generator-javascript/",
    "excerpt": "PDF files are commonly used to share presentations, scripts, reports, lesson materials, comic pages, and other visual documents. But reviewing a long PDF page by page can take time, especially when so",
@@ -414,14 +454,6 @@
    "date": "2026-11-06T16:06:33+00:00",
    "source": "freeCodeCamp",
    "topic": "Tech"
-  },
-  {
-   "title": "A Strange Quantum Theorem Has Killed Einstein’s Reality",
-   "link": "https://www.quantamagazine.org/a-strange-quantum-theorem-has-killed-einsteins-reality-20261106/",
-   "excerpt": "Albert Einstein fought to save our everyday notion of reality from the strangeness of quantum mechanics. But those who set out to aid him keep poking holes in his argument. The post A Strange Quantum Theorem Has Killed…",
-   "date": "2026-11-06T15:48:54+00:00",
-   "source": "Quanta Magazine",
-   "topic": "Math & Science"
   },
   {
    "title": "How to Use shadcn/ui in React Native Applications [Full Handbook]",
@@ -454,14 +486,6 @@
    "date": "2026-11-04T19:23:56+00:00",
    "source": "freeCodeCamp",
    "topic": "Tech"
-  },
-  {
-   "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
-   "link": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
-   "excerpt": "By injecting “thoughts” directly into large language models, researchers are trying to map out AI’s capacity for introspection. The post New Research Tests Whether AI Models Know Their Own Thoughts first appeared on…",
-   "date": "2026-11-04T15:32:52+00:00",
-   "source": "Quanta Magazine",
-   "topic": "Math & Science"
   },
   {
    "title": "How to Find and Fix Common Technical SEO Issues on Your Website",
@@ -576,36 +600,12 @@
    "topic": "Economy"
   },
   {
-   "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
-   "excerpt": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
-   "date": "2026-10-05T20:30:00+00:00",
-   "source": "Federal Reserve",
-   "topic": "Economy"
-  },
-  {
    "title": "What impact will climate change have on malaria?",
    "link": "https://ourworldindata.org/what-impact-will-climate-change-have-on-malaria",
    "excerpt": "More than 600,000 people die from malaria every year. Will climate change make this worse?",
    "date": "2026-10-05T00:00:00+00:00",
    "source": "Our World in Data",
    "topic": "Data"
-  },
-  {
-   "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
-   "excerpt": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
-   "date": "2026-10-02T20:45:00+00:00",
-   "source": "Federal Reserve",
-   "topic": "Economy"
-  },
-  {
-   "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
-   "excerpt": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
-   "date": "2026-10-02T20:00:00+00:00",
-   "source": "Federal Reserve",
-   "topic": "Economy"
   },
   {
    "title": "How high is current immigration to the United States in historical perspective?",
