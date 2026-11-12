@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T21:41:56.656463+00:00",
+ "updated": "2026-11-12T05:26:38.378535+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -64,10 +64,58 @@
  ],
  "articles": [
   {
+   "title": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang",
+   "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The billionaire tech executive's future is in question after reports of a second extramarital affair.",
+   "date": "2026-11-12T04:18:33+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
+   "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
+   "date": "2026-11-12T00:49:05+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "From Paris to DC - why offices are being turned into apartments",
+   "link": "https://www.bbc.co.uk/news/articles/cm89ze7qepvyo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Office buildings with low occupancy rates are being transformed into flats.",
+   "date": "2026-11-12T00:05:40+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "New research could lead to faster, trustworthy AI models for climate prediction",
+   "link": "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112",
+   "excerpt": "MIT scientists developed a training method to generate models that simulate the effects of human activities on climate much more quickly than other approaches.",
+   "date": "2026-11-12T00:00:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
+  },
+  {
+   "title": "Some under-25s should get fewer benefits, Milburn review to say",
+   "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+   "date": "2026-11-11T23:22:04+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Richard Posner, RIP…",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/richard-posner-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=richard-posner-rip",
+   "excerpt": "One of the greats. The post Richard Posner, RIP… appeared first on Marginal REVOLUTION .",
+   "date": "2026-11-11T22:57:43+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
    "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
    "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
    "excerpt": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
-   "date": "2026-11-11T20:52:52+00:00",
+   "date": "2026-11-11T22:07:37+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
@@ -75,7 +123,7 @@
    "title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
    "link": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
    "excerpt": "There is a growing expectation among senior Labour figures that drilling in the oil field will be given the green light.",
-   "date": "2026-11-11T19:15:45+00:00",
+   "date": "2026-11-11T21:42:20+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
@@ -86,14 +134,6 @@
    "date": "2026-11-11T19:12:56+00:00",
    "source": "Marginal Revolution",
    "topic": "Economy"
-  },
-  {
-   "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
-   "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
-   "date": "2026-11-11T18:48:19+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "Poundland founder writes to King for help",
@@ -176,36 +216,12 @@
    "topic": "Business"
   },
   {
-   "title": "Christmas toy rush being driven by squishies and building sets",
-   "link": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
-   "date": "2026-11-11T07:52:05+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Christmas toy rush being driven by squishies and building sets",
-   "link": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
-   "date": "2026-11-11T07:52:05+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "UK fact of the day",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/uk-fact-of-the-day-9.html?utm_source=rss&utm_medium=rss&utm_campaign=uk-fact-of-the-day-9",
    "excerpt": "UK panel data, 1991-2019. Couples who support different parties separate more often. The effect is as strong as some other mismatches, like education. Disagreement over Brexit mattered even more than party preference.…",
    "date": "2026-11-11T07:51:15+00:00",
    "source": "Marginal Revolution",
    "topic": "Economy"
-  },
-  {
-   "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-   "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
-   "date": "2026-11-11T07:44:24+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "Spying makes a comeback",
@@ -368,14 +384,6 @@
    "topic": "Math & Science"
   },
   {
-   "title": "End the State Veto on Power Lines",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/end-the-state-veto-on-power-lines.html?utm_source=rss&utm_medium=rss&utm_campaign=end-the-state-veto-on-power-lines",
-   "excerpt": "It’s one of the peculiarities of American regulatory history that a natural gas pipeline can cross state lines with a single federal permit, but oil and electricity must run a gauntlet of state approvals. When a power…",
-   "date": "2026-11-09T12:18:45+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
    "title": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
    "link": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
    "excerpt": "By learning how matter moves, the WorldParticle system could assist with developing soft robots, medicines, and more.",
@@ -414,14 +422,6 @@
    "date": "2026-11-06T15:48:54+00:00",
    "source": "Quanta Magazine",
    "topic": "Math & Science"
-  },
-  {
-   "title": "Fabric molds could bring material-saving concrete beams within reach",
-   "link": "https://news.mit.edu/2026/fabric-molds-could-bring-material-saving-concrete-beams-within-reach-1106",
-   "excerpt": "MIT engineers cast a concrete beam using a sewn fabric mold with one-third the amount of concrete and half as much steel as a conventional beam.",
-   "date": "2026-11-06T14:35:00-05:00",
-   "source": "MIT News",
-   "topic": "Tech"
   },
   {
    "title": "How to Use shadcn/ui in React Native Applications [Full Handbook]",
