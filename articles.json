@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T05:26:38.378535+00:00",
+ "updated": "2026-11-12T14:30:29.431387+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -64,6 +64,86 @@
  ],
  "articles": [
   {
+   "title": "Nvidia's CEO was the rock star of AI before his dramatic unravelling",
+   "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Within days, Huang's status as a seemingly untouchable figure leading the global AI race has crumbled.",
+   "date": "2026-11-12T14:18:33+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Who could replace Jensen Huang as Nvidia's chief executive?",
+   "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "As the boss of the AI resigns, some names have emerged as potential successors.",
+   "date": "2026-11-12T14:11:51+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
+   "link": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The UK is seeing impressive growth, but will it last?",
+   "date": "2026-11-12T13:27:09+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Some under-25s should get fewer benefits, Milburn review to say",
+   "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+   "date": "2026-11-12T13:16:59+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "The Everywhere Rent Seekers",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/the-everywhere-rent-seekers.html?utm_source=rss&utm_medium=rss&utm_campaign=the-everywhere-rent-seekers",
+   "excerpt": "Zidar and Zwick have a good post on the political power of billionaires versus the power of many millionaires, based on their excellent book The Everywhere Millionaire. First, they point out that despite the attention…",
+   "date": "2026-11-12T12:18:57+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "UK economy grows at fastest rate for more than two years",
+   "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "﻿The UK economy grew by 0.7% in the three months to September, according to official figures.",
+   "date": "2026-11-12T11:20:25+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "USG assets are worth less than Arnold Kling had thought",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/usg-assets-are-worth-less-than-arnold-kling-had-thought.html?utm_source=rss&utm_medium=rss&utm_campaign=usg-assets-are-worth-less-than-arnold-kling-had-thought",
+   "excerpt": "Federal oil and gas rights are worth about $625 billion on the paper’s own method, down 75% in real terms since 1981. Federal land has gone the other way, to roughly $1.1 trillion to $1.6 trillion. Land, not minerals,…",
+   "date": "2026-11-12T08:01:35+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Are branded cold and flu tablets really worth the extra money?",
+   "link": "https://www.bbc.co.uk/news/videos/cw4gnxm0y43po?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Are branded cold and flu tablets REALLY worth the extra money?",
+   "date": "2026-11-12T06:17:06+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Gas bills to rise as Middle East turmoil persists",
+   "link": "https://www.bbc.co.uk/news/articles/ckregdvr2y3go?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Gas bills will increase by about 5% from 1 December, Island Energy announces.",
+   "date": "2026-11-12T06:15:36+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "My excellent Conversation with Terence Tao",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/my-excellent-conversation-with-terence-tao.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-terence-tao",
+   "excerpt": "Here is the audio, video, and transcript. Here is part of the episode summary: Tyler opens by asking Terence what it feels like to contemplate Euler’s identity, quantum mechanics, the Riemann hypothesis, and Gödel’s…",
+   "date": "2026-11-12T05:44:38+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
    "title": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang",
    "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
    "excerpt": "The billionaire tech executive's future is in question after reports of a second extramarital affair.",
@@ -80,28 +160,12 @@
    "topic": "Business"
   },
   {
-   "title": "From Paris to DC - why offices are being turned into apartments",
-   "link": "https://www.bbc.co.uk/news/articles/cm89ze7qepvyo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Office buildings with low occupancy rates are being transformed into flats.",
-   "date": "2026-11-12T00:05:40+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "New research could lead to faster, trustworthy AI models for climate prediction",
    "link": "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112",
    "excerpt": "MIT scientists developed a training method to generate models that simulate the effects of human activities on climate much more quickly than other approaches.",
    "date": "2026-11-12T00:00:00-05:00",
    "source": "MIT News",
    "topic": "Tech"
-  },
-  {
-   "title": "Some under-25s should get fewer benefits, Milburn review to say",
-   "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
-   "date": "2026-11-11T23:22:04+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "Richard Posner, RIP…",
@@ -116,14 +180,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
    "excerpt": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
    "date": "2026-11-11T22:07:37+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
-   "link": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "There is a growing expectation among senior Labour figures that drilling in the oil field will be given the green light.",
-   "date": "2026-11-11T21:42:20+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
@@ -146,7 +202,7 @@
   {
    "title": "Brad Friedel on Shrewsbury Town takeover",
    "link": "https://www.bbc.co.uk/news/videos/cq62p80pe3yzo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Exclusive interview with BBC Radio Shropshire, Brad Friedel on Shrewsbury Town takeover.",
+   "excerpt": "New Shrewsbury Town sporting director Brad Friedel talks exclusively to BBC Radio Shropshire about the club's takeover.",
    "date": "2026-11-11T17:55:43+00:00",
    "source": "BBC Business",
    "topic": "Business"
@@ -158,22 +214,6 @@
    "date": "2026-11-11T17:28:55+00:00",
    "source": "Marginal Revolution",
    "topic": "Economy"
-  },
-  {
-   "title": "Workers across Spain stage first general strike in 14 years",
-   "link": "https://www.bbc.co.uk/news/videos/c920xlpdl28eo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "People across Spain are striking, primarily over housing costs.",
-   "date": "2026-11-11T17:01:07+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Protesters gather in Spain for first general strike in 14 years",
-   "link": "https://www.bbc.co.uk/news/videos/cwj0587gde88o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Thousands are protesting across Spain over housing and the high cost of living.",
-   "date": "2026-11-11T16:12:12+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "How a Metabolic Spark Could Have Jump-Started Life",
@@ -192,28 +232,12 @@
    "topic": "Economy"
   },
   {
-   "title": "What are cold weather payments and who can get them?",
-   "link": "https://www.bbc.co.uk/news/articles/c87470q4w21o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Some people in England, Wales and Northern Ireland can get help with heating costs during cold spells.",
-   "date": "2026-11-11T12:49:31+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "Inspired by networks found in nature, engineers design stronger, more resilient “metamaterials”",
    "link": "https://news.mit.edu/2026/engineers-design-stronger-resilient-nature-inspired-metamaterials-1111",
    "excerpt": "The new design approach could improve impact absorption for helmets, packaging, and armor.",
    "date": "2026-11-11T11:00:00-05:00",
    "source": "MIT News",
    "topic": "Tech"
-  },
-  {
-   "title": "The Global Story",
-   "link": "https://www.bbc.co.uk/sounds/play/w3ct8mlr?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Tracking down the men who have made serious money from internet porn.",
-   "date": "2026-11-11T10:00:00+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "UK fact of the day",
@@ -312,22 +336,6 @@
    "topic": "Tech"
   },
   {
-   "title": "*Godzilla: Minus Zero* (no spoilers)",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/godzilla-minus-zero-no-spoilers.html?utm_source=rss&utm_medium=rss&utm_campaign=godzilla-minus-zero-no-spoilers",
-   "excerpt": "This is a morally serious movie (really). And Ghidorah stars! The whole thing is about twenty minutes too long, but mostly very good. And like many in the Godzilla series, it offers extended and instructive commentary…",
-   "date": "2026-11-10T08:24:18+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
-   "title": "*Unbeatable: The Brutally Honest Case for Free Markets*",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/unbeatable-the-brutally-honest-case-for-free-markets.html?utm_source=rss&utm_medium=rss&utm_campaign=unbeatable-the-brutally-honest-case-for-free-markets",
-   "excerpt": "That is the new and forthcoming book from Bryan Caplan, University of Chicago Press. Excerpt: Real-world free markets deliver one broad benefit that flies under the radar of economic theory: They shield humanity from…",
-   "date": "2026-11-10T05:39:10+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
    "title": "MIT-led team receives funding to develop next-generation alternatives to modern weed killers",
    "link": "https://news.mit.edu/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110",
    "excerpt": "With up to $53 million from ARPA-H, the researchers will use AI to generate safer herbicides that reduce dependence on imports and improve the security of the U.S. food supply.",
@@ -365,14 +373,6 @@
    "excerpt": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
    "date": "2026-11-09T21:00:00+00:00",
    "source": "Federal Reserve",
-   "topic": "Economy"
-  },
-  {
-   "title": "Monday assorted links",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/monday-assorted-links-585.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-585",
-   "excerpt": "1. What WWII looked like, four and a half minute video. 2. Intellectual Deep Web, YouTube channel. 3. Complete works of Schelling, and no I do not mean Thomas. 4. What the French Left is proposing. 5. How much AI could…",
-   "date": "2026-11-09T17:42:35+00:00",
-   "source": "Marginal Revolution",
    "topic": "Economy"
   },
   {
