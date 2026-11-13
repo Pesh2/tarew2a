@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T21:41:48.837354+00:00",
+ "updated": "2026-11-13T04:42:28.708788+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -64,12 +64,60 @@
  ],
  "articles": [
   {
+   "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+   "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
+   "date": "2026-11-13T03:57:01+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "'My window faces a brick wall': What's your rent in NYC?",
+   "link": "https://www.bbc.co.uk/news/videos/c6wy9j9v7nl7o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "We ask people in New York City how much they pay for their homes.",
+   "date": "2026-11-13T01:30:31+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "'My window faces a brick wall': What's your rent in NYC?",
+   "link": "https://www.bbc.co.uk/news/videos/c6wy9j9v7nl7o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "We ask people in New York City how much they pay for their homes.",
+   "date": "2026-11-13T01:30:31+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+   "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+   "date": "2026-11-13T00:13:35+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Some under-25s should get fewer benefits, Milburn review to say",
+   "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+   "date": "2026-11-12T22:51:18+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
    "title": "Jensen Huang has resigned, what's next for Nvidia?",
    "link": "https://www.bbc.co.uk/news/videos/c6wy9l859r94o?at_medium=RSS&at_campaign=rss",
    "excerpt": "Jensen Huang has resigned from Nvidia as chief financial officer Colette Kress replaces him as an interim boss.",
    "date": "2026-11-12T20:21:03+00:00",
    "source": "BBC Business",
    "topic": "Business"
+  },
+  {
+   "title": "Can Network Science Transform Health and Nutrition?",
+   "link": "https://www.quantamagazine.org/can-network-science-transform-health-and-nutrition-20261112/",
+   "excerpt": "Albert-László Barabási explains how the same organizing principles shape everything from the internet to the cell, and how mapping the networks inside our bodies could change how we treat disease and think about food.…",
+   "date": "2026-11-12T19:40:54+00:00",
+   "source": "Quanta Magazine",
+   "topic": "Math & Science"
   },
   {
    "title": "My Barcelona talk on AI",
@@ -96,14 +144,6 @@
    "topic": "Economy"
   },
   {
-   "title": "Some under-25s should get fewer benefits, Milburn review to say",
-   "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
-   "date": "2026-11-12T17:32:14+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "Thursday assorted links",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/thursday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-578",
    "excerpt": "1. New Texas A&M podcast: Economists Unscripted. 2. A new tool for AI-proof homework assignments. “It’s called https://deb8.tv — students get paired and have live video debates with one another.” 3. “The average French…",
@@ -118,6 +158,22 @@
    "date": "2026-11-12T17:11:48+00:00",
    "source": "BBC Business",
    "topic": "Business"
+  },
+  {
+   "title": "Addressing nuclear challenges, from radiation detection to power in space",
+   "link": "https://news.mit.edu/2026/addressing-nuclear-challenges-jake-hecla-1112",
+   "excerpt": "Assistant Professor Jake Hecla is developing tools to cool space-based reactors, detect the presence of nuclear weapons, and better understand emerging nuclear technologies.",
+   "date": "2026-11-12T17:10:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
+  },
+  {
+   "title": "Q&A: From seed funding to scientific breakthroughs",
+   "link": "https://news.mit.edu/2026/from-seed-funding-to-scientific-breakthroughs-1112",
+   "excerpt": "How the MIT Global Seed Funds helped Professor Matt Shoulders and his team build international collaborations that continue to shape his research more than a decade later.",
+   "date": "2026-11-12T16:45:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
   },
   {
    "title": "Energy, prosperity, emissions, and innovation: A decarbonization progress report",
@@ -208,36 +264,12 @@
    "topic": "Economy"
   },
   {
-   "title": "UK economy grows at fastest rate for more than two years",
-   "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "﻿The UK economy grew by 0.7% in the three months to September, according to official figures.",
-   "date": "2026-11-12T11:20:25+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "USG assets are worth less than Arnold Kling had thought",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/usg-assets-are-worth-less-than-arnold-kling-had-thought.html?utm_source=rss&utm_medium=rss&utm_campaign=usg-assets-are-worth-less-than-arnold-kling-had-thought",
    "excerpt": "Federal oil and gas rights are worth about $625 billion on the paper’s own method, down 75% in real terms since 1981. Federal land has gone the other way, to roughly $1.1 trillion to $1.6 trillion. Land, not minerals,…",
    "date": "2026-11-12T08:01:35+00:00",
    "source": "Marginal Revolution",
    "topic": "Economy"
-  },
-  {
-   "title": "Are branded cold and flu tablets really worth the extra money?",
-   "link": "https://www.bbc.co.uk/news/videos/cw4gnxm0y43po?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Are branded cold and flu tablets REALLY worth the extra money?",
-   "date": "2026-11-12T06:17:06+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Gas bills to rise as Middle East turmoil persists",
-   "link": "https://www.bbc.co.uk/news/articles/ckregdvr2y3go?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Gas bills will increase by about 5% from 1 December, Island Energy announces.",
-   "date": "2026-11-12T06:15:36+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "My excellent Conversation with Terence Tao",
@@ -262,14 +294,6 @@
    "date": "2026-11-11T22:57:43+00:00",
    "source": "Marginal Revolution",
    "topic": "Economy"
-  },
-  {
-   "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-   "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
-   "date": "2026-11-11T22:07:37+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "Experimentally validated digital twins",
@@ -408,36 +432,12 @@
    "topic": "Tech"
   },
   {
-   "title": "“Somebody’s got to do it. Why not me?”",
-   "link": "https://news.mit.edu/2026/somebodys-got-to-do-it-why-not-me-andrew-voelsing-1110",
-   "excerpt": "Through leadership roles in ROTC and Camp Kesem, plus navigating an academic pivot, senior Andrew Voelsing has learned to face new challenges with enthusiasm.",
-   "date": "2026-11-10T00:00:00-05:00",
-   "source": "MIT News",
-   "topic": "Tech"
-  },
-  {
-   "title": "In postcolonial Ghana, a fresh start but not a blank slate",
-   "link": "https://news.mit.edu/2026/postcolonial-ghana-fresh-start-not-blank-slate-1110",
-   "excerpt": "A new study of the country’s bureaucracy shows the challenges of state-building at the moment of independence.",
-   "date": "2026-11-10T00:00:00-05:00",
-   "source": "MIT News",
-   "topic": "Tech"
-  },
-  {
    "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
    "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
    "excerpt": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
    "date": "2026-11-09T21:00:00+00:00",
    "source": "Federal Reserve",
    "topic": "Economy"
-  },
-  {
-   "title": "Did Life Begin in an RNA World?",
-   "link": "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/",
-   "excerpt": "Some believe the earliest life emerged from self-copying molecules that could mutate and even evolve. But that may not have been enough. The post Did Life Begin in an RNA World? first appeared on Quanta Magazine",
-   "date": "2026-11-09T15:20:29+00:00",
-   "source": "Quanta Magazine",
-   "topic": "Math & Science"
   },
   {
    "title": "How to Build a PDF Storyboard Generator Using JavaScript",
