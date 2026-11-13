@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T04:42:28.708788+00:00",
+ "updated": "2026-11-13T13:48:05.127124+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -64,6 +64,102 @@
  ],
  "articles": [
   {
+   "title": "What we know about the global Microsoft outage",
+   "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+   "date": "2026-11-13T13:34:53+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+   "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
+   "date": "2026-11-13T12:22:30+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "The Economics of Rent Controls",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-rent-controls.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-rent-controls",
+   "excerpt": "I appear on Ryan Bourne’s excellent new podcast, The Economics of It. We discuss The Economics of Rent Controls drawing on my essay, Rent Control: The Ceiling Trap. It’s a very good discussion. Here’s one bit (edited…",
+   "date": "2026-11-13T12:18:11+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Outlook email is still down",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/outlook-email-is-still-down.html?utm_source=rss&utm_medium=rss&utm_campaign=outlook-email-is-still-down",
+   "excerpt": "And GMU is on the Outlook system. If you need to reach me, you can extrapolate my gmu address to my gmail address, or try Twitter, or use your imagination in other ways. Sorry for the inconvenience! (Although it seems…",
+   "date": "2026-11-13T11:46:39+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Schema Drift vs. Semantic Drift in Data Pipelines",
+   "link": "https://www.freecodecamp.org/news/schema-drift-vs-semantic-drift-in-data-pipelines/",
+   "excerpt": "When a column is removed from a source database or dataset, the next pipeline run usually fails, making the problem easy to detect. But when a field keeps the same name and data type but its meaning c",
+   "date": "2026-11-13T11:23:18+00:00",
+   "source": "freeCodeCamp",
+   "topic": "Tech"
+  },
+  {
+   "title": "How to Build a Browser-Based Image Storyboard to PDF Tool Using JavaScript",
+   "link": "https://www.freecodecamp.org/news/build-image-storyboard-to-pdf-tool-javascript/",
+   "excerpt": "Before anyone films a video, shoots an ad or draws the final pages of a comic, someone usually sketches the plan as a storyboard: one picture per shot, in order, with a short note about what happens a",
+   "date": "2026-11-13T10:44:43+00:00",
+   "source": "freeCodeCamp",
+   "topic": "Tech"
+  },
+  {
+   "title": "Heat pumps: How much heat does your home really need?",
+   "link": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Knowing how much heat your home loses is important before installing a new heating system.",
+   "date": "2026-11-13T09:29:25+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "The U.S. Federal AI Observatory",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/the-u-s-federal-ai-observatory.html?utm_source=rss&utm_medium=rss&utm_campaign=the-u-s-federal-ai-observatory",
+   "excerpt": "Federal AI at a glance 41 agencies · 3,611 reported use cases · OMB 2025 Inventory. Portfolio size reflects reporting, not performance. From Irakli Petriashvili of Tblisi, here is the site. The post The U.S. Federal AI…",
+   "date": "2026-11-13T08:32:05+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Politicians back focus on cost of living",
+   "link": "https://www.bbc.co.uk/news/articles/cqj9mjl8jy4no?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The Government of Jersey's key priorities are passed despite concerns over a lack of \"real action\".",
+   "date": "2026-11-13T06:23:37+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Cider makers fear future for orchards as costs grow",
+   "link": "https://www.bbc.co.uk/news/articles/c5zjxjzx2dpwo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Producers claimed without more support, they could be forced to stop using British-grown apples.",
+   "date": "2026-11-13T06:21:34+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Do not overrate zero-sum status-seeking",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/do-not-overrate-zero-sum-status-seeking.html?utm_source=rss&utm_medium=rss&utm_campaign=do-not-overrate-zero-sum-status-seeking",
+   "excerpt": "If people really preferred relatively higher income in a poorer society, then those born in Western Europe and the US would be saving up their money so they could live like kings in Africa. Very few people of middle- or…",
+   "date": "2026-11-13T05:48:25+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Waves that clear waste from the brain during sleep are impaired in older adults",
+   "link": "https://news.mit.edu/2026/waste-clearing-waves-in-brain-during-sleep-are-impaired-in-older-adults-1113",
+   "excerpt": "Researchers now hope to investigate whether increasing the flow of cerebrospinal fluid during sleep could improve brain health.",
+   "date": "2026-11-13T05:00:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
+  },
+  {
    "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
    "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
    "excerpt": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
@@ -88,12 +184,36 @@
    "topic": "Business"
   },
   {
+   "title": "Burnham says 'win-win' deal can be agreed between UK and EU",
+   "link": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The prime minister says the deal could be \"more like the Brexit people thought they were voting for\" in 2016.",
+   "date": "2026-11-13T01:17:58+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
    "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
    "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
    "excerpt": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
    "date": "2026-11-13T00:13:35+00:00",
    "source": "BBC Business",
    "topic": "Business"
+  },
+  {
+   "title": "New AI “copilot” helps engineers design better structures",
+   "link": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113",
+   "excerpt": "The system asks humans for feedback to increase trust in machine-generated designs for buildings and bridges.",
+   "date": "2026-11-13T00:00:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
+  },
+  {
+   "title": "Helping robots fit into the human workplace",
+   "link": "https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113",
+   "excerpt": "Founded by Anthony Jules ’92, SM ’92 and Professor Emeritus Rodney Brooks, Robust AI’s robots are designed to collaborate with humans in factories and warehouses.",
+   "date": "2026-11-13T00:00:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
   },
   {
    "title": "Some under-25s should get fewer benefits, Milburn review to say",
@@ -152,14 +272,6 @@
    "topic": "Economy"
   },
   {
-   "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-   "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
-   "date": "2026-11-12T17:11:48+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "Addressing nuclear challenges, from radiation detection to power in space",
    "link": "https://news.mit.edu/2026/addressing-nuclear-challenges-jake-hecla-1112",
    "excerpt": "Assistant Professor Jake Hecla is developing tools to cool space-based reactors, detect the presence of nuclear weapons, and better understand emerging nuclear technologies.",
@@ -214,46 +326,6 @@
    "date": "2026-11-12T15:45:27+00:00",
    "source": "Quanta Magazine",
    "topic": "Math & Science"
-  },
-  {
-   "title": "What we know as Nvidia CEO Jensen Huang resigns over affair allegations",
-   "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The billionaire tech executive has left the company following reports of a second extramarital affair.",
-   "date": "2026-11-12T15:26:39+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
-   "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.",
-   "date": "2026-11-12T15:10:32+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "What in the World",
-   "link": "https://www.bbc.co.uk/sounds/play/w3ct9955?at_medium=RSS&at_campaign=rss",
-   "excerpt": "What can you do to protect your personal date?",
-   "date": "2026-11-12T14:30:00+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Poundland gets more time to secure a rescue deal as emergency talks continue",
-   "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-   "excerpt": "A deadline to secure a buyer was set to expire at midnight, but the retailer now has an extra 10 days to find a buyer.",
-   "date": "2026-11-12T14:29:59+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
-   "link": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The UK is seeing impressive growth, but will it last?",
-   "date": "2026-11-12T13:27:09+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "The Everywhere Rent Seekers",
@@ -320,44 +392,12 @@
    "topic": "Math & Science"
   },
   {
-   "title": "What should I ask Simon Sebag Montefiore?",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/what-should-i-ask-simon-sebag-montefiore.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-simon-sebag-montefiore",
-   "excerpt": "I will be doing a Conversation with him, most of all about his new and very good book The Cauldron: The Making of the Modern Middle East. He has many other excellent books too, including on Russian history and some…",
-   "date": "2026-11-11T13:55:24+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
    "title": "Inspired by networks found in nature, engineers design stronger, more resilient “metamaterials”",
    "link": "https://news.mit.edu/2026/engineers-design-stronger-resilient-nature-inspired-metamaterials-1111",
    "excerpt": "The new design approach could improve impact absorption for helmets, packaging, and armor.",
    "date": "2026-11-11T11:00:00-05:00",
    "source": "MIT News",
    "topic": "Tech"
-  },
-  {
-   "title": "UK fact of the day",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/uk-fact-of-the-day-9.html?utm_source=rss&utm_medium=rss&utm_campaign=uk-fact-of-the-day-9",
-   "excerpt": "UK panel data, 1991-2019. Couples who support different parties separate more often. The effect is as strong as some other mismatches, like education. Disagreement over Brexit mattered even more than party preference.…",
-   "date": "2026-11-11T07:51:15+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
-   "title": "Spying makes a comeback",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/spying-makes-a-comeback.html?utm_source=rss&utm_medium=rss&utm_campaign=spying-makes-a-comeback",
-   "excerpt": "That is the theme of my latest Free Press article, here is one excerpt: It may look like merely the latest story of a wealthy, powerful man making an irresponsible decision. But below the surface, it is also a harbinger…",
-   "date": "2026-11-11T05:55:45+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
-   "title": "Are RCTs underpowered?",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/are-rcts-underpowered.html?utm_source=rss&utm_medium=rss&utm_campaign=are-rcts-underpowered",
-   "excerpt": "Maybe so: We study the statistical credibility of randomized controlled trials (RCTs) in development economics and the optimal allocation of resources to replication. Using 745 principal-hypothesis tests from 190…",
-   "date": "2026-11-10T20:05:26+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
   },
   {
    "title": "MIT Schwarzman College of Computing welcomes seven new faculty for 2026",
@@ -405,30 +445,6 @@
    "excerpt": "Sending a 5 GB video file might seem simple. You select the file, click Upload, wait for the progress bar to finish, and share a link with someone. But there are several things happening in the backgr",
    "date": "2026-11-10T13:20:32+00:00",
    "source": "freeCodeCamp",
-   "topic": "Tech"
-  },
-  {
-   "title": "Professor Emeritus Jeffrey Goldstone, highly influential theoretical physicist, dies at 93",
-   "link": "https://news.mit.edu/2026/physicist-jeffrey-goldstone-dies-1110",
-   "excerpt": "An MIT faculty member for nearly half a century, Goldstone was a “theoretical physicist of rare talent and impact” who made fundamental contributions to multiple disciplines.",
-   "date": "2026-11-10T11:10:00-05:00",
-   "source": "MIT News",
-   "topic": "Tech"
-  },
-  {
-   "title": "MIT-led team receives funding to develop next-generation alternatives to modern weed killers",
-   "link": "https://news.mit.edu/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110",
-   "excerpt": "With up to $53 million from ARPA-H, the researchers will use AI to generate safer herbicides that reduce dependence on imports and improve the security of the U.S. food supply.",
-   "date": "2026-11-10T00:00:00-05:00",
-   "source": "MIT News",
-   "topic": "Tech"
-  },
-  {
-   "title": "Streamlining metal parts production to revitalize American industry",
-   "link": "https://news.mit.edu/2026/streamlining-metal-parts-production-revitalize-american-industry-fabri-1110",
-   "excerpt": "Founded by MIT alumni, Fabri uses 3D printing and software to eliminate many of the steps that slow down traditional metal casting.",
-   "date": "2026-11-10T00:00:00-05:00",
-   "source": "MIT News",
    "topic": "Tech"
   },
   {
@@ -492,22 +508,6 @@
    "link": "https://www.freecodecamp.org/news/fix-common-technical-seo-issues/",
    "excerpt": "Let's say you've built a website. You've invested in the design, bought a domain, and so on. But a website isn't only what you see on the screen. A lot happens behind the scenes. You have to understan",
    "date": "2026-11-03T19:00:29+00:00",
-   "source": "freeCodeCamp",
-   "topic": "Tech"
-  },
-  {
-   "title": "How to Automate Docker Image Creation for Postgres Using Shell Commands",
-   "link": "https://www.freecodecamp.org/news/how-to-automate-docker-image-creation-for-postgres-using-shell/",
-   "excerpt": "If you have certain lines of code that repeat over and over again in a project, there's a pretty standard solution for it: using a function. But what about when you have the same project file setup th",
-   "date": "2026-11-03T18:40:47+00:00",
-   "source": "freeCodeCamp",
-   "topic": "Tech"
-  },
-  {
-   "title": "How to Partner with Design Studios on Client Builds: A Freelance Developer's Guide",
-   "link": "https://www.freecodecamp.org/news/freelance-developer-design-studios/",
-   "excerpt": "Let's say a design studio gets a new client project. The branding is ready, the wireframes are approved, the Figma file is polished, and every screen looks pretty much perfect. Then the developer join",
-   "date": "2026-11-03T16:49:36+00:00",
    "source": "freeCodeCamp",
    "topic": "Tech"
   },
