@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T13:48:05.127124+00:00",
+ "updated": "2026-11-13T21:09:06.398232+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -64,12 +64,76 @@
  ],
  "articles": [
   {
-   "title": "What we know about the global Microsoft outage",
-   "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
-   "date": "2026-11-13T13:34:53+00:00",
+   "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+   "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+   "date": "2026-11-13T20:49:52+00:00",
    "source": "BBC Business",
    "topic": "Business"
+  },
+  {
+   "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
+   "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
+   "date": "2026-11-13T19:53:57+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Are we witnessing an intelligence explosion?",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/are-we-witnessing-an-intelligence-explosion.html?utm_source=rss&utm_medium=rss&utm_campaign=are-we-witnessing-an-intelligence-explosion",
+   "excerpt": "From Luis Garicano and Alex Imas: Hence AI capabilities improved 1.91 times faster after October 2025, but R&D spending grew 6.19 times and the technical workforce 3.10 times. So measured capability gains per dollar…",
+   "date": "2026-11-13T18:39:00+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+   "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+   "date": "2026-11-13T18:36:57+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Are board games making a comeback this Christmas?",
+   "link": "https://www.bbc.co.uk/news/videos/ckp80l667rdjo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Are board games making a comeback this Christmas?",
+   "date": "2026-11-13T18:00:40+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "What are people emergency stockpiling?",
+   "link": "https://www.bbc.co.uk/news/videos/c6zxvg79rr9yo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "From cider to candy canes: What people are emergency stockpiling",
+   "date": "2026-11-13T16:31:22+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Friday assorted links",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/friday-assorted-links-599.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-599",
+   "excerpt": "1. Peru cancels the Moche sculptures for obscenity? 2. Claude translates from The Kalevela. 3. David Chalmers on AI speed-ups. 4. Cass Sunstein picks Bob Dylan’s best songs. 5. “Hobby dogging”? 6. Argentina worries and…",
+   "date": "2026-11-13T16:28:33+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Shoplifters 'stealing to order' in Scottish shops",
+   "link": "https://www.bbc.co.uk/news/videos/cw772xkxjm37o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Shopworkers in Scotland say they're facing rising levels of violence, including attacks with harpoon guns and machetes, as reports of shoplifting rise dramatically.",
+   "date": "2026-11-13T14:16:09+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "How to Speed Up CI in the Age of AI-Written Code",
+   "link": "https://www.freecodecamp.org/news/speed-up-ci-in-the-age-of-ai-written-code/",
+   "excerpt": "Coding agents now write code faster than most CI pipelines can check it. In April 2026, GitHub COO Kyle Daigle said that his platform was handling 275 million commits a week, on pace for 14 billion in",
+   "date": "2026-11-13T12:46:22+00:00",
+   "source": "freeCodeCamp",
+   "topic": "Tech"
   },
   {
    "title": "How a sex scandal at Nvidia is putting pressure on the White House",
@@ -176,30 +240,6 @@
    "topic": "Business"
   },
   {
-   "title": "'My window faces a brick wall': What's your rent in NYC?",
-   "link": "https://www.bbc.co.uk/news/videos/c6wy9j9v7nl7o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "We ask people in New York City how much they pay for their homes.",
-   "date": "2026-11-13T01:30:31+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Burnham says 'win-win' deal can be agreed between UK and EU",
-   "link": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The prime minister says the deal could be \"more like the Brexit people thought they were voting for\" in 2016.",
-   "date": "2026-11-13T01:17:58+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
-   "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
-   "date": "2026-11-13T00:13:35+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "New AI “copilot” helps engineers design better structures",
    "link": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113",
    "excerpt": "The system asks humans for feedback to increase trust in machine-generated designs for buildings and bridges.",
@@ -214,22 +254,6 @@
    "date": "2026-11-13T00:00:00-05:00",
    "source": "MIT News",
    "topic": "Tech"
-  },
-  {
-   "title": "Some under-25s should get fewer benefits, Milburn review to say",
-   "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
-   "date": "2026-11-12T22:51:18+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Jensen Huang has resigned, what's next for Nvidia?",
-   "link": "https://www.bbc.co.uk/news/videos/c6wy9l859r94o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Jensen Huang has resigned from Nvidia as chief financial officer Colette Kress replaces him as an interim boss.",
-   "date": "2026-11-12T20:21:03+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "Can Network Science Transform Health and Nutrition?",
@@ -368,22 +392,6 @@
    "topic": "Economy"
   },
   {
-   "title": "Experimentally validated digital twins",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/experimentally-validated-digital-twins.html?utm_source=rss&utm_medium=rss&utm_campaign=experimentally-validated-digital-twins",
-   "excerpt": "There is a new paper by Raj Chetty, Jamie Fogel, Lawrence F. Katz, Kadeem Noray, Sonya Porter, and James Reisinger: Modern program evaluation prioritizes evidence from randomized controlled trials (RCTs) because prior…",
-   "date": "2026-11-11T19:12:56+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
-   "title": "Wednesday assorted links",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/wednesday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-579",
-   "excerpt": "1. “We were discussing this today in office: future paper is 5 pages (what’s question, where is lit now very briefly, what do we do, what do we find), with all details left to a long appendix, hyperlinked, with rigorous…",
-   "date": "2026-11-11T17:28:55+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
    "title": "How a Metabolic Spark Could Have Jump-Started Life",
    "link": "https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/",
    "excerpt": "Energetic pathways that make and break complex molecules are critical to all life. It’s even possible that these self-sustaining cycles could have been key at life’s beginning. The post How a Metabolic Spark Could Have…",
@@ -500,14 +508,6 @@
    "link": "https://www.freecodecamp.org/news/introducing-socrates-and-the-new-freecodecamp-forum/",
    "excerpt": "freeCodeCamp just turned 12 years old. And so did our beloved forum. And today I'm thrilled to say that the forum is now focused on discussions rather than Q&A. This is thanks to Socrates, a new tool",
    "date": "2026-11-04T19:23:56+00:00",
-   "source": "freeCodeCamp",
-   "topic": "Tech"
-  },
-  {
-   "title": "How to Find and Fix Common Technical SEO Issues on Your Website",
-   "link": "https://www.freecodecamp.org/news/fix-common-technical-seo-issues/",
-   "excerpt": "Let's say you've built a website. You've invested in the design, bought a domain, and so on. But a website isn't only what you see on the screen. A lot happens behind the scenes. You have to understan",
-   "date": "2026-11-03T19:00:29+00:00",
    "source": "freeCodeCamp",
    "topic": "Tech"
   },
