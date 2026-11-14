@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T21:09:06.398232+00:00",
+ "updated": "2026-11-14T04:37:07.110685+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -64,10 +64,18 @@
  ],
  "articles": [
   {
-   "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+   "title": "Agencies extend comment period for proposed third-party risk management guidance",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
+   "excerpt": "Agencies extend comment period for proposed third-party risk management guidance",
+   "date": "2026-11-13T21:15:00+00:00",
+   "source": "Federal Reserve",
+   "topic": "Economy"
+  },
+  {
+   "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
    "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
    "excerpt": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-   "date": "2026-11-13T20:49:52+00:00",
+   "date": "2026-11-13T21:14:22+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
@@ -590,14 +598,6 @@
    "date": "2026-10-08T00:00:00+00:00",
    "source": "Our World in Data",
    "topic": "Data"
-  },
-  {
-   "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
-   "excerpt": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
-   "date": "2026-10-07T18:00:00+00:00",
-   "source": "Federal Reserve",
-   "topic": "Economy"
   },
   {
    "title": "What impact will climate change have on malaria?",
