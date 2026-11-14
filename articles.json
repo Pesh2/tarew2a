@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T12:51:58.724770+00:00",
+ "updated": "2026-11-14T19:40:07.143427+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -63,6 +63,22 @@
   }
  ],
  "articles": [
+  {
+   "title": "Saturday assorted links",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/saturday-assorted-links-586.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-586",
+   "excerpt": "1. Madrid vs. Catalonia. 2. Stephen Kovacevich, RIP (NYT). Brahms and the Diabellis stand among his towering pianistic achievements. He was one of my favorite pianists. 3. Queen at Sea is an excellent movie, though hard…",
+   "date": "2026-11-14T17:09:27+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Build and Train a GLM-5.3-Flash Model From Scratch with Python",
+   "link": "https://www.freecodecamp.org/news/build-and-train-a-glm-53-flash-model-from-scratch-with-python/",
+   "excerpt": "GLM-5.3-Flash combines linear and sparse attention, a mixture-of-experts design, and manifold constrained hyperconnections. A scaled-down version with 25 million parameters can be built in Python and",
+   "date": "2026-11-14T16:02:56+00:00",
+   "source": "freeCodeCamp",
+   "topic": "Tech"
+  },
   {
    "title": "Privatize Air Traffic Control, Redux",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/privatize-air-traffic-control-redux.html?utm_source=rss&utm_medium=rss&utm_campaign=privatize-air-traffic-control-redux",
@@ -384,14 +400,6 @@
    "topic": "Math & Science"
   },
   {
-   "title": "The Everywhere Rent Seekers",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/the-everywhere-rent-seekers.html?utm_source=rss&utm_medium=rss&utm_campaign=the-everywhere-rent-seekers",
-   "excerpt": "Zidar and Zwick have a good post on the political power of billionaires versus the power of many millionaires, based on their excellent book The Everywhere Millionaire. First, they point out that despite the attention…",
-   "date": "2026-11-12T12:18:57+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
    "title": "New research could lead to faster, trustworthy AI models for climate prediction",
    "link": "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112",
    "excerpt": "MIT scientists developed a training method to generate models that simulate the effects of human activities on climate much more quickly than other approaches.",
@@ -508,14 +516,6 @@
    "link": "https://www.freecodecamp.org/news/captcha-farm-attack/",
    "excerpt": "CAPTCHAs are something most of us have come across while browsing the internet. Sometimes we're asked to identify traffic lights in pictures, solve a small puzzle, or simply tick a box to confirm we'r",
    "date": "2026-11-04T21:32:45+00:00",
-   "source": "freeCodeCamp",
-   "topic": "Tech"
-  },
-  {
-   "title": "Introducing Socrates and the New freeCodeCamp Forum",
-   "link": "https://www.freecodecamp.org/news/introducing-socrates-and-the-new-freecodecamp-forum/",
-   "excerpt": "freeCodeCamp just turned 12 years old. And so did our beloved forum. And today I'm thrilled to say that the forum is now focused on discussions rather than Q&A. This is thanks to Socrates, a new tool",
-   "date": "2026-11-04T19:23:56+00:00",
    "source": "freeCodeCamp",
    "topic": "Tech"
   },
