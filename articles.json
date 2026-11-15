@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T10:17:54.606698+00:00",
+ "updated": "2026-11-15T18:23:47.001491+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -63,6 +63,38 @@
   }
  ],
  "articles": [
+  {
+   "title": "Sunday assorted links",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-590.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-590",
+   "excerpt": "1. His office. 2. The South African bi-oceanic railway. 3. Ethnic politics and class politics. 4. AI-generated preview is going viral, what is the chance they make the movie now? I will pay to see it. Is this a new…",
+   "date": "2026-11-15T17:26:25+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+   "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+   "date": "2026-11-15T14:56:21+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Minister backs legal right to job support for young people",
+   "link": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The work and pensions secretary said the level of support currently on offer was too vague.",
+   "date": "2026-11-15T13:06:15+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Tyler Cowen’s strongest musical recommendations, 2003–2026",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/tyler-cowens-strongest-musical-recommendations-2003-2026.html?utm_source=rss&utm_medium=rss&utm_campaign=tyler-cowens-strongest-musical-recommendations-2003-2026",
+   "excerpt": "From the Archive, written by ChatGPT: The clearest standouts are Loveless, Brazil Classics 1, Solo Monk, and the Louvin Brothers’ Tragic Songs of Life. Bach receives the strongest sustained endorsement across the years.…",
+   "date": "2026-11-15T12:18:42+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
   {
    "title": "AI and complements",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/ai-and-complements.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-and-complements",
@@ -224,28 +256,12 @@
    "topic": "Business"
   },
   {
-   "title": "What are people emergency stockpiling?",
-   "link": "https://www.bbc.co.uk/news/videos/c6zxvg79rr9yo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "From cider to candy canes: What people are emergency stockpiling",
-   "date": "2026-11-13T16:31:22+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "Friday assorted links",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/friday-assorted-links-599.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-599",
    "excerpt": "1. Peru cancels the Moche sculptures for obscenity? 2. Claude translates from The Kalevela. 3. David Chalmers on AI speed-ups. 4. Cass Sunstein picks Bob Dylan’s best songs. 5. “Hobby dogging”? 6. Argentina worries and…",
    "date": "2026-11-13T16:28:33+00:00",
    "source": "Marginal Revolution",
    "topic": "Economy"
-  },
-  {
-   "title": "Shoplifters 'stealing to order' in Scottish shops",
-   "link": "https://www.bbc.co.uk/news/videos/cw772xkxjm37o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Shopworkers in Scotland say they're facing rising levels of violence, including attacks with harpoon guns and machetes, as reports of shoplifting rise dramatically.",
-   "date": "2026-11-13T14:16:09+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "How to Speed Up CI in the Age of AI-Written Code",
@@ -286,22 +302,6 @@
    "date": "2026-11-13T10:44:43+00:00",
    "source": "freeCodeCamp",
    "topic": "Tech"
-  },
-  {
-   "title": "The U.S. Federal AI Observatory",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/the-u-s-federal-ai-observatory.html?utm_source=rss&utm_medium=rss&utm_campaign=the-u-s-federal-ai-observatory",
-   "excerpt": "Federal AI at a glance 41 agencies · 3,611 reported use cases · OMB 2025 Inventory. Portfolio size reflects reporting, not performance. From Irakli Petriashvili of Tblisi, here is the site. The post The U.S. Federal AI…",
-   "date": "2026-11-13T08:32:05+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
-   "title": "Do not overrate zero-sum status-seeking",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/do-not-overrate-zero-sum-status-seeking.html?utm_source=rss&utm_medium=rss&utm_campaign=do-not-overrate-zero-sum-status-seeking",
-   "excerpt": "If people really preferred relatively higher income in a poorer society, then those born in Western Europe and the US would be saving up their money so they could live like kings in Africa. Very few people of middle- or…",
-   "date": "2026-11-13T05:48:25+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
   },
   {
    "title": "Waves that clear waste from the brain during sleep are impaired in older adults",
