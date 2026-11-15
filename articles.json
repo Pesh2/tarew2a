@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T00:39:06.508346+00:00",
+ "updated": "2026-11-15T10:17:54.606698+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -64,12 +64,36 @@
  ],
  "articles": [
   {
-   "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+   "title": "AI and complements",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/ai-and-complements.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-and-complements",
+   "excerpt": "In a “weak links” model of production, where tasks are complements, the gains from automation tend to arrive slowly because output is constrained by the least productive tasks. But the same complementarity makes attacks…",
+   "date": "2026-11-15T10:03:58+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Best films of 2026",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/best-films-of-2026.html?utm_source=rss&utm_medium=rss&utm_campaign=best-films-of-2026",
+   "excerpt": "I thought this was a splendid and highly innovative year. Here is my list, in the order I saw them, noting that a link typically brings you to my review: Resurrection Testament of Ann Lee 28 Years Later Wuthering…",
+   "date": "2026-11-15T05:38:13+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Beauty advent calendars can cost hundreds but are they value for money?",
    "link": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
    "excerpt": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
    "date": "2026-11-15T00:01:07+00:00",
    "source": "BBC Business",
    "topic": "Business"
+  },
+  {
+   "title": "Arianna Doss named a 2027 Rhodes Scholar",
+   "link": "https://news.mit.edu/2026/arianna-doss-named-2027-rhodes-scholar-1114",
+   "excerpt": "A double major in biological engineering and political science, Doss will begin postgraduate studies at Oxford University next fall.",
+   "date": "2026-11-14T21:00:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
   },
   {
    "title": "Saturday assorted links",
@@ -312,14 +336,6 @@
    "topic": "Math & Science"
   },
   {
-   "title": "My Barcelona talk on AI",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/my-barcelona-talk-on-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=my-barcelona-talk-on-ai",
-   "excerpt": "The post My Barcelona talk on AI appeared first on Marginal REVOLUTION .",
-   "date": "2026-11-12T18:47:51+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
    "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
    "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
    "excerpt": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
@@ -333,14 +349,6 @@
    "excerpt": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
    "date": "2026-11-12T17:45:00+00:00",
    "source": "Federal Reserve",
-   "topic": "Economy"
-  },
-  {
-   "title": "Thursday assorted links",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/thursday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-578",
-   "excerpt": "1. New Texas A&M podcast: Economists Unscripted. 2. A new tool for AI-proof homework assignments. “It’s called https://deb8.tv — students get paired and have live video debates with one another.” 3. “The average French…",
-   "date": "2026-11-12T17:21:52+00:00",
-   "source": "Marginal Revolution",
    "topic": "Economy"
   },
   {
@@ -427,14 +435,6 @@
    "title": "MIT Schwarzman College of Computing welcomes seven new faculty for 2026",
    "link": "https://news.mit.edu/2026/mit-schwarzman-college-computing-welcomes-new-faculty-1110",
    "excerpt": "Faculty members serve in core computing and shared roles, bringing a wide range of experiences and areas of expertise to the MIT community.",
-   "date": "2026-11-10T17:00:00-05:00",
-   "source": "MIT News",
-   "topic": "Tech"
-  },
-  {
-   "title": "School of Engineering welcomes new faculty in 2026",
-   "link": "https://news.mit.edu/2026/school-engineering-welcomes-new-faculty-1110",
-   "excerpt": "The newest MIT engineering faculty are conducting research across a diverse range of subject areas.",
    "date": "2026-11-10T17:00:00-05:00",
    "source": "MIT News",
    "topic": "Tech"
