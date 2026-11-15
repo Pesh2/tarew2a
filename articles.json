@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T19:40:07.143427+00:00",
+ "updated": "2026-11-15T00:39:06.508346+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -63,6 +63,14 @@
   }
  ],
  "articles": [
+  {
+   "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+   "link": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
+   "date": "2026-11-15T00:01:07+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
   {
    "title": "Saturday assorted links",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/saturday-assorted-links-586.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-586",
@@ -144,6 +152,14 @@
    "topic": "Economy"
   },
   {
+   "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+   "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
+   "date": "2026-11-13T23:00:31+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
    "title": "Agencies extend comment period for proposed third-party risk management guidance",
    "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
    "excerpt": "Agencies extend comment period for proposed third-party risk management guidance",
@@ -216,14 +232,6 @@
    "topic": "Tech"
   },
   {
-   "title": "How a sex scandal at Nvidia is putting pressure on the White House",
-   "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
-   "date": "2026-11-13T12:22:30+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "The Economics of Rent Controls",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-rent-controls.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-rent-controls",
    "excerpt": "I appear on Ryan Bourne’s excellent new podcast, The Economics of It. We discuss The Economics of Rent Controls drawing on my essay, Rent Control: The Ceiling Trap. It’s a very good discussion. Here’s one bit (edited…",
@@ -254,14 +262,6 @@
    "date": "2026-11-13T10:44:43+00:00",
    "source": "freeCodeCamp",
    "topic": "Tech"
-  },
-  {
-   "title": "Heat pumps: How much heat does your home really need?",
-   "link": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Knowing how much heat your home loses is important before installing a new heating system.",
-   "date": "2026-11-13T09:29:25+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "The U.S. Federal AI Observatory",
