@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T18:23:47.001491+00:00",
+ "updated": "2026-11-16T00:39:04.444509+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -64,20 +64,44 @@
  ],
  "articles": [
   {
+   "title": "No matter how you ask, more Americans are negative than positive about AI",
+   "link": "https://ourworldindata.org/no-matter-how-you-ask-more-americans-are-negative-than-positive-about-ai",
+   "excerpt": "Five high-quality surveys ask about AI in different ways. Their wording matters, but the overall picture is consistent.",
+   "date": "2026-11-16T00:00:00+00:00",
+   "source": "Our World in Data",
+   "topic": "Data"
+  },
+  {
+   "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+   "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The report being launched this week will suggest gradually reducing employment costs over five years.",
+   "date": "2026-11-15T22:30:03+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+   "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+   "date": "2026-11-15T22:24:20+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+   "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
+   "date": "2026-11-15T22:00:24+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
    "title": "Sunday assorted links",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-590.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-590",
    "excerpt": "1. His office. 2. The South African bi-oceanic railway. 3. Ethnic politics and class politics. 4. AI-generated preview is going viral, what is the chance they make the movie now? I will pay to see it. Is this a new…",
    "date": "2026-11-15T17:26:25+00:00",
    "source": "Marginal Revolution",
    "topic": "Economy"
-  },
-  {
-   "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-   "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-   "date": "2026-11-15T14:56:21+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "Minister backs legal right to job support for young people",
@@ -238,22 +262,6 @@
    "date": "2026-11-13T18:39:00+00:00",
    "source": "Marginal Revolution",
    "topic": "Economy"
-  },
-  {
-   "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-   "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-   "date": "2026-11-13T18:36:57+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Are board games making a comeback this Christmas?",
-   "link": "https://www.bbc.co.uk/news/videos/ckp80l667rdjo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Are board games making a comeback this Christmas?",
-   "date": "2026-11-13T18:00:40+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "Friday assorted links",
@@ -636,14 +644,6 @@
    "link": "https://ourworldindata.org/beef-production-in-brazil-has-been-the-largest-driver-of-global-deforestation-in-recent-decades",
    "excerpt": "Most beef production in Brazil is to meet domestic rather than international demand.",
    "date": "2026-08-31T00:00:00+00:00",
-   "source": "Our World in Data",
-   "topic": "Data"
-  },
-  {
-   "title": "The rise of electoral democracy",
-   "link": "https://ourworldindata.org/the-rise-of-electoral-democracy",
-   "excerpt": "How elections spread, voting rights expanded, and political competition developed around the world over the last two centuries.",
-   "date": "2026-08-24T00:00:00+00:00",
    "source": "Our World in Data",
    "topic": "Data"
   },
