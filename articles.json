@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T00:39:04.444509+00:00",
+ "updated": "2026-11-16T10:32:51.058231+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -64,18 +64,74 @@
  ],
  "articles": [
   {
-   "title": "No matter how you ask, more Americans are negative than positive about AI",
-   "link": "https://ourworldindata.org/no-matter-how-you-ask-more-americans-are-negative-than-positive-about-ai",
-   "excerpt": "Five high-quality surveys ask about AI in different ways. Their wording matters, but the overall picture is consistent.",
-   "date": "2026-11-16T00:00:00+00:00",
-   "source": "Our World in Data",
-   "topic": "Data"
+   "title": "Avoid this Black Friday scam - how to check it's a real deal",
+   "link": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Sales and the looming tax deadline mean more scams - here's how to make sure you don't get caught out.",
+   "date": "2026-11-16T09:58:52+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
   },
   {
-   "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+   "title": "Avoid this Black Friday scam - how to check it's a real deal",
+   "link": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Sales and the looming tax deadline mean more scams - here's how to make sure you don't get caught out.",
+   "date": "2026-11-16T09:58:52+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
    "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The report being launched this week will suggest gradually reducing employment costs over five years.",
-   "date": "2026-11-15T22:30:03+00:00",
+   "excerpt": "Starting this with retail and hospitality firms - which provide almost 40% of jobs for under-25s - will help improve their opportunities, the report suggests.",
+   "date": "2026-11-16T09:42:11+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Coffeehouses and the Scientific Revolution",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/coffeehouses-and-the-scientific-revolution.html?utm_source=rss&utm_medium=rss&utm_campaign=coffeehouses-and-the-scientific-revolution",
+   "excerpt": "Abstract Historians have long credited coffeehouses, venues for conversation where strangers met across social ranks, with fostering scientific contacts and activity during the Scientific Revolution. We test this claim…",
+   "date": "2026-11-16T07:33:14+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Gas starts flowing from Jackdaw after government green light",
+   "link": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Ministers last month announced the Jackdaw gas field, which lies 150 miles east of Aberdeen, had been approved after years of uncertainty.",
+   "date": "2026-11-16T06:24:08+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Thrift shop asks shoppers to nominate a charity",
+   "link": "https://www.bbc.co.uk/news/articles/c804wp1y2ky1o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The owners want customers and donors to decide what charities benefit each month.",
+   "date": "2026-11-16T06:03:39+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "'Break-in and rising costs could kill my business'",
+   "link": "https://www.bbc.co.uk/news/articles/c9n731r5mej5o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Gordon Kidd says if things do not improve financially, he fears his firm in Shifnal will go under.",
+   "date": "2026-11-16T05:57:19+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "A scenario for rogue AIs?",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/a-scenario-for-rogue-ais.html?utm_source=rss&utm_medium=rss&utm_campaign=a-scenario-for-rogue-ais",
+   "excerpt": "From Adam Kaufman: I think it’s pretty likely that in 6 months there will be rogue AIs running around on the internet, appropriating whatever compute they can hack into or pay for (with stolen money or by renting out…",
+   "date": "2026-11-16T05:47:54+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Intel sued by investors after PC sales slump hits share price",
+   "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
+   "excerpt": "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders.",
+   "date": "2026-11-16T03:04:01+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
@@ -83,9 +139,17 @@
    "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
    "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
    "excerpt": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-   "date": "2026-11-15T22:24:20+00:00",
+   "date": "2026-11-16T01:47:57+00:00",
    "source": "BBC Business",
    "topic": "Business"
+  },
+  {
+   "title": "No matter how you ask, more Americans are negative than positive about AI",
+   "link": "https://ourworldindata.org/no-matter-how-you-ask-more-americans-are-negative-than-positive-about-ai",
+   "excerpt": "Five high-quality surveys ask about AI in different ways. Their wording matters, but the overall picture is consistent.",
+   "date": "2026-11-16T00:00:00+00:00",
+   "source": "Our World in Data",
+   "topic": "Data"
   },
   {
    "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
@@ -176,26 +240,10 @@
    "topic": "Economy"
   },
   {
-   "title": "Football kit giveaway aims to boost participation",
-   "link": "https://www.bbc.co.uk/news/articles/ck20v651473qo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Millie Bright helps hand out free kit to young girls to help them keep playing in spite of costs.",
-   "date": "2026-11-14T08:13:40+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "The rise of 'housefishing' by estate agents",
-   "link": "https://www.bbc.co.uk/news/videos/cmx295lz17wzo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The rise of 'housefishing' by estate agents.",
-   "date": "2026-11-14T07:45:50+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "What do Christmas market traders say about rising prices?",
-   "link": "https://www.bbc.co.uk/news/articles/c95y152k8erpo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "From £8 bratwursts to £11 Yorkshire pudding wraps, why is the cost of the markets rising year on year?",
-   "date": "2026-11-14T07:11:26+00:00",
+   "title": "Consumer Fight Back",
+   "link": "https://www.bbc.co.uk/sounds/play/m003498k?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Black Friday promises huge savings, but are the deals really as good as they seem?",
+   "date": "2026-11-14T11:00:00+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
@@ -208,22 +256,6 @@
    "topic": "Economy"
   },
   {
-   "title": "Microsoft says services fully restored after day-long global outage",
-   "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
-   "date": "2026-11-14T06:42:27+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Food bank sees donations drop by 10% each year",
-   "link": "https://www.bbc.co.uk/news/articles/c6702j7e48eno?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Staff fear the government stockpiling advice will have an impact on donations as Christmas looms.",
-   "date": "2026-11-14T06:33:06+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "The Power and Roots of Aspirations",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/the-power-and-roots-of-aspirations.html?utm_source=rss&utm_medium=rss&utm_campaign=the-power-and-roots-of-aspirations",
    "excerpt": "Aspirations have become a common theme in empirical economics studies but there is no unified understanding of the range of outcomes they influence, the factors that shape them, and how to measure them. We survey this…",
@@ -232,28 +264,12 @@
    "topic": "Economy"
   },
   {
-   "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-   "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
-   "date": "2026-11-13T23:00:31+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "Agencies extend comment period for proposed third-party risk management guidance",
    "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
    "excerpt": "Agencies extend comment period for proposed third-party risk management guidance",
    "date": "2026-11-13T21:15:00+00:00",
    "source": "Federal Reserve",
    "topic": "Economy"
-  },
-  {
-   "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
-   "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
-   "date": "2026-11-13T19:53:57+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "Are we witnessing an intelligence explosion?",
@@ -278,22 +294,6 @@
    "date": "2026-11-13T12:46:22+00:00",
    "source": "freeCodeCamp",
    "topic": "Tech"
-  },
-  {
-   "title": "The Economics of Rent Controls",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-rent-controls.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-rent-controls",
-   "excerpt": "I appear on Ryan Bourne’s excellent new podcast, The Economics of It. We discuss The Economics of Rent Controls drawing on my essay, Rent Control: The Ceiling Trap. It’s a very good discussion. Here’s one bit (edited…",
-   "date": "2026-11-13T12:18:11+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
-   "title": "Outlook email is still down",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/outlook-email-is-still-down.html?utm_source=rss&utm_medium=rss&utm_campaign=outlook-email-is-still-down",
-   "excerpt": "And GMU is on the Outlook system. If you need to reach me, you can extrapolate my gmu address to my gmail address, or try Twitter, or use your imagination in other ways. Sorry for the inconvenience! (Although it seems…",
-   "date": "2026-11-13T11:46:39+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
   },
   {
    "title": "Schema Drift vs. Semantic Drift in Data Pipelines",
