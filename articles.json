@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T21:32:54.833982+00:00",
+ "updated": "2026-11-17T06:08:56.956913+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -64,20 +64,100 @@
  ],
  "articles": [
   {
+   "title": "The economics of Jensen Huang",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-jensen-huang.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-jensen-huang",
+   "excerpt": "Most of my assessment is very positive, but I will excerpt this bit from my latest Free Press piece: Finally, the company was not built to withstand Huang’s departure. Too much authority and knowledge were concentrated…",
+   "date": "2026-11-17T05:44:15+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+   "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+   "excerpt": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+   "date": "2026-11-17T02:37:53+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "How to Build an NLP Pipeline in Python to Analyze Therapy Progress Notes",
+   "link": "https://www.freecodecamp.org/news/build-nlp-pipeline-python-therapy-notes/",
+   "excerpt": "Therapy progress notes are written records of what happened during a therapy session. They may include what a client said, what the therapist observed, the topics discussed, and plans for the next ses",
+   "date": "2026-11-17T00:34:12+00:00",
+   "source": "freeCodeCamp",
+   "topic": "Tech"
+  },
+  {
+   "title": "How to Build a Translator with Chrome’s Built-In AI",
+   "link": "https://www.freecodecamp.org/news/how-to-build-a-translator-with-chrome-s-built-in-ai/",
+   "excerpt": "Most translation features work the same way. The user types text, your app sends it to a translation API, and the API sends a translation back. That works, but every request adds cost and latency, and",
+   "date": "2026-11-17T00:18:42+00:00",
+   "source": "freeCodeCamp",
+   "topic": "Tech"
+  },
+  {
+   "title": "Customers report service outages at major US banks",
+   "link": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
+   "date": "2026-11-17T00:18:01+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
+   "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+   "excerpt": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
+   "date": "2026-11-17T00:00:03+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "We couldn't afford a house alone, so we bought one with strangers",
+   "link": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "People who can't afford to get on the housing ladder are buying homes with people they don't know.",
+   "date": "2026-11-17T00:00:02+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Q&A: Why building math muscles remains important in the AI era",
+   "link": "https://news.mit.edu/2026/qa-why-building-math-muscles-remains-important-ai-era-1117",
+   "excerpt": "Assistant Professor John Urschel explains why learning the fundamental skills of mathematics is still essential despite the evolution of AI tools.",
+   "date": "2026-11-17T00:00:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
+  },
+  {
+   "title": "Learning the language of machine learning",
+   "link": "https://news.mit.edu/2026/learning-language-of-machine-learning-jacob-andreas-1117",
+   "excerpt": "By studying the computational foundations of language learning, Associate Professor Jacob Andreas builds intelligent systems that can communicate effectively with humans.",
+   "date": "2026-11-17T00:00:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
+  },
+  {
+   "title": "California sues OpenAI over Hugging Face attack",
+   "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public",
+   "date": "2026-11-16T23:12:24+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
+   "link": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Alan Milburn's review will call for sweeping reforms to the education, work and welfare systems.",
+   "date": "2026-11-16T22:32:47+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
    "title": "Monday assorted links",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/monday-assorted-links-586.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-586",
    "excerpt": "1. Some Henry Oliver book reviews. 2. Washington Monthly’s The Reader, book reviews. And High Line, a new publishing house for disfavored books. 3. Inflation-indexed bonds around the world. 4. Garett Jones on Richard…",
    "date": "2026-11-16T19:17:13+00:00",
    "source": "Marginal Revolution",
    "topic": "Economy"
-  },
-  {
-   "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-   "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-   "excerpt": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
-   "date": "2026-11-16T19:16:52+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "'Parents are offering to pay kids' wages': Salon owner",
@@ -184,44 +264,12 @@
    "topic": "Business"
   },
   {
-   "title": "Thrift shop asks shoppers to nominate a charity",
-   "link": "https://www.bbc.co.uk/news/articles/c804wp1y2ky1o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The owners want customers and donors to decide what charities benefit each month.",
-   "date": "2026-11-16T06:03:39+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "'Break-in and rising costs could kill my business'",
-   "link": "https://www.bbc.co.uk/news/articles/c9n731r5mej5o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Gordon Kidd says if things do not improve financially, he fears his firm in Shifnal will go under.",
-   "date": "2026-11-16T05:57:19+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "A scenario for rogue AIs?",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/a-scenario-for-rogue-ais.html?utm_source=rss&utm_medium=rss&utm_campaign=a-scenario-for-rogue-ais",
    "excerpt": "From Adam Kaufman: I think it’s pretty likely that in 6 months there will be rogue AIs running around on the internet, appropriating whatever compute they can hack into or pay for (with stolen money or by renting out…",
    "date": "2026-11-16T05:47:54+00:00",
    "source": "Marginal Revolution",
    "topic": "Economy"
-  },
-  {
-   "title": "Intel sued by investors after PC sales slump hits share price",
-   "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
-   "excerpt": "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders.",
-   "date": "2026-11-16T03:04:01+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-   "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-   "date": "2026-11-16T01:47:57+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "No matter how you ask, more Americans are negative than positive about AI",
@@ -238,14 +286,6 @@
    "date": "2026-11-15T17:26:25+00:00",
    "source": "Marginal Revolution",
    "topic": "Economy"
-  },
-  {
-   "title": "Minister backs legal right to job support for young people",
-   "link": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The work and pensions secretary said the level of support currently on offer was too vague.",
-   "date": "2026-11-15T13:06:15+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "Tyler Cowen’s strongest musical recommendations, 2003–2026",
@@ -300,14 +340,6 @@
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/privatize-air-traffic-control-redux.html?utm_source=rss&utm_medium=rss&utm_campaign=privatize-air-traffic-control-redux",
    "excerpt": "Yesterday the FAA grounded every domestic departure in the United States for more than four hours. Such groundings appear to be happening more often. The last nationwide grounding was in 2023, and regional ones have hit…",
    "date": "2026-11-14T12:16:03+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
-   "title": "People like their jobs, even British people",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/people-like-their-jobs-even-british-people.html?utm_source=rss&utm_medium=rss&utm_campaign=people-like-their-jobs-even-british-people",
-   "excerpt": "This paper investigates the role of work in providing meaning, purpose, community, and other non-monetary benefits. Using an original cross-national survey of 8,234 working-age adults across the UK, US, Denmark, and…",
-   "date": "2026-11-14T06:54:06+00:00",
    "source": "Marginal Revolution",
    "topic": "Economy"
   },
@@ -440,28 +472,12 @@
    "topic": "Math & Science"
   },
   {
-   "title": "New research could lead to faster, trustworthy AI models for climate prediction",
-   "link": "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112",
-   "excerpt": "MIT scientists developed a training method to generate models that simulate the effects of human activities on climate much more quickly than other approaches.",
-   "date": "2026-11-12T00:00:00-05:00",
-   "source": "MIT News",
-   "topic": "Tech"
-  },
-  {
    "title": "How a Metabolic Spark Could Have Jump-Started Life",
    "link": "https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/",
    "excerpt": "Energetic pathways that make and break complex molecules are critical to all life. It’s even possible that these self-sustaining cycles could have been key at life’s beginning. The post How a Metabolic Spark Could Have…",
    "date": "2026-11-11T15:10:30+00:00",
    "source": "Quanta Magazine",
    "topic": "Math & Science"
-  },
-  {
-   "title": "Inspired by networks found in nature, engineers design stronger, more resilient “metamaterials”",
-   "link": "https://news.mit.edu/2026/engineers-design-stronger-resilient-nature-inspired-metamaterials-1111",
-   "excerpt": "The new design approach could improve impact absorption for helmets, packaging, and armor.",
-   "date": "2026-11-11T11:00:00-05:00",
-   "source": "MIT News",
-   "topic": "Tech"
   },
   {
    "title": "Learn Agentic Coding with Codex & AI Coding Agents",
@@ -504,28 +520,12 @@
    "topic": "Tech"
   },
   {
-   "title": "How to Use shadcn/ui in React Native Applications [Full Handbook]",
-   "link": "https://www.freecodecamp.org/news/how-to-use-shadcn-ui-in-react-native-applications-full-handbook/",
-   "excerpt": "If you've built a couple of React Native apps, the following probably feels familiar. You start with a colors.ts file and a simple Button component. Everything looks fine at first. Then the design cha",
-   "date": "2026-11-05T17:16:30+00:00",
-   "source": "freeCodeCamp",
-   "topic": "Tech"
-  },
-  {
    "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
    "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
    "excerpt": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
    "date": "2026-11-05T16:00:00+00:00",
    "source": "Federal Reserve",
    "topic": "Economy"
-  },
-  {
-   "title": "What a CAPTCHA Farm Attack Actually Looks Like",
-   "link": "https://www.freecodecamp.org/news/captcha-farm-attack/",
-   "excerpt": "CAPTCHAs are something most of us have come across while browsing the internet. Sometimes we're asked to identify traffic lights in pictures, solve a small puzzle, or simply tick a box to confirm we'r",
-   "date": "2026-11-04T21:32:45+00:00",
-   "source": "freeCodeCamp",
-   "topic": "Tech"
   },
   {
    "title": "Around half of people will experience a mental health issue in their lifetime",
