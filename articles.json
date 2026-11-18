@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T18:04:30.883453+00:00",
+ "updated": "2026-11-18T02:42:20.588425+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -64,10 +64,58 @@
  ],
  "articles": [
   {
-   "title": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
+   "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+   "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+   "date": "2026-11-18T01:18:18+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Europe plans to catch the next computer chip wave",
+   "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
+   "date": "2026-11-18T00:00:24+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "The Kalshi market on U.S. productivity growth",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/the-kalshi-market-on-u-s-productivity-growth.html?utm_source=rss&utm_medium=rss&utm_campaign=the-kalshi-market-on-u-s-productivity-growth",
+   "excerpt": "It is coming in at 2.2%, people. That is for over the next five years. tys…though even I think it will be a bit higher than that. Yes the liquidity is tiny, but that is endogenous to the reality that huge profits are…",
+   "date": "2026-11-17T20:34:15+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Speed camera fault may have allowed drivers to escape fines",
+   "link": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
+   "date": "2026-11-17T20:04:54+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "What should I ask Alexander Mikaberidze?",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/what-should-i-ask-alexander-mikaberidze.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-alexander-mikaberidze",
+   "excerpt": "He is the author and the new and excellent The Louisiana Purchase: The Grand Bargain and the Making of America. He also wrote The Napoleonic Wars: A Global History, one of my favorite history books. He has extensive…",
+   "date": "2026-11-17T19:17:25+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Government backs welfare shake-up to prevent 'lost generation'",
+   "link": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.",
+   "date": "2026-11-17T18:43:05+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
    "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
    "excerpt": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
-   "date": "2026-11-17T17:42:26+00:00",
+   "date": "2026-11-17T18:24:21+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
@@ -88,12 +136,12 @@
    "topic": "Business"
   },
   {
-   "title": "Speed camera fault may have allowed drivers to escape fines",
-   "link": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
-   "date": "2026-11-17T15:08:48+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
+   "title": "Putting a spotlight on AI, society, and humanity",
+   "link": "https://news.mit.edu/2026/putting-spotlight-ai-society-humanity-1117",
+   "excerpt": "Supported by the MIT Human Insight Collaborative, scholars are exploring how AI is impacting the human experience and reshaping higher education.",
+   "date": "2026-11-17T15:40:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
   },
   {
    "title": "US bank services returning to normal after major outage",
@@ -168,14 +216,6 @@
    "topic": "Economy"
   },
   {
-   "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
-   "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-   "excerpt": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
-   "date": "2026-11-17T02:37:53+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "How to Build an NLP Pipeline in Python to Analyze Therapy Progress Notes",
    "link": "https://www.freecodecamp.org/news/build-nlp-pipeline-python-therapy-notes/",
    "excerpt": "Therapy progress notes are written records of what happened during a therapy session. They may include what a client said, what the therapist observed, the topics discussed, and plans for the next ses",
@@ -192,14 +232,6 @@
    "topic": "Tech"
   },
   {
-   "title": "We couldn't afford a house alone, so we bought one with strangers",
-   "link": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "People who can't afford to get on the housing ladder are buying homes with someone they don't know.",
-   "date": "2026-11-17T00:00:02+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "Q&A: Why building math muscles remains important in the AI era",
    "link": "https://news.mit.edu/2026/qa-why-building-math-muscles-remains-important-ai-era-1117",
    "excerpt": "Assistant Professor John Urschel explains why learning the fundamental skills of mathematics is still essential despite the evolution of AI tools.",
@@ -214,14 +246,6 @@
    "date": "2026-11-17T00:00:00-05:00",
    "source": "MIT News",
    "topic": "Tech"
-  },
-  {
-   "title": "OpenAI sued by California over Hugging Face attack",
-   "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Attorney General Rob Bonta alleges that the artificial intelligence misled and endangered the public.",
-   "date": "2026-11-16T23:12:24+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "Monday assorted links",
@@ -308,22 +332,6 @@
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-590.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-590",
    "excerpt": "1. His office. 2. The South African bi-oceanic railway. 3. Ethnic politics and class politics. 4. AI-generated preview is going viral, what is the chance they make the movie now? I will pay to see it. Is this a new…",
    "date": "2026-11-15T17:26:25+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
-   "title": "Tyler Cowen’s strongest musical recommendations, 2003–2026",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/tyler-cowens-strongest-musical-recommendations-2003-2026.html?utm_source=rss&utm_medium=rss&utm_campaign=tyler-cowens-strongest-musical-recommendations-2003-2026",
-   "excerpt": "From the Archive, written by ChatGPT: The clearest standouts are Loveless, Brazil Classics 1, Solo Monk, and the Louvin Brothers’ Tragic Songs of Life. Bach receives the strongest sustained endorsement across the years.…",
-   "date": "2026-11-15T12:18:42+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
-   "title": "AI and complements",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/ai-and-complements.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-and-complements",
-   "excerpt": "In a “weak links” model of production, where tasks are complements, the gains from automation tend to arrive slowly because output is constrained by the least productive tasks. But the same complementarity makes attacks…",
-   "date": "2026-11-15T10:03:58+00:00",
    "source": "Marginal Revolution",
    "topic": "Economy"
   },
@@ -436,14 +444,6 @@
    "link": "https://news.mit.edu/2026/from-seed-funding-to-scientific-breakthroughs-1112",
    "excerpt": "How the MIT Global Seed Funds helped Professor Matt Shoulders and his team build international collaborations that continue to shape his research more than a decade later.",
    "date": "2026-11-12T16:45:00-05:00",
-   "source": "MIT News",
-   "topic": "Tech"
-  },
-  {
-   "title": "Energy, prosperity, emissions, and innovation: A decarbonization progress report",
-   "link": "https://news.mit.edu/2026/energy-prosperity-emissions-innovation-decarbonization-progress-report-1112",
-   "excerpt": "Eric Toone, CTO of Breakthrough Energy, assessed global decarbonization, and the opportunities and challenges that remain, at MITEI’s annual research conference.",
-   "date": "2026-11-12T16:30:00-05:00",
    "source": "MIT News",
    "topic": "Tech"
   },
