@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T10:59:18.810134+00:00",
+ "updated": "2026-11-18T19:52:23.987357+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -64,20 +64,140 @@
  ],
  "articles": [
   {
-   "title": "Energy bills forecast to go up by £443 a year from January as UK inflation rises again",
-   "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Inflation is likely to keep rising on fresh forecasts that household energy bills will jump by 26% in January.",
-   "date": "2026-11-18T10:10:12+00:00",
+   "title": "How high is UK inflation and how will you be affected?",
+   "link": "https://www.bbc.co.uk/news/videos/cxp80q5pv4q5o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Prices rose 3.6% in the year to October, mainly because of higher petrol and diesel prices, official figures show.",
+   "date": "2026-11-18T19:37:27+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
   {
-   "title": "Energy bills forecast to go up by £443 a year from January as UK inflation rises again",
-   "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Inflation is likely to keep rising on fresh forecasts that household energy bills will jump by 26% in January.",
-   "date": "2026-11-18T10:10:12+00:00",
+   "title": "How high is UK inflation and how will you be affected?",
+   "link": "https://www.bbc.co.uk/news/videos/cxp80q5pv4q5o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Prices rose 3.6% in the year to October, mainly because of higher petrol and diesel prices, official figures show.",
+   "date": "2026-11-18T19:37:27+00:00",
    "source": "BBC Business",
    "topic": "Business"
+  },
+  {
+   "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+   "excerpt": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+   "date": "2026-11-18T19:00:00+00:00",
+   "source": "Federal Reserve",
+   "topic": "Economy"
+  },
+  {
+   "title": "UK productivity update",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/uk-productivity-update.html?utm_source=rss&utm_medium=rss&utm_campaign=uk-productivity-update",
+   "excerpt": "Output per hour worked increased by 2.5% in Quarter 3 (July to Sept) 2026 compared with the same quarter a year ago, reflecting a 2.0% increase in GVA and a 0.5% decrease in hours worked. Output per worker increased by…",
+   "date": "2026-11-18T18:53:56+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "The economics of investment expensing",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-investment-expensing.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-investment-expensing",
+   "excerpt": "In July 2025, the One Big Beautiful Bill Act made 100% equipment expensing permanent after two decades of temporary bonus depreciation. I evaluate this reform in a general-equilibrium heterogeneous-firm model with…",
+   "date": "2026-11-18T18:17:04+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Wednesday assorted links",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/wednesday-assorted-links-580.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-580",
+   "excerpt": "1. Chinese AI companies way down in value. 2. Allison Schrager is starting a podcast with Ken Rogoff. 3. Extensive survey of students on AI. 4. Robert Lynch on lookism. 5. New version of Claude Blattman. 6. Seb Krier on…",
+   "date": "2026-11-18T16:41:46+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "How M.C. Escher’s Art Creates Bizarre Mathematical Worlds",
+   "link": "https://www.quantamagazine.org/how-m-c-eschers-art-creates-bizarre-mathematical-worlds-20261118/",
+   "excerpt": "The artist had no formal math education, yet as a new exhibition shows, the insights revealed in his artwork became an enduring inspiration to mathematicians. The post How M.C. Escher’s Art Creates Bizarre Mathematical…",
+   "date": "2026-11-18T15:51:40+00:00",
+   "source": "Quanta Magazine",
+   "topic": "Math & Science"
+  },
+  {
+   "title": "Learn Data Structures and Algorithms in Python with Visualizations",
+   "link": "https://www.freecodecamp.org/news/learn-data-structures-and-algorithms-in-python-with-visualizations/",
+   "excerpt": "Data structures such as arrays, linked lists, stacks, queues, hash tables, trees, heaps, and graphs determine how a program stores data and how fast it can search, insert, and remove items. Big O nota",
+   "date": "2026-11-18T15:48:16+00:00",
+   "source": "freeCodeCamp",
+   "topic": "Tech"
+  },
+  {
+   "title": "Cathedral's staff review 'difficult but necessary'",
+   "link": "https://www.bbc.co.uk/news/articles/c6kgr03jlv4ro?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Gloucester Cathedral has been going through a restructure due to \"significant financial pressure\".",
+   "date": "2026-11-18T15:14:34+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "This featherweight, flying robot carries its own sensors and computers",
+   "link": "https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118",
+   "excerpt": "The speedy microrobot flies without an attached motion-capture system, moving it closer to applications like agriculture or industrial surveillance.",
+   "date": "2026-11-18T14:00:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
+  },
+  {
+   "title": "The seven Anthropic founders who are about to become multi-billionaires",
+   "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+   "date": "2026-11-18T13:55:14+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
+   "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year.",
+   "date": "2026-11-18T13:17:06+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
+   "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year.",
+   "date": "2026-11-18T13:17:06+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
+   "link": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Prices are rising at their fastest pace for a year in the UK, and higher energy costs are on the way.",
+   "date": "2026-11-18T13:10:01+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
+   "link": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Prices are rising at their fastest pace for a year in the UK, and higher energy costs are on the way.",
+   "date": "2026-11-18T13:10:01+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Was Achilles Conscious?",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/was-achilles-conscious.html?utm_source=rss&utm_medium=rss&utm_campaign=was-achilles-conscious",
+   "excerpt": "Homer’s Greeks had no inner life. That’s the title of a recent introduction to Julian Jaynes’s bicameral theory of mind. To recap: in The Origin of Consciousness in the Breakdown of the Bicameral Mind, Jaynes argued…",
+   "date": "2026-11-18T12:18:00+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Joe Higgins to step down as VP for campus services and stewardship",
+   "link": "https://news.mit.edu/2026/joe-higgins-to-step-down-vp-campus-services-stewardship-1118",
+   "excerpt": "During his time at the Institute, Higgins has guided MIT’s physical campus through a transformative period, delivering 2030 Capital Plan projects, improving critical facilities, and advancing decarbonization.",
+   "date": "2026-11-18T11:20:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
   },
   {
    "title": "MP urges council to speed up heating oil payments",
@@ -92,14 +212,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
    "excerpt": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
    "date": "2026-11-18T08:47:06+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "States to debate social security contributions cut",
-   "link": "https://www.bbc.co.uk/news/articles/cqgm39mwjgjpo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The amendment is being brought forward by deputies Gavin St Pier and Tom Rylatt.",
-   "date": "2026-11-18T06:17:58+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
@@ -122,32 +234,8 @@
   {
    "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new Bond",
    "link": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
+   "excerpt": "The Amazon chairman says he was originally \"biased against\" Pattinson \"because he's already so famous\".",
    "date": "2026-11-18T04:00:54+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Waymo pulls driverless taxis from all US freeways",
-   "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
-   "date": "2026-11-18T03:07:22+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
-   "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
-   "date": "2026-11-18T01:18:18+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Europe plans to catch the next computer chip wave",
-   "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
-   "date": "2026-11-18T00:00:24+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
@@ -168,28 +256,12 @@
    "topic": "Tech"
   },
   {
-   "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
-   "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
-   "date": "2026-11-17T23:02:12+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "The Kalshi market on U.S. productivity growth",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/the-kalshi-market-on-u-s-productivity-growth.html?utm_source=rss&utm_medium=rss&utm_campaign=the-kalshi-market-on-u-s-productivity-growth",
    "excerpt": "It is coming in at 2.2%, people. That is for over the next five years. tys…though even I think it will be a bit higher than that. Yes the liquidity is tiny, but that is endogenous to the reality that huge profits are…",
    "date": "2026-11-17T20:34:15+00:00",
    "source": "Marginal Revolution",
    "topic": "Economy"
-  },
-  {
-   "title": "Speed camera fault may have allowed drivers to escape fines",
-   "link": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
-   "date": "2026-11-17T20:04:54+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "What should I ask Alexander Mikaberidze?",
@@ -280,14 +352,6 @@
    "topic": "Economy"
   },
   {
-   "title": "Russ Roberts and I do EconTalk podcast on Montaigne",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/russ-roberts-and-i-do-econtalk-podcast-on-montaigne.html?utm_source=rss&utm_medium=rss&utm_campaign=russ-roberts-and-i-do-econtalk-podcast-on-montaigne",
-   "excerpt": "Self-recommending, we start with Montaigne’s essay on education… The post Russ Roberts and I do EconTalk podcast on Montaigne appeared first on Marginal REVOLUTION .",
-   "date": "2026-11-16T16:53:41+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
    "title": "MIT School of Engineering faculty and staff receive awards in summer 2026",
    "link": "https://news.mit.edu/2026/mit-engineering-faculty-staff-receive-awards-summer-2026-1116",
    "excerpt": "Faculty members and researchers were honored in recognition of their scholarship, service, and overall excellence.",
@@ -318,30 +382,6 @@
    "date": "2026-11-16T13:15:00-05:00",
    "source": "MIT News",
    "topic": "Tech"
-  },
-  {
-   "title": "Starship",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/starship.html?utm_source=rss&utm_medium=rss&utm_campaign=starship",
-   "excerpt": "My favorite commentary on SpaceX’s historic catching of Starship was this: …we may be certain of this: for all but a vanishingly brief instant near the dawn of history, the word ‘ship’ will mean ‘spaceship.’ Arthur C.…",
-   "date": "2026-11-16T12:18:54+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
-   "title": "Coffeehouses and the Scientific Revolution",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/coffeehouses-and-the-scientific-revolution.html?utm_source=rss&utm_medium=rss&utm_campaign=coffeehouses-and-the-scientific-revolution",
-   "excerpt": "Abstract Historians have long credited coffeehouses, venues for conversation where strangers met across social ranks, with fostering scientific contacts and activity during the Scientific Revolution. We test this claim…",
-   "date": "2026-11-16T07:33:14+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
-   "title": "A scenario for rogue AIs?",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/a-scenario-for-rogue-ais.html?utm_source=rss&utm_medium=rss&utm_campaign=a-scenario-for-rogue-ais",
-   "excerpt": "From Adam Kaufman: I think it’s pretty likely that in 6 months there will be rogue AIs running around on the internet, appropriating whatever compute they can hack into or pay for (with stolen money or by renting out…",
-   "date": "2026-11-16T05:47:54+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
   },
   {
    "title": "No matter how you ask, more Americans are negative than positive about AI",
@@ -408,22 +448,6 @@
    "topic": "Tech"
   },
   {
-   "title": "New AI “copilot” helps engineers design better structures",
-   "link": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113",
-   "excerpt": "The system asks humans for feedback to increase trust in machine-generated designs for buildings and bridges.",
-   "date": "2026-11-13T00:00:00-05:00",
-   "source": "MIT News",
-   "topic": "Tech"
-  },
-  {
-   "title": "Helping robots fit into the human workplace",
-   "link": "https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113",
-   "excerpt": "Founded by Anthony Jules ’92, SM ’92 and Professor Emeritus Rodney Brooks, Robust AI’s robots are designed to collaborate with humans in factories and warehouses.",
-   "date": "2026-11-13T00:00:00-05:00",
-   "source": "MIT News",
-   "topic": "Tech"
-  },
-  {
    "title": "Can Network Science Transform Health and Nutrition?",
    "link": "https://www.quantamagazine.org/can-network-science-transform-health-and-nutrition-20261112/",
    "excerpt": "Albert-László Barabási explains how the same organizing principles shape everything from the internet to the cell, and how mapping the networks inside our bodies could change how we treat disease and think about food.…",
@@ -472,14 +496,6 @@
    "topic": "Math & Science"
   },
   {
-   "title": "How a Metabolic Spark Could Have Jump-Started Life",
-   "link": "https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/",
-   "excerpt": "Energetic pathways that make and break complex molecules are critical to all life. It’s even possible that these self-sustaining cycles could have been key at life’s beginning. The post How a Metabolic Spark Could Have…",
-   "date": "2026-11-11T15:10:30+00:00",
-   "source": "Quanta Magazine",
-   "topic": "Math & Science"
-  },
-  {
    "title": "Learn Agentic Coding with Codex & AI Coding Agents",
    "link": "https://www.freecodecamp.org/news/learn-agentic-coding-with-codex-ai-coding-agents/",
    "excerpt": "AI coding agents such as Codex read your codebase, edit multiple files, and run commands and tests while they work through larger tasks with you. In Codex, an AGENTS.md file holds persistent instructi",
@@ -508,14 +524,6 @@
    "link": "https://www.freecodecamp.org/news/build-pdf-storyboard-generator-javascript/",
    "excerpt": "PDF files are commonly used to share presentations, scripts, reports, lesson materials, comic pages, and other visual documents. But reviewing a long PDF page by page can take time, especially when so",
    "date": "2026-11-06T19:41:34+00:00",
-   "source": "freeCodeCamp",
-   "topic": "Tech"
-  },
-  {
-   "title": "Godot 4 Roguelike Course – Build a Complete Top-Down Action Game",
-   "link": "https://www.freecodecamp.org/news/godot-4-roguelike-course-build-a-complete-top-down-action-game/",
-   "excerpt": "A top-down action roguelite only works when combat feels sharp, rooms feel connected, and every run asks you to trade power for risk. Godot 4 has the tools for that, but most tutorials stop before tho",
-   "date": "2026-11-06T16:06:33+00:00",
    "source": "freeCodeCamp",
    "topic": "Tech"
   },
@@ -588,14 +596,6 @@
    "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
    "excerpt": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
    "date": "2026-10-09T14:00:00+00:00",
-   "source": "Federal Reserve",
-   "topic": "Economy"
-  },
-  {
-   "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
-   "excerpt": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money…",
-   "date": "2026-10-08T20:30:00+00:00",
    "source": "Federal Reserve",
    "topic": "Economy"
   },
