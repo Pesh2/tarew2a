@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T02:42:20.588425+00:00",
+ "updated": "2026-11-18T10:59:18.810134+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -64,7 +64,79 @@
  ],
  "articles": [
   {
-   "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+   "title": "Energy bills forecast to go up by £443 a year from January as UK inflation rises again",
+   "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Inflation is likely to keep rising on fresh forecasts that household energy bills will jump by 26% in January.",
+   "date": "2026-11-18T10:10:12+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Energy bills forecast to go up by £443 a year from January as UK inflation rises again",
+   "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Inflation is likely to keep rising on fresh forecasts that household energy bills will jump by 26% in January.",
+   "date": "2026-11-18T10:10:12+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "MP urges council to speed up heating oil payments",
+   "link": "https://www.bbc.co.uk/news/articles/cm792dqz4qvyo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "About 23,000 households use heating oil in Northumberland and face increasing bills this winter.",
+   "date": "2026-11-18T08:48:26+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Security flaw found in Java, world's third-largest programming language",
+   "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
+   "date": "2026-11-18T08:47:06+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "States to debate social security contributions cut",
+   "link": "https://www.bbc.co.uk/news/articles/cqgm39mwjgjpo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The amendment is being brought forward by deputies Gavin St Pier and Tom Rylatt.",
+   "date": "2026-11-18T06:17:58+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Me on the cyberattacks",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/me-on-the-cyberattacks.html?utm_source=rss&utm_medium=rss&utm_campaign=me-on-the-cyberattacks",
+   "excerpt": "Tyler Cowen: Don’t Be Fooled By Randomness The problems are serious, but the sky is not falling in. When it comes to the recent service outages, keep a few points in mind. First, cyber risk is considerably higher than…",
+   "date": "2026-11-18T06:10:57+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "How important are Nvidia and Jensen Huang to the US economy?",
+   "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+   "date": "2026-11-18T06:04:21+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new Bond",
+   "link": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
+   "date": "2026-11-18T04:00:54+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Waymo pulls driverless taxis from all US freeways",
+   "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+   "date": "2026-11-18T03:07:22+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
    "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
    "excerpt": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
    "date": "2026-11-18T01:18:18+00:00",
@@ -76,6 +148,30 @@
    "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
    "excerpt": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
    "date": "2026-11-18T00:00:24+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Helping AI text detectors keep up with changing conditions",
+   "link": "https://news.mit.edu/2026/helping-ai-text-detectors-keep-up-with-changing-conditions-1118",
+   "excerpt": "A more flexible training method can make AI text detectors more robust when new models emerge or AI-generated text is disguised to appear human.",
+   "date": "2026-11-18T00:00:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
+  },
+  {
+   "title": "Building blocks for a greener skyline",
+   "link": "https://news.mit.edu/2026/building-blocks-for-greener-skyline-miana-smith-1118",
+   "excerpt": "Miana Smith designs self-correcting blocks that simple robots can use to construct large, sustainable structures.",
+   "date": "2026-11-18T00:00:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
+  },
+  {
+   "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+   "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
+   "date": "2026-11-17T23:02:12+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
@@ -104,36 +200,12 @@
    "topic": "Economy"
   },
   {
-   "title": "Government backs welfare shake-up to prevent 'lost generation'",
-   "link": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.",
-   "date": "2026-11-17T18:43:05+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
-   "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
-   "date": "2026-11-17T18:24:21+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "Alex Imas and I podcast on the economics of AI",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/alex-imas-and-i-podcast-on-the-economics-of-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=alex-imas-and-i-podcast-on-the-economics-of-ai",
    "excerpt": "Alex is an economist from the University of Chicago, currently visiting at DeepMind. Erik Torenberg hosts, I thought it was an excellent episode. YouTube: HERE X: HERE Spotify: HERE Apple: HERE The post Alex Imas and I…",
    "date": "2026-11-17T16:53:31+00:00",
    "source": "Marginal Revolution",
    "topic": "Economy"
-  },
-  {
-   "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
-   "link": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says.",
-   "date": "2026-11-17T15:56:04+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "Putting a spotlight on AI, society, and humanity",
@@ -144,60 +216,12 @@
    "topic": "Tech"
   },
   {
-   "title": "US bank services returning to normal after major outage",
-   "link": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
-   "date": "2026-11-17T15:04:24+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "How new US chip restrictions on South East Asia will hit China",
-   "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
-   "date": "2026-11-17T14:25:45+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "Tuesday assorted links",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-595.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-595",
    "excerpt": "1. Luka has become a very good player. Defense is much better too. 2. No comment. 3. Did England bribe Scotland into political union? 4. Survey article on the economics of mental health, one of the most important and…",
    "date": "2026-11-17T13:46:49+00:00",
    "source": "Marginal Revolution",
    "topic": "Economy"
-  },
-  {
-   "title": "Government must act now or lose Royal Mail, former minister warns",
-   "link": "https://www.bbc.co.uk/news/articles/cjvg26p3z2gdo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The former business secretary says \"undercutting\" by rivals will make Royal Mail \"unviable\".",
-   "date": "2026-11-17T12:43:07+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Where are the most jobs for 18-24 year-olds?",
-   "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
-   "excerpt": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
-   "date": "2026-11-17T12:35:53+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "US government confirms investigation into tech firm Megaspeed",
-   "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
-   "date": "2026-11-17T11:17:32+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Immigration arrests after organised crime blitz",
-   "link": "https://www.bbc.co.uk/news/videos/cm3eg3q758gjo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Eighteen people were arrested for a range of suspected crimes including modern slavery, police say.",
-   "date": "2026-11-17T10:49:58+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "Adlerlicht, reporting on crime in Germany",
@@ -328,14 +352,6 @@
    "topic": "Data"
   },
   {
-   "title": "Sunday assorted links",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-590.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-590",
-   "excerpt": "1. His office. 2. The South African bi-oceanic railway. 3. Ethnic politics and class politics. 4. AI-generated preview is going viral, what is the chance they make the movie now? I will pay to see it. Is this a new…",
-   "date": "2026-11-15T17:26:25+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
    "title": "Arianna Doss named a 2027 Rhodes Scholar",
    "link": "https://news.mit.edu/2026/arianna-doss-named-2027-rhodes-scholar-1114",
    "excerpt": "A double major in biological engineering and political science, Doss will begin postgraduate studies at Oxford University next fall.",
@@ -430,22 +446,6 @@
    "date": "2026-11-12T17:45:00+00:00",
    "source": "Federal Reserve",
    "topic": "Economy"
-  },
-  {
-   "title": "Addressing nuclear challenges, from radiation detection to power in space",
-   "link": "https://news.mit.edu/2026/addressing-nuclear-challenges-jake-hecla-1112",
-   "excerpt": "Assistant Professor Jake Hecla is developing tools to cool space-based reactors, detect the presence of nuclear weapons, and better understand emerging nuclear technologies.",
-   "date": "2026-11-12T17:10:00-05:00",
-   "source": "MIT News",
-   "topic": "Tech"
-  },
-  {
-   "title": "Q&A: From seed funding to scientific breakthroughs",
-   "link": "https://news.mit.edu/2026/from-seed-funding-to-scientific-breakthroughs-1112",
-   "excerpt": "How the MIT Global Seed Funds helped Professor Matt Shoulders and his team build international collaborations that continue to shape his research more than a decade later.",
-   "date": "2026-11-12T16:45:00-05:00",
-   "source": "MIT News",
-   "topic": "Tech"
   },
   {
    "title": "A New Era for the Dawn of Life",
