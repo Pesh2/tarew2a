@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T02:12:29.065402+00:00",
+ "updated": "2026-11-19T11:02:03.355953+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -48,8 +48,8 @@
   },
   {
    "source": "Brookings",
-   "ok": false,
-   "error": "undefined entity: line 57, column 0"
+   "ok": true,
+   "count": 0
   },
   {
    "source": "Federal Reserve",
@@ -64,10 +64,58 @@
  ],
  "articles": [
   {
-   "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+   "title": "Anthropic raises $81bn in record-breaking stock market debut",
+   "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
+   "date": "2026-11-19T10:48:04+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "The Anthropic IPO",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/the-anthropic-ipo.html?utm_source=rss&utm_medium=rss&utm_campaign=the-anthropic-ipo",
+   "excerpt": "In general I am bullish on the commercial prospects of AI companies, including Anthropic (do note I am on the Advisory Board, though with zero governance role and zero access to internal information). But I view today’s…",
+   "date": "2026-11-19T06:40:05+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Increase in direct cremations since pandemic",
+   "link": "https://www.bbc.co.uk/news/articles/ck5ywnr59z85o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "A 2026 Cost of Dying Report found direct cremation was now chosen for around one in five funerals.",
+   "date": "2026-11-19T06:23:22+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Gilts v kilts: What is happening with Scottish government bonds?",
+   "link": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market.",
+   "date": "2026-11-19T06:15:57+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Leftover pumpkins help deliver 1,000th free meal",
+   "link": "https://www.bbc.co.uk/news/articles/c6x29jxgkjpno?at_medium=RSS&at_campaign=rss",
+   "excerpt": "\"It's a really tough time for a lot of people,\" a sustainable food organisation says.",
+   "date": "2026-11-19T06:04:30+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Will Baird, book maven (from my email)",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/will-baird-book-maven-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=will-baird-book-maven-from-my-email",
+   "excerpt": "Tyler and Alex, I have built Marginalia Library: using AI and the archives you have helpfully posted, I found every time a book has been mentioned on Marginal Revolution and created a searchable, browsable catalog. The…",
+   "date": "2026-11-19T06:02:15+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
    "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
    "excerpt": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
-   "date": "2026-11-19T01:56:28+00:00",
+   "date": "2026-11-19T02:59:06+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
@@ -80,6 +128,14 @@
    "topic": "Business"
   },
   {
+   "title": "Crew unaware of risks before Mike Lynch's yacht Bayesian sank, say investigators",
+   "link": "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The vessel sank off the coast of northern Sicily, killing seven people including British tech tycoon Mike Lynch.",
+   "date": "2026-11-19T00:05:31+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
    "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
    "link": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
    "excerpt": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
@@ -88,18 +144,18 @@
    "topic": "Business"
   },
   {
+   "title": "Confirmed: Numbers tell, but language sells",
+   "link": "https://news.mit.edu/2026/confirmed-numbers-tell-language-sells-1119",
+   "excerpt": "When people use statistics to persuade others, they are more likely to summarize the data in words — and it works, researchers say.",
+   "date": "2026-11-19T00:00:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
+  },
+  {
    "title": "Why has Waymo pulled all its driverless cars from US freeways?",
    "link": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
    "excerpt": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
    "date": "2026-11-18T23:47:46+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
-   "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
-   "date": "2026-11-18T23:44:27+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
@@ -112,14 +168,6 @@
    "topic": "Business"
   },
   {
-   "title": "Gilts v kilts: What is happening with Scottish government bonds?",
-   "link": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market?",
-   "date": "2026-11-18T23:01:09+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "Business Daily",
    "link": "https://www.bbc.co.uk/sounds/play/w3ct8gm9?at_medium=RSS&at_campaign=rss",
    "excerpt": "We examine the business of the Claude chatbot maker as it starts selling shares",
@@ -128,26 +176,10 @@
    "topic": "Business"
   },
   {
-   "title": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+   "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
    "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
    "excerpt": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
    "date": "2026-11-18T21:28:08+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "How high is UK inflation and how will you be affected?",
-   "link": "https://www.bbc.co.uk/news/videos/cxp80q5pv4q5o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Prices rose 3.6% in the year to October, mainly because of higher petrol and diesel prices, official figures show.",
-   "date": "2026-11-18T19:37:27+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "How high is UK inflation and how will you be affected?",
-   "link": "https://www.bbc.co.uk/news/videos/cxp80q5pv4q5o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Prices rose 3.6% in the year to October, mainly because of higher petrol and diesel prices, official figures show.",
-   "date": "2026-11-18T19:37:27+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
@@ -198,14 +230,6 @@
    "date": "2026-11-18T15:48:16+00:00",
    "source": "freeCodeCamp",
    "topic": "Tech"
-  },
-  {
-   "title": "Cathedral's staff review 'difficult but necessary'",
-   "link": "https://www.bbc.co.uk/news/articles/c6kgr03jlv4ro?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Gloucester Cathedral has been going through a restructure due to \"significant financial pressure\".",
-   "date": "2026-11-18T15:14:34+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "This featherweight, flying robot carries its own sensors and computers",
@@ -312,14 +336,6 @@
    "topic": "Economy"
   },
   {
-   "title": "The economics of Jensen Huang",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-jensen-huang.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-jensen-huang",
-   "excerpt": "Most of my assessment is very positive, but I will excerpt this bit from my latest Free Press piece: Finally, the company was not built to withstand Huang’s departure. Too much authority and knowledge were concentrated…",
-   "date": "2026-11-17T05:44:15+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
    "title": "How to Build an NLP Pipeline in Python to Analyze Therapy Progress Notes",
    "link": "https://www.freecodecamp.org/news/build-nlp-pipeline-python-therapy-notes/",
    "excerpt": "Therapy progress notes are written records of what happened during a therapy session. They may include what a client said, what the therapist observed, the topics discussed, and plans for the next ses",
@@ -350,14 +366,6 @@
    "date": "2026-11-17T00:00:00-05:00",
    "source": "MIT News",
    "topic": "Tech"
-  },
-  {
-   "title": "Monday assorted links",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/monday-assorted-links-586.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-586",
-   "excerpt": "1. Some Henry Oliver book reviews. 2. Washington Monthly’s The Reader, book reviews. And High Line, a new publishing house for disfavored books. 3. Inflation-indexed bonds around the world. 4. Garett Jones on Richard…",
-   "date": "2026-11-16T19:17:13+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
   },
   {
    "title": "MIT School of Engineering faculty and staff receive awards in summer 2026",
@@ -398,14 +406,6 @@
    "date": "2026-11-16T00:00:00+00:00",
    "source": "Our World in Data",
    "topic": "Data"
-  },
-  {
-   "title": "Arianna Doss named a 2027 Rhodes Scholar",
-   "link": "https://news.mit.edu/2026/arianna-doss-named-2027-rhodes-scholar-1114",
-   "excerpt": "A double major in biological engineering and political science, Doss will begin postgraduate studies at Oxford University next fall.",
-   "date": "2026-11-14T21:00:00-05:00",
-   "source": "MIT News",
-   "topic": "Tech"
   },
   {
    "title": "Build and Train a GLM-5.3-Flash Model From Scratch with Python",
