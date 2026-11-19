@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T19:52:23.987357+00:00",
+ "updated": "2026-11-19T02:12:29.065402+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -63,6 +63,78 @@
   }
  ],
  "articles": [
+  {
+   "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+   "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+   "date": "2026-11-19T01:56:28+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Who are the investors ready to jump on Anthropic?",
+   "link": "https://www.bbc.co.uk/news/videos/c6y0x84xx22wo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The BBC's Samira Hussain speaks to a retail investor eagerly waiting for the AI company's stock to go live on Thursday.",
+   "date": "2026-11-19T01:22:38+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+   "link": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
+   "excerpt": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
+   "date": "2026-11-19T00:00:59+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Why has Waymo pulled all its driverless cars from US freeways?",
+   "link": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
+   "date": "2026-11-18T23:47:46+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
+   "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
+   "date": "2026-11-18T23:44:27+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "The seven Anthropic founders who are about to become multi-billionaires",
+   "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+   "date": "2026-11-18T23:42:07+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Gilts v kilts: What is happening with Scottish government bonds?",
+   "link": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market?",
+   "date": "2026-11-18T23:01:09+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Business Daily",
+   "link": "https://www.bbc.co.uk/sounds/play/w3ct8gm9?at_medium=RSS&at_campaign=rss",
+   "excerpt": "We examine the business of the Claude chatbot maker as it starts selling shares",
+   "date": "2026-11-18T21:30:00+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+   "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
+   "date": "2026-11-18T21:28:08+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
   {
    "title": "How high is UK inflation and how will you be affected?",
    "link": "https://www.bbc.co.uk/news/videos/cxp80q5pv4q5o?at_medium=RSS&at_campaign=rss",
@@ -144,46 +216,6 @@
    "topic": "Tech"
   },
   {
-   "title": "The seven Anthropic founders who are about to become multi-billionaires",
-   "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
-   "date": "2026-11-18T13:55:14+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
-   "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year.",
-   "date": "2026-11-18T13:17:06+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
-   "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year.",
-   "date": "2026-11-18T13:17:06+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
-   "link": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Prices are rising at their fastest pace for a year in the UK, and higher energy costs are on the way.",
-   "date": "2026-11-18T13:10:01+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
-   "link": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Prices are rising at their fastest pace for a year in the UK, and higher energy costs are on the way.",
-   "date": "2026-11-18T13:10:01+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "Was Achilles Conscious?",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/was-achilles-conscious.html?utm_source=rss&utm_medium=rss&utm_campaign=was-achilles-conscious",
    "excerpt": "Homer’s Greeks had no inner life. That’s the title of a recent introduction to Julian Jaynes’s bicameral theory of mind. To recap: in The Origin of Consciousness in the Breakdown of the Bicameral Mind, Jaynes argued…",
@@ -200,22 +232,6 @@
    "topic": "Tech"
   },
   {
-   "title": "MP urges council to speed up heating oil payments",
-   "link": "https://www.bbc.co.uk/news/articles/cm792dqz4qvyo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "About 23,000 households use heating oil in Northumberland and face increasing bills this winter.",
-   "date": "2026-11-18T08:48:26+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Security flaw found in Java, world's third-largest programming language",
-   "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
-   "date": "2026-11-18T08:47:06+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "Me on the cyberattacks",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/me-on-the-cyberattacks.html?utm_source=rss&utm_medium=rss&utm_campaign=me-on-the-cyberattacks",
    "excerpt": "Tyler Cowen: Don’t Be Fooled By Randomness The problems are serious, but the sky is not falling in. When it comes to the recent service outages, keep a few points in mind. First, cyber risk is considerably higher than…",
@@ -224,20 +240,12 @@
    "topic": "Economy"
   },
   {
-   "title": "How important are Nvidia and Jensen Huang to the US economy?",
-   "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom.",
-   "date": "2026-11-18T06:04:21+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new Bond",
-   "link": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The Amazon chairman says he was originally \"biased against\" Pattinson \"because he's already so famous\".",
-   "date": "2026-11-18T04:00:54+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
+   "title": "Designing the next chapter for professional athletes",
+   "link": "https://news.mit.edu/2026/founders-academy-designing-next-chapter-professional-athletes-1118",
+   "excerpt": "MIT Sloan student Collin Johnson, a former NFL player, worked with MIT DesignX faculty to create Founders Academy, a program to help athletes plan their futures off the field.",
+   "date": "2026-11-18T03:30:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
   },
   {
    "title": "Helping AI text detectors keep up with changing conditions",
@@ -437,14 +445,6 @@
    "excerpt": "Before anyone films a video, shoots an ad or draws the final pages of a comic, someone usually sketches the plan as a storyboard: one picture per shot, in order, with a short note about what happens a",
    "date": "2026-11-13T10:44:43+00:00",
    "source": "freeCodeCamp",
-   "topic": "Tech"
-  },
-  {
-   "title": "Waves that clear waste from the brain during sleep are impaired in older adults",
-   "link": "https://news.mit.edu/2026/waste-clearing-waves-in-brain-during-sleep-are-impaired-in-older-adults-1113",
-   "excerpt": "Researchers now hope to investigate whether increasing the flow of cerebrospinal fluid during sleep could improve brain health.",
-   "date": "2026-11-13T05:00:00-05:00",
-   "source": "MIT News",
    "topic": "Tech"
   },
   {
