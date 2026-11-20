@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T01:59:24.059963+00:00",
+ "updated": "2026-11-20T10:50:23.939978+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -67,7 +67,79 @@
    "title": "Airbnb's divisive new house rules come into force",
    "link": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
    "excerpt": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
-   "date": "2026-11-20T00:12:28+00:00",
+   "date": "2026-11-20T09:55:20+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
+   "link": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "People stocking up on long-life food drove retail sales higher October, according to official data.",
+   "date": "2026-11-20T09:44:56+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Phonics-based Instruction and Student Achievement",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/phonics-based-instruction-and-student-achievement.html?utm_source=rss&utm_medium=rss&utm_campaign=phonics-based-instruction-and-student-achievement",
+   "excerpt": "That is a new NBER working paper by Alex Hollingsworth, Alberto Ortega & Nikolaos Zirogiannis. Abstract: Reading is a foundational skill, yet fewer than one in three US fourth graders read at a proficient level. How…",
+   "date": "2026-11-20T08:00:04+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Should AI be judging our credit worthiness?",
+   "link": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
+   "date": "2026-11-20T07:32:19+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Should AI be judging our credit worthiness?",
+   "link": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
+   "date": "2026-11-20T07:32:19+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Social poker with £5 stake is booming, says dealer",
+   "link": "https://www.bbc.co.uk/news/articles/cm8947dy3kg9o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "A poker league in Fenland sees a 35% rise in players since 2022.",
+   "date": "2026-11-20T06:19:25+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Survey reveals 'major increase' in cost of living",
+   "link": "https://www.bbc.co.uk/news/articles/cq772r7kk315o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "More than two thirds of respondents reported noticing rises in the cost of living.",
+   "date": "2026-11-20T06:12:28+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
+   "link": "https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The properties are marketed at premium prices with claims of “government-backed” returns, the BBC finds.",
+   "date": "2026-11-20T06:00:33+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "AIs vs. humans in economics papers",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/ais-vs-humans-in-economics-papers.html?utm_source=rss&utm_medium=rss&utm_campaign=ais-vs-humans-in-economics-papers",
+   "excerpt": "Is agentic research any good? Dr Yanagizawa-Drott and his colleague, Olaf Willner, used an AI verifier to check 1,000 APE papers. None was error-free; 842 contained at least one severe error, including ones invalidating…",
+   "date": "2026-11-20T05:53:10+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "GTA 6 breaks records as estimated sales top $2.3bn",
+   "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
+   "date": "2026-11-20T02:54:40+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
@@ -100,14 +172,6 @@
    "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
    "excerpt": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
    "date": "2026-11-19T23:33:51+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "California targets Nvidia in China AI chip probe",
-   "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
-   "date": "2026-11-19T23:04:30+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
@@ -160,22 +224,6 @@
    "topic": "Economy"
   },
   {
-   "title": "Anthropic raises $81bn in record-breaking stock market debut",
-   "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
-   "date": "2026-11-19T15:58:58+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "More support for households reliant on heating oil",
-   "link": "https://www.bbc.co.uk/news/articles/cwm2mj7vezr3o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "North Northamptonshire Council is encouraging eligible residents to apply for more support.",
-   "date": "2026-11-19T15:22:31+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "Ultrasound imaging without the gel",
    "link": "https://news.mit.edu/2026/ultrasound-imaging-without-gel-1119",
    "excerpt": "A new dry material could replace the traditional goopy gel for wearable ultrasound patches.",
@@ -184,28 +232,12 @@
    "topic": "Tech"
   },
   {
-   "title": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
-   "link": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The UK's competition body says initial findings suggest the ticket-reselling website used drip pricing.",
-   "date": "2026-11-19T13:35:52+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "Scientists create the first whole-body single-cell atlas of an adult vertebrate",
    "link": "https://news.mit.edu/2026/first-whole-body-single-cell-atlas-adult-vertebrate-1119",
    "excerpt": "Researchers mapped gene activity across the entire body of a tiny fish, creating a resource for studying brain regeneration, cellular diversity, and tissue function.",
    "date": "2026-11-19T12:00:00-05:00",
    "source": "MIT News",
    "topic": "Tech"
-  },
-  {
-   "title": "Indian driver wins $1.3m in life-changing lottery prize",
-   "link": "https://www.bbc.co.uk/news/videos/cke89vdn75gyo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "A truck driver's fortunes have changed overnight after he won a Diwali lottery in the northern Indian state of Punjab.",
-   "date": "2026-11-19T11:38:09+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "If tiny “primordial” black holes exist, here’s how we might find them",
@@ -230,22 +262,6 @@
    "date": "2026-11-19T06:40:05+00:00",
    "source": "Marginal Revolution",
    "topic": "Economy"
-  },
-  {
-   "title": "Increase in direct cremations since pandemic",
-   "link": "https://www.bbc.co.uk/news/articles/ck5ywnr59z85o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "A 2026 Cost of Dying Report found direct cremation was now chosen for about one in five funerals.",
-   "date": "2026-11-19T06:23:22+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Gilts v kilts: What is happening with Scottish government bonds?",
-   "link": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market.",
-   "date": "2026-11-19T06:15:57+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "Will Baird, book maven (from my email)",
@@ -384,28 +400,12 @@
    "topic": "Economy"
   },
   {
-   "title": "Alex Imas and I podcast on the economics of AI",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/alex-imas-and-i-podcast-on-the-economics-of-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=alex-imas-and-i-podcast-on-the-economics-of-ai",
-   "excerpt": "Alex is an economist from the University of Chicago, currently visiting at DeepMind. Erik Torenberg hosts, I thought it was an excellent episode. YouTube: HERE X: HERE Spotify: HERE Apple: HERE The post Alex Imas and I…",
-   "date": "2026-11-17T16:53:31+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
    "title": "Putting a spotlight on AI, society, and humanity",
    "link": "https://news.mit.edu/2026/putting-spotlight-ai-society-humanity-1117",
    "excerpt": "Supported by the MIT Human Insight Collaborative, scholars are exploring how AI is impacting the human experience and reshaping higher education.",
    "date": "2026-11-17T15:40:00-05:00",
    "source": "MIT News",
    "topic": "Tech"
-  },
-  {
-   "title": "Tuesday assorted links",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-595.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-595",
-   "excerpt": "1. Luka has become a very good player. Defense is much better too. 2. No comment. 3. Did England bribe Scotland into political union? 4. Survey article on the economics of mental health, one of the most important and…",
-   "date": "2026-11-17T13:46:49+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
   },
   {
    "title": "How to Build an NLP Pipeline in Python to Analyze Therapy Progress Notes",
