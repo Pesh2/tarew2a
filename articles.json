@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T19:52:07.577239+00:00",
+ "updated": "2026-11-20T01:59:24.059963+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -53,8 +53,8 @@
   },
   {
    "source": "Federal Reserve",
-   "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 12
   },
   {
    "source": "FRED Blog",
@@ -63,6 +63,62 @@
   }
  ],
  "articles": [
+  {
+   "title": "Airbnb's divisive new house rules come into force",
+   "link": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
+   "date": "2026-11-20T00:12:28+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Fish and eggs al desko? The dos and don'ts of the lunch break",
+   "link": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "What is acceptable to eat at your desk, without annoying your colleagues?",
+   "date": "2026-11-20T00:08:37+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+   "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
+   "date": "2026-11-20T00:02:07+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "How did Anthropic's stock market debut unfold?",
+   "link": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The BBC's Samira Hussain breaks down the AI company's first day as a publicly traded company, as shares closed up 17%.",
+   "date": "2026-11-19T23:52:25+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+   "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+   "date": "2026-11-19T23:33:51+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "California targets Nvidia in China AI chip probe",
+   "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
+   "date": "2026-11-19T23:04:30+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "How to Generate Synthetic Healthcare Data Using Synthea: A Hands On Tutorial",
+   "link": "https://www.freecodecamp.org/news/how-to-generate-synthetic-healthcare-data-using-synthea-a-hands-on-tutorial/",
+   "excerpt": "Healthcare generates huge amounts of data every day, from patient visits and lab results to diagnoses, medications, and medical imaging. For developers and data engineers building healthcare applicati",
+   "date": "2026-11-19T22:00:42+00:00",
+   "source": "freeCodeCamp",
+   "topic": "Tech"
+  },
   {
    "title": "How to Scrape Websites in Python with Olostep",
    "link": "https://www.freecodecamp.org/news/how-to-scrape-websites-in-python-with-olostep/",
@@ -85,6 +141,22 @@
    "excerpt": "1. How to turn AI-written maths into a video. 2. Honeypot markets in everything? 3. Traveling a lot without going on planes (WSJ). 4. American audiovisual exports have plunged in terms of global share (I think that is…",
    "date": "2026-11-19T17:16:30+00:00",
    "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "AI helps researchers investigate how thousands of medical studies share code",
+   "link": "https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119",
+   "excerpt": "An MIT and Dana-Farber Institute-led team used large language models to examine nearly 4,000 studies and hundreds of code repositories, revealing gaps in the information needed to scrutinize and reuse published research.",
+   "date": "2026-11-19T17:15:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
+  },
+  {
+   "title": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm",
+   "excerpt": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
+   "date": "2026-11-19T16:00:00+00:00",
+   "source": "Federal Reserve",
    "topic": "Economy"
   },
   {
@@ -176,52 +248,12 @@
    "topic": "Business"
   },
   {
-   "title": "Leftover pumpkins help deliver 1,000th free meal",
-   "link": "https://www.bbc.co.uk/news/articles/c6x29jxgkjpno?at_medium=RSS&at_campaign=rss",
-   "excerpt": "\"It's a really tough time for a lot of people,\" a sustainable food organisation says.",
-   "date": "2026-11-19T06:04:30+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "Will Baird, book maven (from my email)",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/will-baird-book-maven-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=will-baird-book-maven-from-my-email",
    "excerpt": "Tyler and Alex, I have built Marginalia Library: using AI and the archives you have helpfully posted, I found every time a book has been mentioned on Marginal Revolution and created a searchable, browsable catalog. The…",
    "date": "2026-11-19T06:02:15+00:00",
    "source": "Marginal Revolution",
    "topic": "Economy"
-  },
-  {
-   "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
-   "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
-   "date": "2026-11-19T02:59:06+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Who are the investors ready to jump on Anthropic?",
-   "link": "https://www.bbc.co.uk/news/videos/c6y0x84xx22wo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The BBC's Samira Hussain speaks to a retail investor eagerly waiting for the AI company's stock to go live on Thursday.",
-   "date": "2026-11-19T01:22:38+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Crew unaware of risks before Mike Lynch's yacht Bayesian sank, say investigators",
-   "link": "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The vessel sank off the coast of northern Sicily, killing seven people including British tech tycoon Mike Lynch.",
-   "date": "2026-11-19T00:05:31+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
-   "link": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
-   "excerpt": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
-   "date": "2026-11-19T00:00:59+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "Confirmed: Numbers tell, but language sells",
@@ -232,12 +264,12 @@
    "topic": "Tech"
   },
   {
-   "title": "Why has Waymo pulled all its driverless cars from US freeways?",
-   "link": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
-   "date": "2026-11-18T23:47:46+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
+   "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+   "excerpt": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+   "date": "2026-11-18T19:00:00+00:00",
+   "source": "Federal Reserve",
+   "topic": "Economy"
   },
   {
    "title": "UK productivity update",
@@ -392,14 +424,6 @@
    "topic": "Tech"
   },
   {
-   "title": "Q&A: Why building math muscles remains important in the AI era",
-   "link": "https://news.mit.edu/2026/qa-why-building-math-muscles-remains-important-ai-era-1117",
-   "excerpt": "Assistant Professor John Urschel explains why learning the fundamental skills of mathematics is still essential despite the evolution of AI tools.",
-   "date": "2026-11-17T00:00:00-05:00",
-   "source": "MIT News",
-   "topic": "Tech"
-  },
-  {
    "title": "What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing.",
    "link": "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/",
    "excerpt": "An era-defining galaxy survey has released its final results. They don’t quite fit the leading theory of cosmology. The post What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing. first appeared on…",
@@ -422,6 +446,14 @@
    "date": "2026-11-14T16:02:56+00:00",
    "source": "freeCodeCamp",
    "topic": "Tech"
+  },
+  {
+   "title": "Agencies extend comment period for proposed third-party risk management guidance",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
+   "excerpt": "Agencies extend comment period for proposed third-party risk management guidance",
+   "date": "2026-11-13T21:15:00+00:00",
+   "source": "Federal Reserve",
+   "topic": "Economy"
   },
   {
    "title": "How to Speed Up CI in the Age of AI-Written Code",
@@ -456,12 +488,36 @@
    "topic": "Math & Science"
   },
   {
+   "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
+   "excerpt": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+   "date": "2026-11-12T18:30:00+00:00",
+   "source": "Federal Reserve",
+   "topic": "Economy"
+  },
+  {
+   "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+   "excerpt": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+   "date": "2026-11-12T17:45:00+00:00",
+   "source": "Federal Reserve",
+   "topic": "Economy"
+  },
+  {
    "title": "A New Era for the Dawn of Life",
    "link": "https://www.quantamagazine.org/a-new-era-for-the-dawn-of-life-20261112/",
    "excerpt": "Creative, interdisciplinary, and bold, the study of the origins of life has entered a new age. Welcome to Quanta Magazine’s special series on the origins of life. The post A New Era for the Dawn of Life first appeared…",
    "date": "2026-11-12T16:20:28+00:00",
    "source": "Quanta Magazine",
    "topic": "Math & Science"
+  },
+  {
+   "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
+   "excerpt": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+   "date": "2026-11-12T16:00:00+00:00",
+   "source": "Federal Reserve",
+   "topic": "Economy"
   },
   {
    "title": "The Evolving Story of How Chemistry Became Biology",
@@ -472,12 +528,20 @@
    "topic": "Math & Science"
   },
   {
-   "title": "Learn Agentic Coding with Codex & AI Coding Agents",
-   "link": "https://www.freecodecamp.org/news/learn-agentic-coding-with-codex-ai-coding-agents/",
-   "excerpt": "AI coding agents such as Codex read your codebase, edit multiple files, and run commands and tests while they work through larger tasks with you. In Codex, an AGENTS.md file holds persistent instructi",
-   "date": "2026-11-10T16:01:58+00:00",
-   "source": "freeCodeCamp",
-   "topic": "Tech"
+   "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
+   "excerpt": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+   "date": "2026-11-09T21:00:00+00:00",
+   "source": "Federal Reserve",
+   "topic": "Economy"
+  },
+  {
+   "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
+   "excerpt": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+   "date": "2026-11-05T16:00:00+00:00",
+   "source": "Federal Reserve",
+   "topic": "Economy"
   },
   {
    "title": "Around half of people will experience a mental health issue in their lifetime",
@@ -486,6 +550,22 @@
    "date": "2026-11-02T00:00:00+00:00",
    "source": "Our World in Data",
    "topic": "Data"
+  },
+  {
+   "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
+   "excerpt": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+   "date": "2026-10-29T20:30:00+00:00",
+   "source": "Federal Reserve",
+   "topic": "Economy"
+  },
+  {
+   "title": "Federal Reserve issues FOMC statement",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+   "excerpt": "Federal Reserve issues FOMC statement",
+   "date": "2026-10-28T18:00:00+00:00",
+   "source": "Federal Reserve",
+   "topic": "Economy"
   },
   {
    "title": "How much development aid is spent on climate change?",
@@ -502,6 +582,22 @@
    "date": "2026-10-19T00:00:00+00:00",
    "source": "Our World in Data",
    "topic": "Data"
+  },
+  {
+   "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
+   "excerpt": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+   "date": "2026-10-16T15:00:00+00:00",
+   "source": "Federal Reserve",
+   "topic": "Economy"
+  },
+  {
+   "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+   "excerpt": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+   "date": "2026-10-13T18:00:00+00:00",
+   "source": "Federal Reserve",
+   "topic": "Economy"
   },
   {
    "title": "A 73% average decline in wildlife populations: an overview of the 2026 Living Planet Index report",
