@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T19:32:17.291677+00:00",
+ "updated": "2026-11-21T01:56:13.049601+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -64,6 +64,38 @@
  ],
  "articles": [
   {
+   "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+   "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+   "date": "2026-11-20T22:53:24+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+   "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+   "date": "2026-11-20T22:42:47+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Federal Reserve announces College Fed Challenge winners",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
+   "excerpt": "Federal Reserve announces College Fed Challenge winners",
+   "date": "2026-11-20T21:15:00+00:00",
+   "source": "Federal Reserve",
+   "topic": "Economy"
+  },
+  {
+   "title": "Trump threatens ban on US firms building AI data centres overseas",
+   "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+   "date": "2026-11-20T20:54:12+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
    "title": "What should I ask Walter Isaacson?",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/what-should-i-ask-walter-isaacson.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-walter-isaacson",
    "excerpt": "Yes I will be doing a Conversation with him, in part to celebrate the reissue of his earlier book The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution. And also to celebrate his new…",
@@ -72,10 +104,18 @@
    "topic": "Economy"
   },
   {
-   "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-   "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Other tech companies have also taken a hit as share markets broadly slump.",
-   "date": "2026-11-20T17:36:29+00:00",
+   "title": "How to Write an API Migration Guide (With a Real Example)",
+   "link": "https://www.freecodecamp.org/news/how-to-write-an-api-migration-guide/",
+   "excerpt": "When an API releases a new version, every developer using it has to update their code. If they only get a changelog entry that says “pagination now uses cursors,” then they’ll have to figure things ou",
+   "date": "2026-11-20T18:40:04+00:00",
+   "source": "freeCodeCamp",
+   "topic": "Tech"
+  },
+  {
+   "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+   "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+   "date": "2026-11-20T17:49:48+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
@@ -94,6 +134,14 @@
    "date": "2026-11-20T16:41:52+00:00",
    "source": "BBC Business",
    "topic": "Business"
+  },
+  {
+   "title": "A tiny superconducting sandwich could help computers use less energy",
+   "link": "https://news.mit.edu/2026/tiny-superconducting-sandwich-could-help-computers-use-less-energy-1120",
+   "excerpt": "MIT researchers combined superconducting and magnetic layers in a tiny device offering persistent memory and signal control for more energy-efficient computing.",
+   "date": "2026-11-20T16:00:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
   },
   {
    "title": "Airbnb's divisive new house rules come into force",
@@ -128,6 +176,14 @@
    "topic": "Business"
   },
   {
+   "title": "New approach enables physically consistent AI models of chaotic systems",
+   "link": "https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120",
+   "excerpt": "Enforcing physics-based constraints prevents AI models from generating unreliable predictions for complex nonlinear systems in weather, climate, and turbulent flows.",
+   "date": "2026-11-20T15:00:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
+  },
+  {
    "title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
    "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
    "excerpt": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
@@ -148,14 +204,6 @@
    "link": "https://www.bbc.co.uk/news/videos/c62l5jweqr4ko?at_medium=RSS&at_campaign=rss",
    "excerpt": "Student-led protests have swept across Europe in response to the rising cost of living, housing shortages and underfunded education.",
    "date": "2026-11-20T14:43:39+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
-   "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
-   "date": "2026-11-20T13:08:30+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
@@ -188,22 +236,6 @@
    "link": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
    "excerpt": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
    "date": "2026-11-20T07:32:19+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Should AI be judging our credit worthiness?",
-   "link": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
-   "date": "2026-11-20T07:32:19+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Social poker with £5 stake is booming, says dealer",
-   "link": "https://www.bbc.co.uk/news/articles/cm8947dy3kg9o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "A poker league in Fenland sees a 35% rise in players since 2022.",
-   "date": "2026-11-20T06:19:25+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
@@ -408,22 +440,6 @@
    "topic": "Tech"
   },
   {
-   "title": "Helping AI text detectors keep up with changing conditions",
-   "link": "https://news.mit.edu/2026/helping-ai-text-detectors-keep-up-with-changing-conditions-1118",
-   "excerpt": "A more flexible training method can make AI text detectors more robust when new models emerge or AI-generated text is disguised to appear human.",
-   "date": "2026-11-18T00:00:00-05:00",
-   "source": "MIT News",
-   "topic": "Tech"
-  },
-  {
-   "title": "Building blocks for a greener skyline",
-   "link": "https://news.mit.edu/2026/building-blocks-for-greener-skyline-miana-smith-1118",
-   "excerpt": "Miana Smith designs self-correcting blocks that simple robots can use to construct large, sustainable structures.",
-   "date": "2026-11-18T00:00:00-05:00",
-   "source": "MIT News",
-   "topic": "Tech"
-  },
-  {
    "title": "How to Build an NLP Pipeline in Python to Analyze Therapy Progress Notes",
    "link": "https://www.freecodecamp.org/news/build-nlp-pipeline-python-therapy-notes/",
    "excerpt": "Therapy progress notes are written records of what happened during a therapy session. They may include what a client said, what the therapist observed, the topics discussed, and plans for the next ses",
@@ -484,14 +500,6 @@
    "link": "https://www.freecodecamp.org/news/schema-drift-vs-semantic-drift-in-data-pipelines/",
    "excerpt": "When a column is removed from a source database or dataset, the next pipeline run usually fails, making the problem easy to detect. But when a field keeps the same name and data type but its meaning c",
    "date": "2026-11-13T11:23:18+00:00",
-   "source": "freeCodeCamp",
-   "topic": "Tech"
-  },
-  {
-   "title": "How to Build a Browser-Based Image Storyboard to PDF Tool Using JavaScript",
-   "link": "https://www.freecodecamp.org/news/build-image-storyboard-to-pdf-tool-javascript/",
-   "excerpt": "Before anyone films a video, shoots an ad or draws the final pages of a comic, someone usually sketches the plan as a storyboard: one picture per shot, in order, with a short note about what happens a",
-   "date": "2026-11-13T10:44:43+00:00",
    "source": "freeCodeCamp",
    "topic": "Tech"
   },
@@ -590,14 +598,6 @@
    "date": "2026-10-19T00:00:00+00:00",
    "source": "Our World in Data",
    "topic": "Data"
-  },
-  {
-   "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
-   "excerpt": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
-   "date": "2026-10-16T15:00:00+00:00",
-   "source": "Federal Reserve",
-   "topic": "Economy"
   },
   {
    "title": "A 73% average decline in wildlife populations: an overview of the 2026 Living Planet Index report",
