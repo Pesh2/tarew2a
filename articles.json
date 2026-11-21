@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T10:34:38.830106+00:00",
+ "updated": "2026-11-21T18:36:36.246489+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -63,6 +63,38 @@
   }
  ],
  "articles": [
+  {
+   "title": "Saturday assorted links",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/saturday-assorted-links-587.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-587",
+   "excerpt": "1. Many federal agencies are hiring economists. 2. Theodore Zeldin, RIP. 3. Henry Oliver on Paradise Lost. 4. Quantum computing even weirder than you think? (NYT) And an article bullish on quantum computing (NYT). 5.…",
+   "date": "2026-11-21T16:41:52+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "A simple observation",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/a-simple-observation.html?utm_source=rss&utm_medium=rss&utm_campaign=a-simple-observation",
+   "excerpt": "The Riemann proof seems like a true surprise. Yet on the same day Anthropic shares fell about ten percent. In other words, the market feels that “capabilities” do not necessarily translate into significant social and…",
+   "date": "2026-11-21T15:12:31+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Sessions offer advice on rising energy costs",
+   "link": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "A council is urging people to seek support with rising energy costs on heating this winter.",
+   "date": "2026-11-21T12:09:49+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Paul Litvak’s Evidence Guide",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/paul-litvaks-evidence-guide.html?utm_source=rss&utm_medium=rss&utm_campaign=paul-litvaks-evidence-guide",
+   "excerpt": "I’m excited to announce the launch of Evidence Guide, the place to store and find computational audits of papers. I built it to fill a major gap in research quality evaluation. Here is the rest of the thread. Here is…",
+   "date": "2026-11-21T11:58:56+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
   {
    "title": "*The Great Enrichment*",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/the-great-enrichment.html?utm_source=rss&utm_medium=rss&utm_campaign=the-great-enrichment",
@@ -248,14 +280,6 @@
    "topic": "Economy"
   },
   {
-   "title": "Should AI be judging our credit worthiness?",
-   "link": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
-   "date": "2026-11-20T07:32:19+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "AIs vs. humans in economics papers",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/ais-vs-humans-in-economics-papers.html?utm_source=rss&utm_medium=rss&utm_campaign=ais-vs-humans-in-economics-papers",
    "excerpt": "Is agentic research any good? Dr Yanagizawa-Drott and his colleague, Olaf Willner, used an AI verifier to check 1,000 APE papers. None was error-free; 842 contained at least one severe error, including ones invalidating…",
@@ -373,30 +397,6 @@
    "excerpt": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
    "date": "2026-11-18T19:00:00+00:00",
    "source": "Federal Reserve",
-   "topic": "Economy"
-  },
-  {
-   "title": "UK productivity update",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/uk-productivity-update.html?utm_source=rss&utm_medium=rss&utm_campaign=uk-productivity-update",
-   "excerpt": "Output per hour worked increased by 2.5% in Quarter 3 (July to Sept) 2026 compared with the same quarter a year ago, reflecting a 2.0% increase in GVA and a 0.5% decrease in hours worked. Output per worker increased by…",
-   "date": "2026-11-18T18:53:56+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
-   "title": "The economics of investment expensing",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-investment-expensing.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-investment-expensing",
-   "excerpt": "In July 2025, the One Big Beautiful Bill Act made 100% equipment expensing permanent after two decades of temporary bonus depreciation. I evaluate this reform in a general-equilibrium heterogeneous-firm model with…",
-   "date": "2026-11-18T18:17:04+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
-   "title": "Wednesday assorted links",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/wednesday-assorted-links-580.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-580",
-   "excerpt": "1. Chinese AI companies way down in value. 2. Allison Schrager is starting a podcast with Ken Rogoff. 3. Extensive survey of students on AI. 4. Robert Lynch on lookism. 5. New version of Claude Blattman. 6. Seb Krier on…",
-   "date": "2026-11-18T16:41:46+00:00",
-   "source": "Marginal Revolution",
    "topic": "Economy"
   },
   {
