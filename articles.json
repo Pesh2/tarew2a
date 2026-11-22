@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T10:38:24.021780+00:00",
+ "updated": "2026-11-22T18:57:03.842294+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -63,6 +63,30 @@
   }
  ],
  "articles": [
+  {
+   "title": "Sunday assorted links",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-591.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-591",
+   "excerpt": "1. Jonathan Yardley, RIP (NYT). One of the great book reviewers. 2. Summary of the RH proof. 3. A site collecting my talks and links. 4. Humans were never in control. 5. The Buddhist AI cult? (New Yorker) 6. Teortaxes…",
+   "date": "2026-11-22T17:31:05+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
+   "link": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
+   "date": "2026-11-22T13:50:21+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Centrica boss 'hugely concerned' over impact of soaring energy bills",
+   "link": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
+   "date": "2026-11-22T13:50:21+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
   {
    "title": "Danish daughters",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/danish-daughters.html?utm_source=rss&utm_medium=rss&utm_campaign=danish-daughters",
@@ -224,28 +248,12 @@
    "topic": "Business"
   },
   {
-   "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
-   "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
-   "date": "2026-11-20T16:41:52+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "A tiny superconducting sandwich could help computers use less energy",
    "link": "https://news.mit.edu/2026/tiny-superconducting-sandwich-could-help-computers-use-less-energy-1120",
    "excerpt": "MIT researchers combined superconducting and magnetic layers in a tiny device offering persistent memory and signal control for more energy-efficient computing.",
    "date": "2026-11-20T16:00:00-05:00",
    "source": "MIT News",
    "topic": "Tech"
-  },
-  {
-   "title": "Airbnb's divisive new house rules come into force",
-   "link": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
-   "date": "2026-11-20T15:48:35+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "Friday assorted links",
@@ -326,14 +334,6 @@
    "date": "2026-11-19T17:20:58+00:00",
    "source": "freeCodeCamp",
    "topic": "Tech"
-  },
-  {
-   "title": "Thursday assorted links",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/thursday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-579",
-   "excerpt": "1. How to turn AI-written maths into a video. 2. Honeypot markets in everything? 3. Traveling a lot without going on planes (WSJ). 4. American audiovisual exports have plunged in terms of global share (I think that is…",
-   "date": "2026-11-19T17:16:30+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
   },
   {
    "title": "AI helps researchers investigate how thousands of medical studies share code",
