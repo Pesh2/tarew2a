@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T18:57:03.842294+00:00",
+ "updated": "2026-11-23T01:21:43.791545+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -64,6 +64,54 @@
  ],
  "articles": [
   {
+   "title": "Energy bills will soar - here's how you can ease the pain",
+   "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
+   "date": "2026-11-23T01:05:07+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Energy bills will soar - here's how you can ease the pain",
+   "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
+   "date": "2026-11-23T01:05:07+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+   "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+   "date": "2026-11-23T00:33:36+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "What is going on with Poundland?",
+   "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
+   "date": "2026-11-23T00:22:27+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+   "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+   "date": "2026-11-23T00:08:00+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Increasing pay for lower wage workers",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/increasing-pay-for-lower-wage-workers.html?utm_source=rss&utm_medium=rss&utm_campaign=increasing-pay-for-lower-wage-workers",
+   "excerpt": "From 2014 to 2024, the share of U.S. hourly workers paid below $15 in real terms fell by two-thirds, from 38 percent to 13 percent. Why? We first distinguish the entry and exit of employers—wherein high-paying employers…",
+   "date": "2026-11-22T19:24:24+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
    "title": "Sunday assorted links",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-591.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-591",
    "excerpt": "1. Jonathan Yardley, RIP (NYT). One of the great book reviewers. 2. Summary of the RH proof. 3. A site collecting my talks and links. 4. Humans were never in control. 5. The Buddhist AI cult? (New Yorker) 6. Teortaxes…",
@@ -100,14 +148,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
    "excerpt": "Sir Andrew Mitchell says access should be easier for people tackling financial crime.",
    "date": "2026-11-22T07:22:05+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-   "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-   "date": "2026-11-22T07:12:41+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
@@ -192,28 +232,12 @@
    "topic": "Business"
   },
   {
-   "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-   "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-   "date": "2026-11-20T22:42:47+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "Federal Reserve announces College Fed Challenge winners",
    "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
    "excerpt": "Federal Reserve announces College Fed Challenge winners",
    "date": "2026-11-20T21:15:00+00:00",
    "source": "Federal Reserve",
    "topic": "Economy"
-  },
-  {
-   "title": "Trump threatens ban on US firms building AI data centres overseas",
-   "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-   "date": "2026-11-20T20:54:12+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "What should I ask Walter Isaacson?",
@@ -230,22 +254,6 @@
    "date": "2026-11-20T18:40:04+00:00",
    "source": "freeCodeCamp",
    "topic": "Tech"
-  },
-  {
-   "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-   "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
-   "date": "2026-11-20T17:49:48+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
-   "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
-   "date": "2026-11-20T16:41:52+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "A tiny superconducting sandwich could help computers use less energy",
@@ -300,14 +308,6 @@
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/phonics-based-instruction-and-student-achievement.html?utm_source=rss&utm_medium=rss&utm_campaign=phonics-based-instruction-and-student-achievement",
    "excerpt": "That is a new NBER working paper by Alex Hollingsworth, Alberto Ortega & Nikolaos Zirogiannis. Abstract: Reading is a foundational skill, yet fewer than one in three US fourth graders read at a proficient level. How…",
    "date": "2026-11-20T08:00:04+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
-   "title": "AIs vs. humans in economics papers",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/ais-vs-humans-in-economics-papers.html?utm_source=rss&utm_medium=rss&utm_campaign=ais-vs-humans-in-economics-papers",
-   "excerpt": "Is agentic research any good? Dr Yanagizawa-Drott and his colleague, Olaf Willner, used an AI verifier to check 1,000 APE papers. None was error-free; 842 contained at least one severe error, including ones invalidating…",
-   "date": "2026-11-20T05:53:10+00:00",
    "source": "Marginal Revolution",
    "topic": "Economy"
   },
