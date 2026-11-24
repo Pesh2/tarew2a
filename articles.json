@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T23:15:14.714086+00:00",
+ "updated": "2026-11-24T07:59:37.626496+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -63,6 +63,54 @@
   }
  ],
  "articles": [
+  {
+   "title": "Best fiction 2026",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/best-fiction-2026.html?utm_source=rss&utm_medium=rss&utm_campaign=best-fiction-2026",
+   "excerpt": "This year brought a remarkably strong showing in fiction. Here is my list in the order I read them: Siri Hustvedt, Ghost Stories: A Memoir. Karl Knausgaard, The School of Night. Juan Marsé, Last Evenings with Teresa…",
+   "date": "2026-11-24T07:33:57+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "The Health Effects of Eating Red Meat",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/the-health-effects-of-eating-red-meat.html?utm_source=rss&utm_medium=rss&utm_campaign=the-health-effects-of-eating-red-meat",
+   "excerpt": "The subtitle of the paper is Natural Experiment in Alpha-Gal Syndrome, and the authors are Vishal Patel, Christopher M. Worsham, Michael Liu-Hass & Anupam Jena. The abstract: Observational associations between red meat…",
+   "date": "2026-11-24T06:15:54+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+   "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+   "date": "2026-11-24T04:36:31+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Britain's landlords are getting bigger. A two-tier rental market may follow",
+   "link": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Increasing numbers of corporate landlords could usher in big changes for renters",
+   "date": "2026-11-24T00:28:48+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
+   "link": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Busy mothers on both sides of the Atlantic are paying companies to handle their to-do lists.",
+   "date": "2026-11-24T00:01:04+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Arianna Doss: Prescribing change",
+   "link": "https://news.mit.edu/2026/arianna-doss-prescribes-change-1124",
+   "excerpt": "When she isn’t scoring on the soccer field, the MIT senior and 2027 Rhodes Scholar works toward a future as a physician and policymaker advancing health equity.",
+   "date": "2026-11-24T00:00:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
+  },
   {
    "title": "A comeback for the ages: Trump's influence on Huang's return to Nvidia",
    "link": "https://www.bbc.co.uk/news/videos/ckp80d5nl586o?at_medium=RSS&at_campaign=rss",
@@ -200,22 +248,6 @@
    "topic": "Business"
   },
   {
-   "title": "Flights cancelled in Belgium due to cost-of-living strike",
-   "link": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
-   "date": "2026-11-23T13:34:02+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Next data accessed in cyber breach",
-   "link": "https://www.bbc.co.uk/news/articles/cqj3kjr7ez3vo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The fashion retailer says there is no evidence customers' personal data was compromised.",
-   "date": "2026-11-23T12:34:07+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "Still Unproven: Can Britain Build a Tunnel?",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/still-unproven-can-britain-build-a-tunnel.html?utm_source=rss&utm_medium=rss&utm_campaign=still-unproven-can-britain-build-a-tunnel",
    "excerpt": "Proof of Riemann Hypothesis: 250,000 pages. The planning application for a tunnel under the Lower Thames: 359,000 pages. Second irony. Some people actually care about the first document. No one cares or will read the…",
@@ -230,14 +262,6 @@
    "date": "2026-11-23T12:17:39+00:00",
    "source": "Marginal Revolution",
    "topic": "Economy"
-  },
-  {
-   "title": "Capita shares plunge 70% as boss quits after civil service pensions failure",
-   "link": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Public sector workers have been hit by delays to pension payments, in a scheme overseen by Capita since last year.",
-   "date": "2026-11-23T11:24:37+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "Best non-fiction books of 2026",
@@ -292,22 +316,6 @@
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/saturday-assorted-links-587.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-587",
    "excerpt": "1. Many federal agencies are hiring economists. 2. Theodore Zeldin, RIP. 3. Henry Oliver on Paradise Lost. 4. Quantum computing even weirder than you think? (NYT) And an article bullish on quantum computing (NYT). 5.…",
    "date": "2026-11-21T16:41:52+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
-   "title": "A simple observation",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/a-simple-observation.html?utm_source=rss&utm_medium=rss&utm_campaign=a-simple-observation",
-   "excerpt": "The Riemann proof seems like a true surprise. Yet on the same day Anthropic shares fell about ten percent. In other words, the market feels that “capabilities” do not necessarily translate into significant social and…",
-   "date": "2026-11-21T15:12:31+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
-   "title": "Paul Litvak’s Evidence Guide",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/paul-litvaks-evidence-guide.html?utm_source=rss&utm_medium=rss&utm_campaign=paul-litvaks-evidence-guide",
-   "excerpt": "I’m excited to announce the launch of Evidence Guide, the place to store and find computational audits of papers. I built it to fill a major gap in research quality evaluation. Here is the rest of the thread. Here is…",
-   "date": "2026-11-21T11:58:56+00:00",
    "source": "Marginal Revolution",
    "topic": "Economy"
   },
@@ -436,14 +444,6 @@
    "link": "https://news.mit.edu/2026/study-reveals-data-centers-long-distance-damage-air-quality-1119",
    "excerpt": "Researchers find air pollution from data center electricity use can affect communities far from the facilities, with some of the highest impacts in the Midwest.",
    "date": "2026-11-19T09:00:00-05:00",
-   "source": "MIT News",
-   "topic": "Tech"
-  },
-  {
-   "title": "Confirmed: Numbers tell, but language sells",
-   "link": "https://news.mit.edu/2026/confirmed-numbers-tell-language-sells-1119",
-   "excerpt": "When people use statistics to persuade others, they are more likely to summarize the data in words — and it works, researchers say.",
-   "date": "2026-11-19T00:00:00-05:00",
    "source": "MIT News",
    "topic": "Tech"
   },
