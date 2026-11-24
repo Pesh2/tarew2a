@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T07:59:37.626496+00:00",
+ "updated": "2026-11-24T19:52:59.447451+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -64,6 +64,94 @@
  ],
  "articles": [
   {
+   "title": "Gambling for Goals",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/gambling-for-goals.html?utm_source=rss&utm_medium=rss&utm_campaign=gambling-for-goals",
+   "excerpt": "Young adults in advanced economies have grown more pessimistic about their economic prospects in recent years. At the same time, gambling-like financial activities have proliferated. We link these trends through a…",
+   "date": "2026-11-24T19:33:13+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
+   "excerpt": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+   "date": "2026-11-24T19:00:00+00:00",
+   "source": "Federal Reserve",
+   "topic": "Economy"
+  },
+  {
+   "title": "US attorney general dodges questions about Nvidia investigation",
+   "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+   "date": "2026-11-24T18:55:59+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Faisal Islam: Fears over the AI boom haven't gone away",
+   "link": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
+   "date": "2026-11-24T18:21:43+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Four generations of a family working in one factory",
+   "link": "https://www.bbc.co.uk/news/videos/ck7v2r6j1yl3o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Four generations of the Avis family have now worked at Sweetnam & Bradley in Malmesbury.",
+   "date": "2026-11-24T16:42:46+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Tuesday assorted links",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-596.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-596",
+   "excerpt": "1. On language models writing their own weights. 2. “The Banksy of NBA media”? 3. Astra solves a historical mystery. 4. Some new Indian architecture. And more from Bloomberg. 5. The Icelandic tradition of liberty. 6.…",
+   "date": "2026-11-24T16:26:55+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Pass the Microsoft Azure AI Fundamentals (AI-901) Certification Exam",
+   "link": "https://www.freecodecamp.org/news/pass-the-microsoft-azure-ai-fundamentals-ai-901-certification-exam/",
+   "excerpt": "The Microsoft Azure AI Fundamentals (AI-901) is an entry-level certification that covers AI concepts, Microsoft Foundry, and a set of Azure AI services. It replaces the AI-900, and its exam guide is o",
+   "date": "2026-11-24T15:54:49+00:00",
+   "source": "freeCodeCamp",
+   "topic": "Tech"
+  },
+  {
+   "title": "Agentic system personalizes physical controls to help users “DJ their art”",
+   "link": "https://news.mit.edu/2026/tangimap-agentic-system-personalizes-physical-controls-help-users-dj-their-art-1124",
+   "excerpt": "“TangiMap” uses an AI agent to reprogram how buttons, knobs, and sliders are used, helping users do things like edit photos and perform music in a more dynamic, tactile way.",
+   "date": "2026-11-24T14:30:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
+  },
+  {
+   "title": "World Cup drove profits surge, says Marston's",
+   "link": "https://www.bbc.co.uk/news/articles/cm7523pyk75lo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The company says an \"excellent World Cup\" helped drive strong trading as annual profits rose by 18%.",
+   "date": "2026-11-24T13:03:20+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "What if excess renewable energy could power new industrial processes?",
+   "link": "https://news.mit.edu/2026/excess-renewable-energy-could-power-new-industrial-processes-1124",
+   "excerpt": "Excess electricity from solar and wind generation could become widely available across the U.S. and then tapped to manufacture materials or run data centers, scientists say.",
+   "date": "2026-11-24T11:30:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
+  },
+  {
+   "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+   "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+   "date": "2026-11-24T10:53:37+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
    "title": "Best fiction 2026",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/best-fiction-2026.html?utm_source=rss&utm_medium=rss&utm_campaign=best-fiction-2026",
    "excerpt": "This year brought a remarkably strong showing in fiction. Here is my list in the order I read them: Siri Hustvedt, Ghost Stories: A Memoir. Karl Knausgaard, The School of Night. Juan Marsé, Last Evenings with Teresa…",
@@ -80,18 +168,18 @@
    "topic": "Economy"
   },
   {
-   "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-   "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
-   "date": "2026-11-24T04:36:31+00:00",
+   "title": "The shake-up facing renters as a new kind of landlord emerges",
+   "link": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Companies building flats that they then rent out could usher in big changes for renters.",
+   "date": "2026-11-24T00:28:48+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
   {
-   "title": "Britain's landlords are getting bigger. A two-tier rental market may follow",
-   "link": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Increasing numbers of corporate landlords could usher in big changes for renters",
-   "date": "2026-11-24T00:28:48+00:00",
+   "title": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
+   "link": "https://www.bbc.co.uk/news/articles/c8d36d43y8po?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The breeder's rating was downgraded but he continued to advertise as five-star, investigation finds.",
+   "date": "2026-11-24T00:11:08+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
@@ -152,14 +240,6 @@
    "topic": "Business"
   },
   {
-   "title": "Faisal Islam: Why Jensen Huang proved too big to fire",
-   "link": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Huang's role at the centre of his company's journey to lynchpin of AI proved crucial.",
-   "date": "2026-11-23T17:11:58+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "Monday assorted links",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/monday-assorted-links-587.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-587",
    "excerpt": "1. Why so many arranged marriages in South Asia? 2. Why are we so good at feeling bad? (New Yorker) 3. Gateways into East Africa. 4. Progress involves some degree of higher risk and failure (NYT). 5. What top chess…",
@@ -176,28 +256,12 @@
    "topic": "Tech"
   },
   {
-   "title": "How important are Nvidia and Jensen Huang to the US economy?",
-   "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
-   "date": "2026-11-23T16:12:35+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "J-PAL North America launches Medicaid Learning Lab to help state agencies test, learn, and improve health care delivery",
    "link": "https://news.mit.edu/2026/j-pal-north-america-launches-medicaid-learning-lab-1123",
    "excerpt": "The lab will support four state Medicaid agencies in building capacity to use evidence in their decision-making.",
    "date": "2026-11-23T15:55:00-05:00",
    "source": "MIT News",
    "topic": "Tech"
-  },
-  {
-   "title": "The rise and fall and rise again of Jensen Huang",
-   "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
-   "date": "2026-11-23T15:49:52+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "The Incredible, Elegant DNA Repair System Makes Gene Editing Work",
@@ -230,22 +294,6 @@
    "date": "2026-11-23T15:12:49+00:00",
    "source": "freeCodeCamp",
    "topic": "Tech"
-  },
-  {
-   "title": "Nvidia reinstates CEO after affair with alleged spy",
-   "link": "https://www.bbc.co.uk/news/videos/cqze7lwdglngo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Senior US government officials backed Nvidia's decision to reinstate Jensen Huang, the company says in a statement.",
-   "date": "2026-11-23T14:51:05+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Welfare cuts: What's been happening with Pip and universal credit?",
-   "link": "https://www.bbc.co.uk/news/articles/cj924xvzrr2o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The government commissioned a review into Pip last year after it was forced to water down planned cuts to benefits.",
-   "date": "2026-11-23T13:52:40+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "Still Unproven: Can Britain Build a Tunnel?",
@@ -300,22 +348,6 @@
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/danish-daughters.html?utm_source=rss&utm_medium=rss&utm_campaign=danish-daughters",
    "excerpt": "Using Danish administrative data, we compare parents of only children who experience a stroke at the same age and differ only in the gender of their child. Before the stroke, parents of daughters and parents of sons…",
    "date": "2026-11-22T07:40:20+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
-   "title": "Will AI Growth Reach the Developing World?",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/will-ai-growth-reach-the-developing-world.html?utm_source=rss&utm_medium=rss&utm_campaign=will-ai-growth-reach-the-developing-world",
-   "excerpt": "Here is the abstract from a new NBER paper by Daniel Björkegren, David Lagakos & Mitchell VanVuren: This paper explores how economic growth driven by AI will impact the developing world. Our analysis is based on a…",
-   "date": "2026-11-22T06:14:28+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
-   "title": "Saturday assorted links",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/saturday-assorted-links-587.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-587",
-   "excerpt": "1. Many federal agencies are hiring economists. 2. Theodore Zeldin, RIP. 3. Henry Oliver on Paradise Lost. 4. Quantum computing even weirder than you think? (NYT) And an article bullish on quantum computing (NYT). 5.…",
-   "date": "2026-11-21T16:41:52+00:00",
    "source": "Marginal Revolution",
    "topic": "Economy"
   },
@@ -432,22 +464,6 @@
    "topic": "Tech"
   },
   {
-   "title": "If tiny “primordial” black holes exist, here’s how we might find them",
-   "link": "https://news.mit.edu/2026/if-tiny-primordial-black-holes-exist-heres-how-we-might-find-them-1119",
-   "excerpt": "When engulfed by a star, the small but massive object should devour the star from within, leading to a detectable explosion, a new study proposes.",
-   "date": "2026-11-19T10:00:00-05:00",
-   "source": "MIT News",
-   "topic": "Tech"
-  },
-  {
-   "title": "Study reveals data centers’ long-distance damage to air quality",
-   "link": "https://news.mit.edu/2026/study-reveals-data-centers-long-distance-damage-air-quality-1119",
-   "excerpt": "Researchers find air pollution from data center electricity use can affect communities far from the facilities, with some of the highest impacts in the Midwest.",
-   "date": "2026-11-19T09:00:00-05:00",
-   "source": "MIT News",
-   "topic": "Tech"
-  },
-  {
    "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
    "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
    "excerpt": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
@@ -476,14 +492,6 @@
    "link": "https://www.freecodecamp.org/news/build-nlp-pipeline-python-therapy-notes/",
    "excerpt": "Therapy progress notes are written records of what happened during a therapy session. They may include what a client said, what the therapist observed, the topics discussed, and plans for the next ses",
    "date": "2026-11-17T00:34:12+00:00",
-   "source": "freeCodeCamp",
-   "topic": "Tech"
-  },
-  {
-   "title": "How to Build a Translator with Chrome’s Built-In AI",
-   "link": "https://www.freecodecamp.org/news/how-to-build-a-translator-with-chrome-s-built-in-ai/",
-   "excerpt": "Most translation features work the same way. The user types text, your app sends it to a translation API, and the API sends a translation back. That works, but every request adds cost and latency, and",
-   "date": "2026-11-17T00:18:42+00:00",
    "source": "freeCodeCamp",
    "topic": "Tech"
   },
@@ -572,14 +580,6 @@
    "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
    "excerpt": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
    "date": "2026-10-29T20:30:00+00:00",
-   "source": "Federal Reserve",
-   "topic": "Economy"
-  },
-  {
-   "title": "Federal Reserve issues FOMC statement",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
-   "excerpt": "Federal Reserve issues FOMC statement",
-   "date": "2026-10-28T18:00:00+00:00",
    "source": "Federal Reserve",
    "topic": "Economy"
   },
