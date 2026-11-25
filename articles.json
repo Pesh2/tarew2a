@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T19:52:59.447451+00:00",
+ "updated": "2026-11-25T03:55:15.862574+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -64,6 +64,102 @@
  ],
  "articles": [
   {
+   "title": "US attorney general dodges questions about Nvidia investigation",
+   "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+   "date": "2026-11-25T03:44:07+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+   "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The verdict follows a months-long trial in New York.",
+   "date": "2026-11-25T02:59:27+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "With Huang rescue, Trump riskily ties his political fortunes to Nvidia",
+   "link": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
+   "date": "2026-11-25T01:03:05+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "The rising cost of putting food on the table in India",
+   "link": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "India's food inflation is broadening, squeezing household budgets.",
+   "date": "2026-11-25T01:02:13+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "US preparing to unveil plan for new tariffs on global trading partners",
+   "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+   "date": "2026-11-25T00:38:01+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Why tiny cars are taking off across Europe",
+   "link": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
+   "date": "2026-11-25T00:34:05+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "What will the energy cap changes mean for my bills?",
+   "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Regulator Ofgem is raising the cap affecting the energy bills of millions of households.",
+   "date": "2026-11-25T00:33:25+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "What will the energy cap changes mean for my bills?",
+   "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Regulator Ofgem is raising the cap affecting the energy bills of millions of households.",
+   "date": "2026-11-25T00:33:25+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
+   "link": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The BBC speaks to three people about steps they take to keep their energy bills under control.",
+   "date": "2026-11-25T00:30:52+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
+   "link": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The BBC speaks to three people about steps they take to keep their energy bills under control.",
+   "date": "2026-11-25T00:30:52+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Households braced for soaring energy bills with new price cap to be announced",
+   "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Domestic gas prices will rise significantly in January under regulator Ofgem's new price cap.",
+   "date": "2026-11-25T00:29:58+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Households braced for soaring energy bills with new price cap to be announced",
+   "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Domestic gas prices will rise significantly in January under regulator Ofgem's new price cap.",
+   "date": "2026-11-25T00:29:58+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
    "title": "Gambling for Goals",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/gambling-for-goals.html?utm_source=rss&utm_medium=rss&utm_campaign=gambling-for-goals",
    "excerpt": "Young adults in advanced economies have grown more pessimistic about their economic prospects in recent years. At the same time, gambling-like financial activities have proliferated. We link these trends through a…",
@@ -80,28 +176,12 @@
    "topic": "Economy"
   },
   {
-   "title": "US attorney general dodges questions about Nvidia investigation",
-   "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-   "date": "2026-11-24T18:55:59+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Faisal Islam: Fears over the AI boom haven't gone away",
-   "link": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
-   "date": "2026-11-24T18:21:43+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Four generations of a family working in one factory",
-   "link": "https://www.bbc.co.uk/news/videos/ck7v2r6j1yl3o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Four generations of the Avis family have now worked at Sweetnam & Bradley in Malmesbury.",
-   "date": "2026-11-24T16:42:46+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
+   "title": "3 Questions: Tackling energy challenges in a changing world",
+   "link": "https://news.mit.edu/2026/3-questions-tackling-energy-challenges-changing-world-1124",
+   "excerpt": "As the MIT Energy Initiative marks 20 years since its founding, Director William Green reflects on past successes and future challenges to solve.",
+   "date": "2026-11-24T17:25:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
   },
   {
    "title": "Tuesday assorted links",
@@ -128,28 +208,12 @@
    "topic": "Tech"
   },
   {
-   "title": "World Cup drove profits surge, says Marston's",
-   "link": "https://www.bbc.co.uk/news/articles/cm7523pyk75lo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The company says an \"excellent World Cup\" helped drive strong trading as annual profits rose by 18%.",
-   "date": "2026-11-24T13:03:20+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "What if excess renewable energy could power new industrial processes?",
    "link": "https://news.mit.edu/2026/excess-renewable-energy-could-power-new-industrial-processes-1124",
    "excerpt": "Excess electricity from solar and wind generation could become widely available across the U.S. and then tapped to manufacture materials or run data centers, scientists say.",
    "date": "2026-11-24T11:30:00-05:00",
    "source": "MIT News",
    "topic": "Tech"
-  },
-  {
-   "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-   "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
-   "date": "2026-11-24T10:53:37+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "Best fiction 2026",
@@ -168,30 +232,6 @@
    "topic": "Economy"
   },
   {
-   "title": "The shake-up facing renters as a new kind of landlord emerges",
-   "link": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Companies building flats that they then rent out could usher in big changes for renters.",
-   "date": "2026-11-24T00:28:48+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
-   "link": "https://www.bbc.co.uk/news/articles/c8d36d43y8po?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The breeder's rating was downgraded but he continued to advertise as five-star, investigation finds.",
-   "date": "2026-11-24T00:11:08+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
-   "link": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Busy mothers on both sides of the Atlantic are paying companies to handle their to-do lists.",
-   "date": "2026-11-24T00:01:04+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "Arianna Doss: Prescribing change",
    "link": "https://news.mit.edu/2026/arianna-doss-prescribes-change-1124",
    "excerpt": "When she isn’t scoring on the soccer field, the MIT senior and 2027 Rhodes Scholar works toward a future as a physician and policymaker advancing health equity.",
@@ -200,44 +240,12 @@
    "topic": "Tech"
   },
   {
-   "title": "A comeback for the ages: Trump's influence on Huang's return to Nvidia",
-   "link": "https://www.bbc.co.uk/news/videos/ckp80d5nl586o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The BBC's business correspondent Michelle Fleury explains what role Trump's support played in Huang's comeback.",
-   "date": "2026-11-23T21:40:30+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
-   "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
-   "date": "2026-11-23T21:23:42+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "The AI gains that gdp misses",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/the-ai-gains-that-gdp-misses.html?utm_source=rss&utm_medium=rss&utm_campaign=the-ai-gains-that-gdp-misses",
    "excerpt": "That is a recent essay of mine, published in The Humanist Review of AI. Excerpt: One way to think of these matching gains is to say that AI helps consumers get hold of more customized products. The effective, available…",
    "date": "2026-11-23T18:44:20+00:00",
    "source": "Marginal Revolution",
    "topic": "Economy"
-  },
-  {
-   "title": "'Biggest U-turn in economic history': Experts react to Jensen Huang's return to Nvidia",
-   "link": "https://www.bbc.co.uk/news/videos/cq8r7e35mkzlo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The Nvidia CEO was reinstated after weeks of controversy over his affair with an alleged Chinese spy.",
-   "date": "2026-11-23T18:43:00+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Pip assessments need 'fundamental overhaul', report to say",
-   "link": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
-   "date": "2026-11-23T17:59:55+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "Monday assorted links",
@@ -452,14 +460,6 @@
    "link": "https://news.mit.edu/2026/ultrasound-imaging-without-gel-1119",
    "excerpt": "A new dry material could replace the traditional goopy gel for wearable ultrasound patches.",
    "date": "2026-11-19T14:00:00-05:00",
-   "source": "MIT News",
-   "topic": "Tech"
-  },
-  {
-   "title": "Scientists create the first whole-body single-cell atlas of an adult vertebrate",
-   "link": "https://news.mit.edu/2026/first-whole-body-single-cell-atlas-adult-vertebrate-1119",
-   "excerpt": "Researchers mapped gene activity across the entire body of a tiny fish, creating a resource for studying brain regeneration, cellular diversity, and tissue function.",
-   "date": "2026-11-19T12:00:00-05:00",
    "source": "MIT News",
    "topic": "Tech"
   },
