@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T03:55:15.862574+00:00",
+ "updated": "2026-11-25T16:40:30.847441+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -64,66 +64,90 @@
  ],
  "articles": [
   {
-   "title": "US attorney general dodges questions about Nvidia investigation",
-   "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-   "date": "2026-11-25T03:44:07+00:00",
+   "title": "Poundland collapses putting 11,000 jobs at risk",
+   "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The discount chain has collapsed into administration after its owners failed to find a buyer.",
+   "date": "2026-11-25T16:24:30+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
   {
-   "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-   "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The verdict follows a months-long trial in New York.",
-   "date": "2026-11-25T02:59:27+00:00",
+   "title": "Why has Poundland collapsed and what happens next?",
+   "link": "https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The retail chain has collapsed just one year after being bought for £1 by an American firm.",
+   "date": "2026-11-25T16:24:30+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
   {
-   "title": "With Huang rescue, Trump riskily ties his political fortunes to Nvidia",
-   "link": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
-   "date": "2026-11-25T01:03:05+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "The rising cost of putting food on the table in India",
-   "link": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "India's food inflation is broadening, squeezing household budgets.",
-   "date": "2026-11-25T01:02:13+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "US preparing to unveil plan for new tariffs on global trading partners",
+   "title": "US announces new tariffs on host of countries including China",
    "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
    "excerpt": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-   "date": "2026-11-25T00:38:01+00:00",
+   "date": "2026-11-25T16:21:34+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
   {
-   "title": "Why tiny cars are taking off across Europe",
-   "link": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
-   "date": "2026-11-25T00:34:05+00:00",
+   "title": "US stocks fall further as fears over AI intensify",
+   "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+   "date": "2026-11-25T16:07:26+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
   {
-   "title": "What will the energy cap changes mean for my bills?",
-   "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Regulator Ofgem is raising the cap affecting the energy bills of millions of households.",
-   "date": "2026-11-25T00:33:25+00:00",
+   "title": "Energy price increase 'could put me in hospital'",
+   "link": "https://www.bbc.co.uk/news/articles/cm5y1g42x2wzo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "People on Teesside share their views on the news energy bills are expected to increase by 26%.",
+   "date": "2026-11-25T16:06:25+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
   {
-   "title": "What will the energy cap changes mean for my bills?",
-   "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Regulator Ofgem is raising the cap affecting the energy bills of millions of households.",
-   "date": "2026-11-25T00:33:25+00:00",
+   "title": "Fuel price hike will make life 'almost impossible'",
+   "link": "https://www.bbc.co.uk/news/articles/c6rrgqknw0jlo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The Fuel Bank Foundation says many homes are already cutting back and struggling with bills.",
+   "date": "2026-11-25T14:37:44+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Novel Experiments Expand the Hunt for ‘Ultralight’ Dark Matter",
+   "link": "https://www.quantamagazine.org/novel-experiments-expand-the-hunt-for-ultralight-dark-matter-20261125/",
+   "excerpt": "Scientists are inventing new ways to search for the missing mass of the universe. The post Novel Experiments Expand the Hunt for ‘Ultralight’ Dark Matter first appeared on Quanta Magazine",
+   "date": "2026-11-25T14:00:49+00:00",
+   "source": "Quanta Magazine",
+   "topic": "Math & Science"
+  },
+  {
+   "title": "Energy bills to rise by 26% from January after gas prices surge",
+   "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.",
+   "date": "2026-11-25T13:42:08+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Energy bills to rise by 26% from January after gas prices surge",
+   "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.",
+   "date": "2026-11-25T13:42:08+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Why are bills going up?",
+   "link": "https://www.bbc.co.uk/news/videos/cm3wg47gnjnno?at_medium=RSS&at_campaign=rss",
+   "excerpt": "BBC correspondent Colletta Smith explains the January increase.",
+   "date": "2026-11-25T13:24:29+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "My husband lives off sandwiches due to energy costs",
+   "link": "https://www.bbc.co.uk/news/videos/c539gz4nmjm9o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "A woman already in energy debt says anxiety is \"through the roof\" over further increases.",
+   "date": "2026-11-25T13:14:52+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
@@ -131,33 +155,65 @@
    "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
    "link": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
    "excerpt": "The BBC speaks to three people about steps they take to keep their energy bills under control.",
-   "date": "2026-11-25T00:30:52+00:00",
+   "date": "2026-11-25T12:12:11+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
   {
-   "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
-   "link": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The BBC speaks to three people about steps they take to keep their energy bills under control.",
-   "date": "2026-11-25T00:30:52+00:00",
+   "title": "Draining peatlands leaves a long legacy of warming",
+   "link": "https://news.mit.edu/2026/draining-peatlands-leaves-long-warming-legacy-1125",
+   "excerpt": "A new study finds the long-term decomposition of drained bogs, fens, and swamps is responsible for about 3 percent of human-caused climate warming.",
+   "date": "2026-11-25T11:00:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
+  },
+  {
+   "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+   "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The verdict follows a months-long trial in New York.",
+   "date": "2026-11-25T10:52:09+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
   {
-   "title": "Households braced for soaring energy bills with new price cap to be announced",
-   "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Domestic gas prices will rise significantly in January under regulator Ofgem's new price cap.",
-   "date": "2026-11-25T00:29:58+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
+   "title": "How did the United States become a lawyerly society?",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/how-did-the-united-states-become-a-lawyerly-society.html?utm_source=rss&utm_medium=rss&utm_campaign=how-did-the-united-states-become-a-lawyerly-society",
+   "excerpt": "Between 1970 and 1990 the U.S. legal services industry underwent a dramatic demand shift. Its employment share more than doubled and the relative wages of lawyers rose by 60%, in contrast to stability before and after.…",
+   "date": "2026-11-25T10:18:10+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
   },
   {
-   "title": "Households braced for soaring energy bills with new price cap to be announced",
-   "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Domestic gas prices will rise significantly in January under regulator Ofgem's new price cap.",
-   "date": "2026-11-25T00:29:58+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
+   "title": "Avoiding disempowerment through protectionism?",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/avoiding-disempowerment-through-protectionism.html?utm_source=rss&utm_medium=rss&utm_campaign=avoiding-disempowerment-through-protectionism",
+   "excerpt": "Recently many people are debating whether AI will lead to our disempowerment. One simple example is that we might use AI to pursue or solve various intellectual tasks for us, rather than doing it ourselves. So say there…",
+   "date": "2026-11-25T05:44:00+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "How to Set Up and Customize Light and Dark Mode in shadcn with Next.js",
+   "link": "https://www.freecodecamp.org/news/how-to-set-up-and-customize-light-and-dark-mode-in-shadcn-with-next-js/",
+   "excerpt": "If you've created a Next.js project with shadcn/ui recently, there's a good chance dark mode is already set up. I noticed this while looking through a fresh project. I opened app/globals.css expecting",
+   "date": "2026-11-25T00:14:03+00:00",
+   "source": "freeCodeCamp",
+   "topic": "Tech"
+  },
+  {
+   "title": "Electric seaglider created by MIT alumni takes flight",
+   "link": "https://news.mit.edu/2026/electric-seaglider-from-mit-alumni-takes-flight-1125",
+   "excerpt": "Hoping to combine the speed of planes with the affordability of ferries, Regent Craft is developing a quiet, more sustainable mode of maritime transportation.",
+   "date": "2026-11-25T00:00:00-05:00",
+   "source": "MIT News",
+   "topic": "Tech"
+  },
+  {
+   "title": "How Phishing Attacks Actually Work (And How Developers Can Spot Them)",
+   "link": "https://www.freecodecamp.org/news/how-phishing-attacks-work/",
+   "excerpt": "Phishing attacks are getting harder to recognize. And no, it isn't just because hackers have become better at hiding spelling mistakes. Some phishing emails now look almost identical to genuine securi",
+   "date": "2026-11-24T22:32:36+00:00",
+   "source": "freeCodeCamp",
+   "topic": "Tech"
   },
   {
    "title": "Gambling for Goals",
@@ -344,22 +400,6 @@
    "topic": "Economy"
   },
   {
-   "title": "Sunday assorted links",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-591.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-591",
-   "excerpt": "1. Jonathan Yardley, RIP (NYT). One of the great book reviewers. 2. Summary of the RH proof. 3. A site collecting my talks and links. 4. Humans were never in control. 5. The Buddhist AI cult? (New Yorker) 6. Teortaxes…",
-   "date": "2026-11-22T17:31:05+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
-   "title": "Danish daughters",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/danish-daughters.html?utm_source=rss&utm_medium=rss&utm_campaign=danish-daughters",
-   "excerpt": "Using Danish administrative data, we compare parents of only children who experience a stroke at the same age and differ only in the gender of their child. Before the stroke, parents of daughters and parents of sons…",
-   "date": "2026-11-22T07:40:20+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
    "title": "Federal Reserve announces College Fed Challenge winners",
    "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
    "excerpt": "Federal Reserve announces College Fed Challenge winners",
@@ -440,28 +480,12 @@
    "topic": "Tech"
   },
   {
-   "title": "AI helps researchers investigate how thousands of medical studies share code",
-   "link": "https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119",
-   "excerpt": "An MIT and Dana-Farber Institute-led team used large language models to examine nearly 4,000 studies and hundreds of code repositories, revealing gaps in the information needed to scrutinize and reuse published research.",
-   "date": "2026-11-19T17:15:00-05:00",
-   "source": "MIT News",
-   "topic": "Tech"
-  },
-  {
    "title": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
    "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm",
    "excerpt": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
    "date": "2026-11-19T16:00:00+00:00",
    "source": "Federal Reserve",
    "topic": "Economy"
-  },
-  {
-   "title": "Ultrasound imaging without the gel",
-   "link": "https://news.mit.edu/2026/ultrasound-imaging-without-gel-1119",
-   "excerpt": "A new dry material could replace the traditional goopy gel for wearable ultrasound patches.",
-   "date": "2026-11-19T14:00:00-05:00",
-   "source": "MIT News",
-   "topic": "Tech"
   },
   {
    "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
@@ -478,22 +502,6 @@
    "date": "2026-11-18T15:51:40+00:00",
    "source": "Quanta Magazine",
    "topic": "Math & Science"
-  },
-  {
-   "title": "Learn Data Structures and Algorithms in Python with Visualizations",
-   "link": "https://www.freecodecamp.org/news/learn-data-structures-and-algorithms-in-python-with-visualizations/",
-   "excerpt": "Data structures such as arrays, linked lists, stacks, queues, hash tables, trees, heaps, and graphs determine how a program stores data and how fast it can search, insert, and remove items. Big O nota",
-   "date": "2026-11-18T15:48:16+00:00",
-   "source": "freeCodeCamp",
-   "topic": "Tech"
-  },
-  {
-   "title": "How to Build an NLP Pipeline in Python to Analyze Therapy Progress Notes",
-   "link": "https://www.freecodecamp.org/news/build-nlp-pipeline-python-therapy-notes/",
-   "excerpt": "Therapy progress notes are written records of what happened during a therapy session. They may include what a client said, what the therapist observed, the topics discussed, and plans for the next ses",
-   "date": "2026-11-17T00:34:12+00:00",
-   "source": "freeCodeCamp",
-   "topic": "Tech"
   },
   {
    "title": "What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing.",
@@ -518,14 +526,6 @@
    "date": "2026-11-13T21:15:00+00:00",
    "source": "Federal Reserve",
    "topic": "Economy"
-  },
-  {
-   "title": "Can Network Science Transform Health and Nutrition?",
-   "link": "https://www.quantamagazine.org/can-network-science-transform-health-and-nutrition-20261112/",
-   "excerpt": "Albert-László Barabási explains how the same organizing principles shape everything from the internet to the cell, and how mapping the networks inside our bodies could change how we treat disease and think about food.…",
-   "date": "2026-11-12T19:40:54+00:00",
-   "source": "Quanta Magazine",
-   "topic": "Math & Science"
   },
   {
    "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
