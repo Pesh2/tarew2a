@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T16:40:30.847441+00:00",
+ "updated": "2026-11-26T01:27:56.290330+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -64,26 +64,26 @@
  ],
  "articles": [
   {
-   "title": "Poundland collapses putting 11,000 jobs at risk",
-   "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The discount chain has collapsed into administration after its owners failed to find a buyer.",
-   "date": "2026-11-25T16:24:30+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Why has Poundland collapsed and what happens next?",
-   "link": "https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The retail chain has collapsed just one year after being bought for £1 by an American firm.",
-   "date": "2026-11-25T16:24:30+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "US announces new tariffs on host of countries including China",
    "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
    "excerpt": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-   "date": "2026-11-25T16:21:34+00:00",
+   "date": "2026-11-26T01:20:14+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "US approves SpaceX plan to send a million data satellites to space",
+   "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+   "date": "2026-11-26T00:07:51+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Guitar wars - the transatlantic battle over the Stratocaster",
+   "link": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "US company Fender is in dispute with a German firm that makes generic versions of its key model.",
+   "date": "2026-11-26T00:01:37+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
@@ -91,7 +91,71 @@
    "title": "US stocks fall further as fears over AI intensify",
    "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
    "excerpt": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
-   "date": "2026-11-25T16:07:26+00:00",
+   "date": "2026-11-25T21:43:18+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Poundland collapses putting 11,000 jobs at risk",
+   "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The discount chain has fallen into administration after its owners failed to find a buyer.",
+   "date": "2026-11-25T21:31:10+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "How Wearables Can Turn Your Body Into a Dashboard",
+   "link": "https://www.freecodecamp.org/news/how-wearables-can-turn-your-body-into-a-dashboard/",
+   "excerpt": "Have you ever found yourself waking up feeling perfectly normal and then being told by your wearable app that you've slept poorly? And perhaps not only that, but somehow finding yourself starting to f",
+   "date": "2026-11-25T20:11:21+00:00",
+   "source": "freeCodeCamp",
+   "topic": "Tech"
+  },
+  {
+   "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
+   "excerpt": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+   "date": "2026-11-25T20:00:00+00:00",
+   "source": "Federal Reserve",
+   "topic": "Economy"
+  },
+  {
+   "title": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125a.htm",
+   "excerpt": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+   "date": "2026-11-25T20:00:00+00:00",
+   "source": "Federal Reserve",
+   "topic": "Economy"
+  },
+  {
+   "title": "How to Deploy to Amazon S3 Using GitLab CI/CD and AWS OIDC Without AWS Access Keys",
+   "link": "https://www.freecodecamp.org/news/how-to-deploy-to-amazon-s3-using-gitlab-ci-cd-and-aws-oidc-without-aws-access-keys/",
+   "excerpt": "When you're learning AWS, Amazon S3 is one of the services you're likely to come across early. Storage is one of the core components of cloud computing, and S3 makes it easy to store and manage files",
+   "date": "2026-11-25T19:49:25+00:00",
+   "source": "freeCodeCamp",
+   "topic": "Tech"
+  },
+  {
+   "title": "What we know about Trump's Thanksgiving tariffs",
+   "link": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Donald Trump is targeting China, the European Union and 12 other jurisdictions in a new round of tariffs.",
+   "date": "2026-11-25T19:38:05+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "AI in research",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/ai-in-research.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-in-research",
+   "excerpt": "We found that recent frontier models are now consistently proposing research designs that human and LLM graders alike judge more compelling than what the very top expert in the field has been developing. Yet these…",
+   "date": "2026-11-25T18:51:23+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "Martin Lewis' tips on staying warm this winter",
+   "link": "https://www.bbc.co.uk/news/videos/cjr4gw12k2lwo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Energy bills will soar by 26% for millions of households in January after a surge in gas prices sparked by the Iran war.",
+   "date": "2026-11-25T17:59:14+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
@@ -99,15 +163,47 @@
    "title": "Energy price increase 'could put me in hospital'",
    "link": "https://www.bbc.co.uk/news/articles/cm5y1g42x2wzo?at_medium=RSS&at_campaign=rss",
    "excerpt": "People on Teesside share their views on the news energy bills are expected to increase by 26%.",
-   "date": "2026-11-25T16:06:25+00:00",
+   "date": "2026-11-25T17:26:13+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
   {
-   "title": "Fuel price hike will make life 'almost impossible'",
-   "link": "https://www.bbc.co.uk/news/articles/c6rrgqknw0jlo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The Fuel Bank Foundation says many homes are already cutting back and struggling with bills.",
-   "date": "2026-11-25T14:37:44+00:00",
+   "title": "Wednesday assorted links",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/wednesday-assorted-links-581.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-581",
+   "excerpt": "1. Macrohistory in six facts. 2. Patrick Collison on Tocqueville. 3. The minimum wage: current vs. lifetime perspectives. By Francisco Libano-Monteiro, on the economics job market from LSE. 4. Kurt Rosenwinkel, Ruby My…",
+   "date": "2026-11-25T17:20:25+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
+  {
+   "title": "What's gone wrong at Poundland?",
+   "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Poundland has collapse into administration. Why?",
+   "date": "2026-11-25T17:00:32+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Scots react to news of rising energy prices",
+   "link": "https://www.bbc.co.uk/news/videos/cmqlq07d71yko?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Scots describe how an increase in energy bills will affect them.",
+   "date": "2026-11-25T16:56:47+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Scots react to news of rising energy prices",
+   "link": "https://www.bbc.co.uk/news/videos/cmqlq07d71yko?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Scots describe how an increase in energy bills will affect them.",
+   "date": "2026-11-25T16:56:47+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+   "link": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
+   "date": "2026-11-25T16:42:11+00:00",
    "source": "BBC Business",
    "topic": "Business"
   },
@@ -120,60 +216,12 @@
    "topic": "Math & Science"
   },
   {
-   "title": "Energy bills to rise by 26% from January after gas prices surge",
-   "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.",
-   "date": "2026-11-25T13:42:08+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Energy bills to rise by 26% from January after gas prices surge",
-   "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.",
-   "date": "2026-11-25T13:42:08+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Why are bills going up?",
-   "link": "https://www.bbc.co.uk/news/videos/cm3wg47gnjnno?at_medium=RSS&at_campaign=rss",
-   "excerpt": "BBC correspondent Colletta Smith explains the January increase.",
-   "date": "2026-11-25T13:24:29+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "My husband lives off sandwiches due to energy costs",
-   "link": "https://www.bbc.co.uk/news/videos/c539gz4nmjm9o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "A woman already in energy debt says anxiety is \"through the roof\" over further increases.",
-   "date": "2026-11-25T13:14:52+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
-   "link": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The BBC speaks to three people about steps they take to keep their energy bills under control.",
-   "date": "2026-11-25T12:12:11+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "Draining peatlands leaves a long legacy of warming",
    "link": "https://news.mit.edu/2026/draining-peatlands-leaves-long-warming-legacy-1125",
    "excerpt": "A new study finds the long-term decomposition of drained bogs, fens, and swamps is responsible for about 3 percent of human-caused climate warming.",
    "date": "2026-11-25T11:00:00-05:00",
    "source": "MIT News",
    "topic": "Tech"
-  },
-  {
-   "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
-   "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The verdict follows a months-long trial in New York.",
-   "date": "2026-11-25T10:52:09+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "How did the United States become a lawyerly society?",
@@ -376,28 +424,12 @@
    "topic": "Economy"
   },
   {
-   "title": "Best non-fiction books of 2026",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/best-non-fiction-books-of-2026.html?utm_source=rss&utm_medium=rss&utm_campaign=best-non-fiction-books-of-2026",
-   "excerpt": "These are in the order I read them, and behind the link is either my post on the book or simply the Amazon page: Alan Allport, Advance Britannia: The Epic Story of the Second World War, 1942-1945. Anna Arno, Paul Celan:…",
-   "date": "2026-11-23T06:10:57+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
-  },
-  {
    "title": "AI-driven technique could help engineers design analog chips faster and with less expense",
    "link": "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123",
    "excerpt": "The “SLIC” training method enables a small LLM to compete with much more resource-intensive models in complex circuit design tasks.",
    "date": "2026-11-23T00:00:00-05:00",
    "source": "MIT News",
    "topic": "Tech"
-  },
-  {
-   "title": "Increasing pay for lower wage workers",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/increasing-pay-for-lower-wage-workers.html?utm_source=rss&utm_medium=rss&utm_campaign=increasing-pay-for-lower-wage-workers",
-   "excerpt": "From 2014 to 2024, the share of U.S. hourly workers paid below $15 in real terms fell by two-thirds, from 38 percent to 13 percent. Why? We first distinguish the entry and exit of employers—wherein high-paying employers…",
-   "date": "2026-11-22T19:24:24+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
   },
   {
    "title": "Federal Reserve announces College Fed Challenge winners",
@@ -460,22 +492,6 @@
    "link": "https://www.freecodecamp.org/news/how-to-generate-synthetic-healthcare-data-using-synthea-a-hands-on-tutorial/",
    "excerpt": "Healthcare generates huge amounts of data every day, from patient visits and lab results to diagnoses, medications, and medical imaging. For developers and data engineers building healthcare applicati",
    "date": "2026-11-19T22:00:42+00:00",
-   "source": "freeCodeCamp",
-   "topic": "Tech"
-  },
-  {
-   "title": "How to Scrape Websites in Python with Olostep",
-   "link": "https://www.freecodecamp.org/news/how-to-scrape-websites-in-python-with-olostep/",
-   "excerpt": "Web scraping in Python usually starts with requests and Beautiful Soup. While this works well for static pages, it gets harder when a site loads content with JavaScript, blocks repeated requests, or c",
-   "date": "2026-11-19T17:54:42+00:00",
-   "source": "freeCodeCamp",
-   "topic": "Tech"
-  },
-  {
-   "title": "How to Build a Browser-Based PDF Password Protector Using JavaScript",
-   "link": "https://www.freecodecamp.org/news/build-pdf-password-protector-javascript/",
-   "excerpt": "Contracts, invoices, medical reports, and scanned ID cards are often converted to PDF files. And if one of them ends up in the wrong inbox or on a shared drive, anyone can open it. Adding a password f",
-   "date": "2026-11-19T17:20:58+00:00",
    "source": "freeCodeCamp",
    "topic": "Tech"
   },
@@ -560,28 +576,12 @@
    "topic": "Economy"
   },
   {
-   "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
-   "excerpt": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
-   "date": "2026-11-05T16:00:00+00:00",
-   "source": "Federal Reserve",
-   "topic": "Economy"
-  },
-  {
    "title": "Around half of people will experience a mental health issue in their lifetime",
    "link": "https://ourworldindata.org/around-half-of-people-will-experience-a-mental-health-issue-in-their-lifetime",
    "excerpt": "What is someone’s risk of developing depression, anxiety, or other mental health issues at some point in their life?",
    "date": "2026-11-02T00:00:00+00:00",
    "source": "Our World in Data",
    "topic": "Data"
-  },
-  {
-   "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
-   "excerpt": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
-   "date": "2026-10-29T20:30:00+00:00",
-   "source": "Federal Reserve",
-   "topic": "Economy"
   },
   {
    "title": "How much development aid is spent on climate change?",
