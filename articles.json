@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T20:50:07.278658+00:00",
+ "updated": "2026-11-27T03:26:56.530916+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -63,6 +63,38 @@
   }
  ],
  "articles": [
+  {
+   "title": "I spend £200 a month on fancy meals by myself - would you dine solo?",
+   "link": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
+   "date": "2026-11-27T00:54:45+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Why is there a shortage of 'wizard' elevator mechanics?",
+   "link": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?",
+   "date": "2026-11-27T00:02:19+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "UK to pay 'participation' fee to deliver EU deals",
+   "link": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Details of the contribution towards EU running costs have been revealed in new legal documents.",
+   "date": "2026-11-26T23:17:12+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Asia made a big AI bet on Nvidia. What happens now?",
+   "link": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.",
+   "date": "2026-11-26T23:08:12+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
   {
    "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
    "link": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
@@ -144,14 +176,6 @@
    "topic": "Business"
   },
   {
-   "title": "Cost of living roadshow highlights support on offer",
-   "link": "https://www.bbc.co.uk/news/articles/cqz0ky4204jlo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "This event in Sheerness is funded by the Crisis and Resilience Fund for those facing cash issues.",
-   "date": "2026-11-26T12:49:07+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "What we are grateful for",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/what-we-are-grateful-for.html?utm_source=rss&utm_medium=rss&utm_campaign=what-we-are-grateful-for",
    "excerpt": "Here is The Free Press symposium. Here is an excerpt from my piece, which has a chance of turning out to be prescient by a day: Since I was born in 1962, what has been the biggest fundamental theoretical breakthrough?…",
@@ -160,36 +184,12 @@
    "topic": "Economy"
   },
   {
-   "title": "New boss appointed to lead Travelodge",
-   "link": "https://www.bbc.co.uk/news/articles/cqx2wx89kg0eo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The new CEO will lead the Thame-based company from 1 December following Jo Boydell's resignation.",
-   "date": "2026-11-26T12:03:49+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
-   "title": "Drivers over 70 face eye tests every three years under new plans",
-   "link": "https://www.bbc.co.uk/news/articles/cjqlqerzv1eyo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "The changes could see drivers over 70 stripped of licences if they do not meet standards.",
-   "date": "2026-11-26T11:21:45+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "Five Facts About Stablecoins",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/five-facts-about-stablecoins.html?utm_source=rss&utm_medium=rss&utm_campaign=five-facts-about-stablecoins",
    "excerpt": "We document five facts about payment stablecoins using wallet-level blockchain data from 2020 to 2025. First, stablecoins serve as a transaction currency: onchain volume exceeds Bitcoin’s despite a much smaller supply,…",
    "date": "2026-11-26T10:50:37+00:00",
    "source": "Marginal Revolution",
    "topic": "Economy"
-  },
-  {
-   "title": "What's gone wrong at Poundland?",
-   "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Poundland has collapse into administration. Why?",
-   "date": "2026-11-26T10:15:47+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
   },
   {
    "title": "My excellent Conversation with Moxie Marlinspike of Signal",
