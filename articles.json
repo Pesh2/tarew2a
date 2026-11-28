@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T00:58:11.051871+00:00",
+ "updated": "2026-11-28T11:16:23.235080+00:00",
  "status": [
   {
    "source": "Quanta Magazine",
@@ -58,11 +58,27 @@
   },
   {
    "source": "FRED Blog",
-   "ok": false,
-   "error": "The read operation timed out"
+   "ok": true,
+   "count": 12
   }
  ],
  "articles": [
+  {
+   "title": "Butcher blames costs for closure after 127 years",
+   "link": "https://www.bbc.co.uk/news/articles/cqe9k3m9mvexo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Bennett Butchers in Spalding says rises in National Insurance and energy have made it \"unviable\".",
+   "date": "2026-11-28T07:18:47+00:00",
+   "source": "BBC Business",
+   "topic": "Business"
+  },
+  {
+   "title": "Disempowerment vs. net disempowerment",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/disempowerment-vs-net-disempowerment.html?utm_source=rss&utm_medium=rss&utm_campaign=disempowerment-vs-net-disempowerment",
+   "excerpt": "Here was my prompt: There are many discussions of “disempowerment” as a result of strong AI, and of whether humans “lose control” or agency. Do any of these discussions offer specific, detailed comparisons of how strong…",
+   "date": "2026-11-28T06:02:07+00:00",
+   "source": "Marginal Revolution",
+   "topic": "Economy"
+  },
   {
    "title": "Friday assorted links",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/friday-assorted-links-601.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-601",
@@ -192,14 +208,6 @@
    "topic": "Business"
   },
   {
-   "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
-   "link": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Other countries have rerouted trade in response to his first tariff salvo, now they are looking beyond Trump's tenure.",
-   "date": "2026-11-26T19:55:58+00:00",
-   "source": "BBC Business",
-   "topic": "Business"
-  },
-  {
    "title": "HumanFish — Predicting Who Actually Wins a Human Chess Game",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/humanfish-predicting-who-actually-wins-a-human-chess-game.html?utm_source=rss&utm_medium=rss&utm_campaign=humanfish-predicting-who-actually-wins-a-human-chess-game",
    "excerpt": "The eval bar on a chess broadcast answers the wrong question. It tells you what happens if two 3600-Elo engines play perfectly with infinite time. What you actually want to know while watching humans play is: who is…",
@@ -302,14 +310,6 @@
    "date": "2026-11-25T11:00:00-05:00",
    "source": "MIT News",
    "topic": "Tech"
-  },
-  {
-   "title": "How did the United States become a lawyerly society?",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/how-did-the-united-states-become-a-lawyerly-society.html?utm_source=rss&utm_medium=rss&utm_campaign=how-did-the-united-states-become-a-lawyerly-society",
-   "excerpt": "Between 1970 and 1990 the U.S. legal services industry underwent a dramatic demand shift. Its employment share more than doubled and the relative wages of lawyers rose by 60%, in contrast to stability before and after.…",
-   "date": "2026-11-25T10:18:10+00:00",
-   "source": "Marginal Revolution",
-   "topic": "Economy"
   },
   {
    "title": "How to Set Up and Customize Light and Dark Mode in shadcn with Next.js",
@@ -432,6 +432,14 @@
    "topic": "Tech"
   },
   {
+   "title": "State and metro employment: Third quarter 2026",
+   "link": "https://fred.stlouisfed.org/blog/2026/11/state-and-metro-employment-third-quarter-2026",
+   "excerpt": "",
+   "date": "2026-11-23T08:54:00-06:00",
+   "source": "FRED Blog",
+   "topic": "Economy"
+  },
+  {
    "title": "AI-driven technique could help engineers design analog chips faster and with less expense",
    "link": "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123",
    "excerpt": "The “SLIC” training method enables a small LLM to compete with much more resource-intensive models in complex circuit design tasks.",
@@ -504,6 +512,14 @@
    "topic": "Economy"
   },
   {
+   "title": "PCE price index excluding energy goods",
+   "link": "https://fred.stlouisfed.org/blog/2026/11/pce-price-index-excluding-energy-goods",
+   "excerpt": "The St Louis Fed now publishes a PCE price index without energy goods, to reduce the volatility in this price index.",
+   "date": "2026-11-19T08:00:00-06:00",
+   "source": "FRED Blog",
+   "topic": "Economy"
+  },
+  {
    "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
    "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
    "excerpt": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
@@ -526,6 +542,14 @@
    "date": "2026-11-16T15:15:33+00:00",
    "source": "Quanta Magazine",
    "topic": "Math & Science"
+  },
+  {
+   "title": "Geographic differences in unemployment definitions",
+   "link": "https://fred.stlouisfed.org/blog/2026/11/geographic-differences-in-unemployment-definitions",
+   "excerpt": "There are six definitions of unemployment, with some constants and some variations, including regional differences.",
+   "date": "2026-11-16T08:00:00-06:00",
+   "source": "FRED Blog",
+   "topic": "Economy"
   },
   {
    "title": "No matter how you ask, more Americans are negative than positive about AI",
@@ -568,11 +592,43 @@
    "topic": "Economy"
   },
   {
+   "title": "Price inflation measured by the Cleveland Fed's median PCE index",
+   "link": "https://fred.stlouisfed.org/blog/2026/11/price-inflation-measured-by-the-cleveland-feds-median-PCE-index",
+   "excerpt": "Median PCE inflation data from the Cleveland Fed help track the underlying trend in consumer prices.",
+   "date": "2026-11-12T08:00:00-06:00",
+   "source": "FRED Blog",
+   "topic": "Economy"
+  },
+  {
    "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
    "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
    "excerpt": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
    "date": "2026-11-09T21:00:00+00:00",
    "source": "Federal Reserve",
+   "topic": "Economy"
+  },
+  {
+   "title": "How the AIES helps BEA measure industry output",
+   "link": "https://fred.stlouisfed.org/blog/2026/11/how-the-aies-helps-bea-measure-industry-output",
+   "excerpt": "The U.S. Census Bureau's Annual Integrated Economic Survey (AIES) is one of the building blocks of the Bureau of Economic Analysis (BEA) industry accounts.",
+   "date": "2026-11-09T08:00:00-06:00",
+   "source": "FRED Blog",
+   "topic": "Economy"
+  },
+  {
+   "title": "Using the Annual Integrated Survey to recalibrate the monthly data",
+   "link": "https://fred.stlouisfed.org/blog/2026/11/using-the-annual-integrated-survey-to-recalibrate-the-monthly-data",
+   "excerpt": "The Census Bureau's Annual Integrated Economic Survey (AIES) is a benchmark to adjust speedier surveys that are released at higher frequencies",
+   "date": "2026-11-05T08:00:00-06:00",
+   "source": "FRED Blog",
+   "topic": "Economy"
+  },
+  {
+   "title": "How do global merchandise exports change over time?",
+   "link": "https://fred.stlouisfed.org/blog/2026/11/how-do-global-merchandise-exports-change-over-time",
+   "excerpt": "Global merchandise exports ebb and flow and undergo large changes in relatively short spans.",
+   "date": "2026-11-02T08:00:00-06:00",
+   "source": "FRED Blog",
    "topic": "Economy"
   },
   {
@@ -584,6 +640,22 @@
    "topic": "Data"
   },
   {
+   "title": "Updates to MSA maps in FRED",
+   "link": "https://fred.stlouisfed.org/blog/2026/10/updates-to-MSA-maps-in-FRED",
+   "excerpt": "FRED updates its metropolitan statistical area (MSA) maps to reflect the U.S. Census Bureau's core-based statistical area delineations.",
+   "date": "2026-10-29T08:00:00-05:00",
+   "source": "FRED Blog",
+   "topic": "Economy"
+  },
+  {
+   "title": "Net domestic product",
+   "link": "https://fred.stlouisfed.org/blog/2026/10/net-domestic-product",
+   "excerpt": "Gross domestic product measures all production. Net domestic product removes production that replaces depreciated goods.",
+   "date": "2026-10-26T08:00:00-05:00",
+   "source": "FRED Blog",
+   "topic": "Economy"
+  },
+  {
    "title": "How much development aid is spent on climate change?",
    "link": "https://ourworldindata.org/how-much-development-aid-is-spent-on-climate-change",
    "excerpt": "Around one-fifth of development aid is spent on climate-related projects. But what does climate-related mean, and does it crowd out other aid projects?",
@@ -592,12 +664,36 @@
    "topic": "Data"
   },
   {
+   "title": "Early signs of AI-driven productivity growth in the information sector?",
+   "link": "https://fred.stlouisfed.org/blog/2026/10/early-signs-of-ai-driven-productivity-growth-in-information-sector",
+   "excerpt": "Since the advent of GenAI, productivity in the information sector has grown much faster than usual and much faster than the overall economy.",
+   "date": "2026-10-22T08:00:00-05:00",
+   "source": "FRED Blog",
+   "topic": "Economy"
+  },
+  {
+   "title": "Which businesses are using AI technology?",
+   "link": "https://fred.stlouisfed.org/blog/2026/10/which-businesses-are-using-ai-technology",
+   "excerpt": "More than half of all businesses paid for an artificial intelligence (AI) product or service. Adoption rates jumped after ChatGPT's public launch in late 2022 and have risen steadily since.",
+   "date": "2026-10-19T08:00:00-05:00",
+   "source": "FRED Blog",
+   "topic": "Economy"
+  },
+  {
    "title": "When do people experience mental health conditions for the first time?",
    "link": "https://ourworldindata.org/when-do-people-experience-mental-health-conditions-for-the-first-time",
    "excerpt": "Knowing when people are most at risk allows us to offer support when it might make the biggest difference.",
    "date": "2026-10-19T00:00:00+00:00",
    "source": "Our World in Data",
    "topic": "Data"
+  },
+  {
+   "title": "Is the Treasury convenience yield rebounding?",
+   "link": "https://fred.stlouisfed.org/blog/2026/10/Is-the-Treasury-convenience-yield-rebounding",
+   "excerpt": "The spread between AAA corporate bonds and Treasuries has widened since October 2025, suggesting a partial recovery in the Treasury convenience yield.",
+   "date": "2026-10-15T08:00:00-05:00",
+   "source": "FRED Blog",
+   "topic": "Economy"
   },
   {
    "title": "A 73% average decline in wildlife populations: an overview of the 2026 Living Planet Index report",
